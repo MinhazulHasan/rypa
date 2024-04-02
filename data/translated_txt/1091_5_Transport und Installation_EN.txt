@@ -1,0 +1,353 @@
+Operating instructions for filling and sealing machine Z-110
+Chapter 5
+ 
+Table of Contents Chapter 5
+5 Transport and installation ................................ ................. ................. .......................... 2
+5.1 Number and mass of transported goods .......................... ............ .................................................... 2
+5.2 Requirements for the installation site ................................ ............. ................... ........................... 3
+5.3 Machine transport ................................ ................ ................ ................................ .. ................................. 4
+5.3.1 Receiving goods / opening the packaging ................................ .......... ...................... ........................ 5
+5.3.2 Fastening the machine to the pallet ................................ ......... ....................... ........................ 6
+5.3.3 Dispose of packaging material ................................ ............. ................... ................................... ........6
+5.3.4 Transporting the machine with a forklift – general ................................ ....... .................7
+5.3.5 Moving the machine on transport rollers - general ................................ ......... ....................... ......10
+5.4 Installing the machine ................................ ................. .................. ................................ ..............11
+5.5 Compressed air connection ................................ ................ ................ ................................ .. ................................. 12
+5.6 Electrical connection ................................ .................. ................. ................................ . ....................14
+ 
+ 
+7Version Changes Author Date
+1.0 Matthias Kunz August 5th, 2021
+      Operating instructions for filling and sealing machine Z-110
+Chapter 5
+ 
+ 
+2/14 5 Transport and installation
+5.1 Number and mass of transported goods
+A separate list with an overview of the contents is attached to each transport item.
+ 
+ 
+    
+ 
+ 
+  Operating instructions for filling and sealing machine Z-110 S
+Chapter 5
+ 
+  3/14 5.2 Requirements for the installation site
+The installation site must meet the following requirements:
+• Special requirements for the installation location are in the specifications or in the order confirmation
+described. These must be taken into account.
+• Closed, clean and dry room.
+• The floor must have sufficient load-bearing capacity (see Chapter 3, Technical data). Uneven-
+units in the ground must not exceed 5 mm.
+• The machine must be freely accessible from all designated sides.
+• There must be sufficient freedom of movement for operating and service personnel. All hinged
+Parts must be able to be opened completely.
+• Low-vibration environment.
+• The installation site must be well lit.
+• The machine must not be exposed to direct heating or direct sunlight.
+Room temperature: +5° to +40°C
+• Relative humidity:
+15 to 60% (interior), no condensation (the rapid onset of corrosion above 60% is prevented by suitable
+te measures to be taken on the parts at risk).
+• If the humidity exceeds 70%, use anti-corrosion agent on the bare metal surfaces.
+nic surfaces. Tropical isolation is also required in this case.
+• Maximum height of the installation site: <1000 m (above sea level)
+• The machine must not be operated in the area of ​​static discharges or magnetic fields
+Otherwise errors may occur in the control.
+    Operating instructions for filling and sealing machine Z-110
+Chapter 5
+ 
+ 
+4/14 5.3 Machine transport
+ CAUTION
+Invalidation of the guarantee
+ 
+Improper transport excludes all liability claims and claims for damages.
+ 
+• Machine and machine parts only in the intended and suitable packaging
+transport
+ 
+ A NOTICE
+Risk of machine damage.
+ 
+Temperature changes, shocks and vibrations can lead to machine damage.
+ 
+• Avoid temperature changes or pack the machine in a warm container.
+protective packaging. Avoid shocks and vibrations or protect the equipment
+shine accordingly.
+ 
+ 
+In the event that the machine is on the road, the skior is transported by sea, the following must be
+following points must be taken into account:
+• Observe the accident prevention regulations of the EU directives and professional associations in the area
+Transportation, as well as local regulations.
+• Protect the machine against moisture and corrosion using suitable packaging material.
+• Transport the machine carefully and do not lift, support or push it on sensitive surfaces.
+areas such as levers, covers, etc.
+• Screw the machine base to the base of the means of transport or crate.
+• When transporting longer packaging machines, a transport rail is attached to the frame
+screwed onto the machine. The machine may then only be transported with the transport rail screwed on.
+ported as it can be damaged without this backup.
+• For transport, only use load-carrying equipment that is suitable and designated for this purpose
+(EC Machinery Directive).
+• Appoint a competent technician to assist with lifting.
+• Only use suitable means of transport with sufficient load capacity.
+• Do not set the machine down suddenly.
+• If you use ropes for lifting, make sure there are no sensitive machine parts
+be damaged as a result.
+• Pay attention to the permitted load capacity of the load-carrying equipment. Use only tested and approved ones
+Load-carrying equipment for which the necessary information is available (EC Machinery Directive).
+• Fasten the control cabinets securely.
+• Secure all accessories included in the machine against slipping.
+• Make sure the machine does not tilt when it is raised.
+  Operating instructions for filling and sealing machine Z-110 S
+Chapter 5
+ 
+  5/14 • If possible, remove all loads that are on load cells or secure them with suitable ones
+Means to avoid damage.
+• Always disconnect the machine from the external power supply, even if there are only small changes in location.
+provisions are provided. Carefully reconnect the machine to the power supply before using it
+put back into operation.
+• Large temperature changes during transport can lead to condensation in the machine.
+ren. This can cause malfunctions or failure of valves or other pneumatic and electrical
+switchgear.
+• The machine is also sensitive to shocks and vibrations.
+ 
+5.3.1 Receiving goods / opening the packaging
+Before opening the packaging, check whether it was damaged during transport.
+If it shows signs of damage, the contents could also be damaged. Leave In
+In this case, return the goods in the condition in which they arrived and immediately notify the Trans-
+port insurance company.
+ 
+When opening the packaging, start from the top. Wear gloves and use appropriate equipment
+Tool, as splinters of wood can come off the packaging.
+• Remove cover and side panels.
+• To remove the protective foil.
+• Inspect the machine for transport damage.
+    Operating instructions for filling and sealing machine Z-110
+Chapter 5
+ 
+ 
+6/14 5.3.2 Fastening the machine to the pallet
+The machine is usually attached to the pallet using clamps with nuts and bolts.
+Clamps are attached to four of the machine feet.
+ 
+ 
+1 machine base
+2 safety nut
+3 clamping piece
+ 4 threaded bolts
+5 mother
+Before the machine is lifted from the pallet:
+• Loosen the safety nut (2) on the machine base (1).
+• Loosen nuts (5) on the clamping pieces (3).
+• Remove the clamping pieces (3)
+ 
+5.3.3 Dispose of packaging material
+After unpacking the machine, sort the packaging material and pack it in accordance with applicable local regulations.
+Dispose of waste.
+  
+1 2 3 4 5 Operating instructions filling and sealing machine Z-110 S
+Chapter 5
+ 
+  7/14 5.3.4 Transporting the machine with a forklift – general
+  WARNING
+Risk of tipping over during transport
+ 
+Improper transport of the machines or machine components can cause them to tip over
+of the machine or machine components. This can result in serious injuries
+caused.
+ 
+• Forklifts with sufficient load capacity, sufficient fork length and sufficient
+the fork distance vuse.
+• Only transport the machine on levels with sufficient load capacity.
+• Position the forklift at the center of gravity of the machine.
+• Secure the machine against slipping.
+ 
+ A NOTICE
+Risk of foot injuries
+ 
+Falling or tipping objects can cause foot injuries.
+ 
+• Wear safety shoes.
+ 
+ A NOTICE
+Risk of head injuries
+ 
+Falling or tipping objects can cause head injuries.
+ 
+• Wear a helmet.
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  Operating instructions for filling and sealing machine Z-110
+Chapter 5
+ 
+ 
+8/14
+ A NOTICE
+Machine damage due to improper transport.
+ 
+In the event of improper transport, all claims for damages and warranty claims become void.
+che.
+ 
+• Follow the instructions in this operating manual.
+• If anything is unclear, contact the manufacturer first before transport.
+ 
+ 
+Symbols for transport with the lifting fork
+ 
+ 
+ 
+ 
+Only place the fork in the appropriately marked locations on the machine
+ 
+ 
+  
+  Operating instructions for filling and sealing machine Z-110 S
+Chapter 5
+ 
+  9/14 Please note cables and other machine parts that may protrude from underneath the machine
+ 
+ 
+ 
+If a long fork is available, the machine can be lifted from the short side.
+ 
+ 
+  
+ 
+  Operating instructions for filling and sealing machine Z-110
+Chapter 5
+ 
+ 
+10/14 5.3.5 Moving the machine on transport rollers - general
+To transport the machine over short distances, it can be lifted onto a pallet and with a
+Hand pallet trucks are transported.
+Please note the following points:
+• Raise the machine and place it on a pallet with a closed storage area or more solid
+base plate.
+• The minimum load capacity of the pallet and the base plate must be the weight of the machine or the
+Can carry machine components.
+• Only lift the pallet on which the machine stands with the hand pallet truck as far as necessary.
+to transport them.
+• Secure the machine against slipping.
+    Operating instructions for filling and sealing machine Z-110 S
+Chapter 5
+ 
+  11/14 5.4 Installing the machine
+When installing the machine, pay attention to the following points:
+• Make sure there is space between the machine and other machines, accessories and walls
+There is a sufficiently large gap. The machine doors provided for this must be from
+can be opened by maintenance personnel.
+• It must still be possible to walk through unhindered when the doors are open.
+• After the machine has been set up, it must be aligned using a spirit level.
+Please note the height, e.g. to close the machine with systems on the inlet or outlet side
+connect.
+ 
+ 
+ 
+1 Adjusting spindle (SW19) 2 Fixed part (SW27)
+ 
+Height compensation:
+Differences in height can be compensated for by turning the adjustment spindle on the machine base.
+• Hold the fixed part with an SW27 open-end wrench.
+• Adjust the machine height using the SW19 adjusting spindle.
+• The height can be adjusted between 106 -146mm.
+ 
+Vibrations in space:
+If excessive vibrations occur in the area of ​​the machine, you should e.g.
+Install anti-vibration mounts.
+ 
+  
+1
+2
+  Operating instructions for filling and sealing machine Z-110
+Chapter 5
+ 
+ 
+12/14 5.5 Compressed air connection
+ A NOTICE
+Risk of product contamination.
+ 
+Products can be contaminated by contaminated compressed air.
+ 
+• Only operate the machine with clean, oil-free compressed air.
+ 
+The compressed air connection of the machine is located underneath the machine when viewed from the front
+Cover .
+ 
+ 
+ 
+  
+  Operating instructions for filling and sealing machine Z-110 S
+Chapter 5
+ 
+  13/14
+ 
+ 
+1 Central compressed air connection (Ø12mm) 2 Manual switch-on valve
+3 pressure reducer, pressure gauge and condensate drain 4 pressure sensor
+5 Electrical switch-on valve 6 Pressure build-up valve
+7 distributors
+ 
+Please note the connected load values ​​in Chapter 3, Technical Data.
+ 
+• Connect the machine to your compressed air connection (1).
+• Set the operating pressure on the pressure reducer (3) of the maintenance unit (6 bar).
+• Check the pressure on the pressure gauge (3).
+• Check the condensate accumulation regularly(3) and drain it if necessary.
+  
+1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7 Operating instructions for filling and sealing machine Z-110
+Chapter 5
+ 
+ 
+14/14 5.6 Electrical connection
+Pull the electrical supply cable into the control cabinet and connect it to the power supply terminals according to the electrical
+connect scheme.
+Before connecting the machine to the mains, it must be checked whether the mains voltage and the frequency are
+The frequency corresponds to the information on the rating plate.
+ 
+ 
+ DANGER
+Danger to life due to electric shock!
+ 
+Serious injuries or death can result.
+Contact with live cables can result in an electric shock.
+ 
+• Electrical work on the machine may only be carried out by trained electricians.
+the.
+• Observe the relevant EMC guidelines.
+• Also observe the local regulations of the responsible electricity company.
+ 
+ A NOTICE
+Risk of machine malfunction.
+ 
+The screw connections of the terminal connections in the control cabinet can become loose during transport
+solve. Loose connections can result in the machine not starting up correctly
+can be.
+ 
+• Before connecting the machine, make sure that all screw connections are in place
+Control cabinet are properly secured.
+ 
+ 
+ WARNING
+Danger of tripping and falling due to improperly laid lines and cables
+ 
+Provisionally and/or improperly laid lines and cables can lead to falls.
+ren.
+ 
+• Lay flexible lines and cables in ducts or cable bridges.
+• Protect flexible cables from stress caused by crushing, pulling and abrasion.
+ 
+Please note the connected load values ​​in Chapter 3, Technical Data.

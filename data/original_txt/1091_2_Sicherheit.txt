@@ -1,0 +1,317 @@
+  Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 2  
+ 
+Inhaltsverzeichnis Kapitel 2  
+2 Sicherheit  ................................ ................................ ................................ ..................  2 
+2.1 Personalanforderungen  ................................ ................................ ................................ ...................  2 
+2.2 Bestimmungsgemässe Verwendung  ................................ ................................ ................................  2 
+2.3 Nichtbestimmungsgemässe Verwendung  ................................ ................................ ........................  2 
+2.4 Warnsymbole  ................................ ................................ ................................ ................................ .. 3 
+2.4.1  Erklärung der Warn symbole  ................................ ................................ ................................ .............  3 
+2.4.2  Verwendete Symbole  ................................ ................................ ................................ ........................  4 
+2.5 Generelle Sicherheitsbestimmungen  ................................ ................................ ...............................  6 
+2.5.1  Verantwortung des Betreibers  ................................ ................................ ................................ ..........  6 
+2.5.2  Verpflichtung zu Wartung und Pflege  ................................ ................................ ...............................  6 
+2.5.3  Zu verwendende Ersatzteile  ................................ ................................ ................................ ..............  6 
+2.5.4  Modifikationen  ................................ ................................ ................................ ................................ .. 6 
+2.6 Produktsicherheit  ................................ ................................ ................................ ............................  6 
+2.6.1  Allgeme ine Risiken  ................................ ................................ ................................ ............................  7 
+2.6.2  Eingebaute Sicherheitselemente und -Massnahmen  ................................ ................................ .......  8 
+2.6.3  Sicherheitseinhausung  ................................ ................................ ................................ ....................  11 
+2.6.4  Sicherheitsschalter  ................................ ................................ ................................ ..........................  11 
+2.6.5  Warnschilder an  der Maschine  ................................ ................................ ................................ .......  12 
+ 
+ 
+Version  Änderungen  Autor  Datum  
+1.0 Erstausgabe  Matthias Kunz  16.06.2021  
+      Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 2  
+ 
+ 
+2/13  2 Sicherheit  
+2.1 Personalanforderungen  
+Unsachgemäs ser Umgang mit dem Gerät kann zu erhebliche n Personen - und Sachschäden  führen . Alle Tätig-
+keiten  nur durch dafür  qualifiziertes Personal durchführen  lassen.  
+Fachpersonal ist aufgrund seiner fachlichen Ausbildung, Kenntnisse und Erfahrung sowie Kenntnis der einschlä-
+gigen  Bestimmungen in der Lage, die ihm übertragenen  Arbeiten auszuführen  und mögliche  Gefahren selbst-
+ständig  zu erkennen und zu vermeiden.  
+Als Pers onal sind nur Personen zugelassen, von denen zu erwarten ist, dass sie ihre Arbeit zuverlässig  ausfüh-
+ren. Personen, deren Reaktionsfähigkeit  beeinflusst ist, z. B. durch Drogen, Alkohol oder Medikamente, sind 
+nicht zugelassen. Bei der Personalauswahl die a m Einsatzort geltenden alters - und berufsspezifischen Vorschrif-
+ten beachten.  
+Unbefugte Personen, die die hier beschriebenen Anforderungen nicht erfüllen , kennen die Gefahren im Ar-
+beitsbereich nicht.  
+• Unbefugte Personen vom Arbeitsbereich fernhalten.  
+• Im Zweifelsfall Personen ansprechen und sie aus dem Arbeitsbereich weisen.  
+• Die Arbeiten unterbrechen, solange sich Unbefugte im Arbeitsbereich aufhalten  
+2.2 Bestimmungsgemässe Verwendung  
+Die Maschine darf nur für den Zweck verwendet werden , für den sie konstruier t wurde – für das Befüllen von 
+verschiedenen Glasflaschen  mit Flüssigkeit (Alkoholhaltig, Tinktur oder Sirup).  Anschliessend  werden die Glas-
+flaschen  mit einem Tropfeinsatz  verschlossen und ein Schraubverschluss aufgeschraubt  oder ein Nasenspray 
+aufgepresst . 
+ 
+Jede weitere Verwendung stell t keine bestimmungsgemässe Verwendung dar und kann zu Personen - oder Ma-
+schinenschäden führen.  
+ 
+2.3 Nichtbestimmungsgemässe Verwendung  
+Die Maschine wurde nicht für die Verwendung in  
+ 
+radioaktiver , oder  biologisch oder chemisch kontaminierter Atmosphäre konzipiert.  
+ 
+Der Produkte - und der Maschinenhersteller müssen kontaktiert werden,  bevor die Maschine zur Verarbeitung 
+von gefährlichen Substanzen verwendet wird. Das Bedienpersonal muss in diesem Fall geeignete Schutzmass-
+nahmen, wie das Tragen v on Schutzkleidung, treffen.  
+ 
+Auf der Anlage werden  fünf verschiedene  Glasflaschen verarbeitet. Jedes der fünf Gebinde benötigt einen an-
+gepassten Formatsatz.  
+Für die Verarbeitung anderer Formate  sind produktspezifische konstruktive Änderungen vorzusehen.     Bedienungsanleitung Füll - und Verschliessmaschine Z -110 S  
+Kapitel 2  
+ 
+  3/13 2.4 Warnsymbole  
+2.4.1 Erklärung der Warnsymbole  
+GEFAHR, WARNUNG, ACHTUNG und HINWEIS sind standardisierte Signalwörter zur Einordnung der Schwere 
+der Verletzungsgefahr oder der Gefahr für Sachschaden. Alle Signalwörter, die mit Verletzungsgefahr zusam-
+menhängen, werde n durch ein Warnsymbol ergänzt.  
+Für die Sicherheit ist es wichtig, die untenstehende Tabelle mit den verschiedenen Signalwörtern vollständig 
+gelesen und verstanden zu haben.  
+ 
+Zeichen  Signalwort  Erklärung  Risikostufe  
+ GEFAHR  Bezeichnet eine gefährliche Situation, die, wenn sie nicht 
+vermieden wird, zum Tod oder zu schweren Verletzungen 
+führt.  
+Dreieckiges Warnzeichen.  ★★★★  
+ WARNUNG  Bezeichnet eine gefährliche Situation, die, wenn sie nicht 
+vermieden wird, zum Tod oder zu schweren Verletzungen 
+führen kann.  
+Dreieckiges Warnzeichen.  ★★★  
+ VORSICHT  Bezeichnet eine gefährliche Situation, die, wenn sie nicht 
+vermieden wird, zu mittelschweren oder leichten Verletzun-
+gen führen kann.  
+Dreieckiges Warnzeichen.  ★★  
+ HINWEIS  Bezeichnet einen möglichen Sachschaden. Vorkehrungen zur 
+Abwendung eines möglichen Personenschadens müssen 
+nicht getroffen werden.  
+Rundes Gebotszeichen.   
+ 
+Zusätzliche Sicherheits - und Gebots symbole befinden sich links vom Signalwort und dem zusätzlichen Text 
+(siehe Beispiel unten).  
+ 
+ 
+WARNUNG  
+Text der die Gefahrenquelle beschreibt (z.B. Explosion)  
+Folgen bei Nichtbeachtung (z.B. Das Berühren spannungs - und stromführender Teile kann zum 
+Tod führen. ) 
+ 
+• Liste der Massnahmen, um die beschriebenen Gefahren und Folgen zu verhindern.  
+  
+  Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 2  
+ 
+ 
+4/13  2.4.2 Verwendete Symbole  
+Die Referenzliste unten enthält alle verwendeten Sicherheitssymbole und ihre Bedeutung. Die Symbole können 
+sich in dieser Bedienungsanleitung oder auf dem Gerät befinden.  
+Warnsymbole  
+Symbol  Bedeutung  
+ Warnung vor a llgemeine n Gefährdung en 
+ Warnung vor Laserstrahl  
+ Warnung vor Geräteschaden  
+ Warnung vor automatischem Anlauf  
+ Warnung vor gegenläufigen Rollen  
+ Warnung vor elektrischer Spannung  
+ Warnung vor Handverletzungen  
+ Warnung vor Kippgefahr  
+ Warnung vor s chwere n Lasten  
+ Warnung vor heisser Oberfläche  
+ Warnung vor Hindernissen am Boden  
+  Bedienungsanleitung Füll - und Verschliessmaschine Z -110 S  
+Kapitel 2  
+ 
+  5/13 Symbol  Bedeutung  
+ Warnung vor feuergefährlichen Stoffen  
+ Warnung vor brandfördernden Stoffen  
+ 
+ 
+Gebotssymbole  
+Symbol  Bedeutung  
+ Allgemeines Gebotszeichen  
+ Gebrauchsanweisung beachten  
+ Gehörschutz benutzen  
+ Augenschutz benutzen  
+ Sicherheitsschuhe tragen  
+ Handschutz benutzen  
+ Helm tragen  
+ Zu zweit tragen  
+ 
+  
+  Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 2  
+ 
+ 
+6/13  2.5 Generelle Sicherheitsbestimmungen  
+2.5.1 Verantwortung des Betreibers  
+Der Laborleiter ist für das Training seines Personals verantwortlich.  
+Der Betreiber muss den Hersteller unverzüglich über jeden sicherheitsrelevanten Vorfall bei der Arbeit mit der 
+Maschine oder ihren Zu behörteilen informieren.    
+Berichte über Vorfälle bitte an die E -Mail Adresse: info@zellwag.com senden.  
+Gesetze und Verordnungen auf Bundes - und Landesebene sowie kommunale Vorschriften die Maschine oder 
+ihr Zubehör betreffend müssen strikt gefolgt werden.  
+2.5.2 Verpflichtung zu Wartung und Pflege  
+Der Betreiber ist dafür verantwortlich, dass die Maschine in gutem Zustand verbleibt. Das beinhaltet Wartung, 
+Service - und Reparaturarbeiten, die nach vorgegebenem Zeitplan von autorisiertem Personal durchgeführt  
+werden.   
+2.5.3 Zu verwendende Ersatzteile  
+Es dürfen nur die angegebenen Zellwag Ersatzteile verwendet werden, um zu gewährleisten, dass die Maschine  
+ihre Leistungsfähigkeit beibehält und weiterhin verlässlich und sicher betrieben werden kann. Jegliche Modifi-
+kationen von Ersatz - und Maschinenteilen sind nur nach vorheriger schriftlicher Absprache mit Zellwag zulässig.  
+2.5.4 Modifikationen  
+Modifikationen am Gerät sind nur nach vorheriger Absprache und schriftlicher Einverständniserklärung von 
+Zellwag zulässig. Modifikat ionen und Upgrades dürfen nur von einem von Zellwag autorisierten Ingenieur 
+durchgeführt werden.  
+Zellwag lehnt jede Haftung nach unerlaubten Modifikationen ab.  
+2.6 Produ ktsicherheit  
+Die Maschine  wurde nach der neuesten Technologie entwickelt und gebaut. Trotzdem können bei unsachge-
+mässer oder nicht bestimmungsgemässer Verwendung Ris iken vom Gerät ausgehen.  
+Zellwag Pharmtech AG  hat folgende Restrisiken festgestellt, die vom Gerät ausgehen können:  
+Das Gerät wird von nicht ausreichend geschultem Personal betrieben.  
+Das Gerät wird nicht gemäss seiner bestimmungsgemässen Verwendung betrieben.  
+Entsprechende Warnhinweise in dieser Anleitung machen den Anwender auf diese Restrisiken aufmerksam.  
+    Bedienungsanleitung Füll - und Verschliessmaschine Z -110 S  
+Kapitel 2  
+ 
+  7/13 2.6.1 Allgeme ine Risiken  
+Die folgenden Sicherheitshinweise beziehen sich auf allgemeine Risiken, die bei der Handhabung der Maschine  
+entstehen können. Alle aufgelisteten Gegenmassnahmen sind vom Betreiber zu treffen, um das Risiko mög-
+lichst klein zu halten.  
+Immer wenn Handlungen oder Situationen in dieser Anleitung beschrieben werden, die zu   
+situationsbedingen Risiken führen können, werden zusätzliche Warnhinweise verwendet.  
+ 
+  GEFAHR  
+Lebensgefahr durch Stromschlag!  
+Das Berühren spannungs - und stromführender Teile kann zum Tod führen.  
+ 
+• Beachten , dass die stromlose und geerdete Maschine Teile aufweist, die gespeicherte La-
+dung freisetzen können.  
+• Nie von unten in die Maschine greifen.  
+ 
+ 
+  VORSICHT  
+Verletzungen durch sich bewegende Maschinenteile ! 
+Das Berühren de s Brückenbrechers während  des Betriebs  kann zu Quetschverletzungen führen.  
+ 
+• Bei laufender Maschine nicht in den Brückenbrecher  fassen . 
+• Bei laufender Maschine nicht in das Einlaufband fassen.  
+ 
+ 
+  
+  Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 2  
+ 
+ 
+8/13  2.6.2 Eingebaute Sicherheitselemente und -Massnahmen  
+Die Maschine ist nur mit ordnungsgemäss funktionierenden Schutzeinrichtungen und sicherheitsbedingten Ein-
+richtungen,  wie z.B. NOT AUS -Schaltern, Schaltern für Zweihandbedienung zu betreiben. Bei fehlerhaften oder 
+unwirksamen Sicherheitseinrichtungen ist die Maschine sofort stillzusetzen.  
+ 
+Die Schutzeinrichtungen sind zur Sicherheit des Bedienpersonals eingebaut und dürfen unter keinen Umstän-
+den verändert, entfernt oder durch Veränderungen an der Maschine umgangen w erden.  Der Lasttrenn - und die 
+NOT AUS -Schalter müssen frei zugänglich sein.  
+ 
+Nach dem Ansprechen einer Sicherheitseinrichtung darf die Maschine erst dann wieder anfahren, wenn  
+• Die Ursache oder Störung beseitigt ist und wenn gewährleistet ist,  
+• Dass dadurch keine Gefahr für Personen oder Gegenstände entsteht.  
+    Bedienungsanleitung Füll - und Verschliessmaschine Z -110 S  
+Kapitel 2  
+ 
+  9/13 Hauptschalter und NOT AUS -Schalter   
+ 
+Der Hauptschalte r der Maschine befindet sich  am externen Schaltschrank  und schaltet  das System  stromlos.  
+Am Bedienpanel für das HMI der Füll - und Verschliessmaschine  und hinten links an dem Zusatz -Panel  steht je-
+weils ein NOT -AUS -Schalter zur Verfügung , so dass die M aschine im Notfall zum sofortigen Stillstand gebracht 
+werden kann.  
+ 
+Wenn einer der  NOT AUS -Schalter betätigt wird, werden alle Maschinenbewegungen sofort gestoppt , und alle 
+Aktoren werden s tromlos und drucklos geschaltet . Eine entsprechende Meldung erscheint am Bedienpanel.  
+Ein aktivierter NOT AUS -Schalter kann durch Herausziehen wiede r deaktiviert werden. Anschliessend muss die 
+Not-Aus-Situation quittiert werden.  
+Die folgende Abbildung zeigt , wo sich die NOT AUS -Schalter und Hauptschalter an der Maschine befind en: 
+ 
+ 
+1 NOT -AUS Schalter  2 Hauptschalter  
+Abbildung 1: Positionen der Schalter im Gesamtlayout  
+1 
+1 
+ 1 
+ 1 2 1   Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 2  
+ 
+ 
+10/13   
+1 NOT AUS -Schalter am HMI  2 Hauptschalter am Schaltschrank  
+Abbildung 2: Position der Schalter an den Einzelpositionen  
+  
+1 
+ 2   Bedienungsanleitung Füll - und Verschliessmaschine Z -110 S  
+Kapitel 2  
+ 
+  11/13 2.6.3 Sicherheitseinhausung  
+Die Maschine  ist in bestimmten Bereichen, bei denen während des Betriebes keine manuellen Eingriffe erfol-
+gen, mit  einer Sicherheitseinhausung  umgeben .  
+ 
+ 
+ 
+ 
+1 Sicherheitseinhausung Einlaufband  2 Sicherheitseinhausung Aus blasstation  
+3 Sicherheitseinhausung der Maschine  4 Sicherheitseinhausung Maschinenausgang  
+5 Sicherheitseinhausung Fördertopf Deckel (Lärmschutz)    
+Abbildung 3: Sicherheitseinhausung  
+ 
+2.6.4 Sicherheitsschalter  
+Die Sicherheitstüren sind mit kontaktlosen Sicherheitsschaltern ausgestattet. Sie dienen dazu zu überwachen, 
+dass die Türen während des Betri ebes der Maschine geschlossen sind.  
+ 
+ 
+ 
+1 Sicherheitsschalter      
+Abbildung 4: Sicherheitsschalter  
+1 
+ 2 
+ 3 
+ 4 
+5 
+1 
+5 
+1 
+  Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 2  
+ 
+ 
+12/13  2.6.5 Warnschilder an der Maschine  
+Die folgende n Bilder geben  eine Übersicht über die Warnkleber an der Maschine. Die genaue Lage, Ausführung 
+und Anzahl der Warnkleber finden Sie in der jeweiligen Betriebsanleitung des Geräte -/Komponentenherstel-
+lers.  
+ 
+Stellen Sie sicher, dass die Warnkleber gut lesbar sind und ersetzen Sie sie gegebenenfalls.  
+ 
+ 
+ 
+ 
+1 Warnschild Schaltschrank unterhalb der Maschine  2 Warnschild am HMI  
+3 Warnschild am Schaltschrank   
+Abbildung 5: Warnschilder «elektrische Gefährdung» an der Maschine  
+ 
+ 
+1 
+ 2 
+ 3   Bedienungsanleitung Füll - und Verschliessmaschine Z -110 S  
+Kapitel 2  
+ 
+  13/13  
+1 Warnschild am Brückenbrecher   
+Abbildung 6: Warnschilder « Handverletzungen » an der Maschine  
+ 
+ 
+ 
+Hinweis: Die Warnschilder auf den Zuliefererkomponenten werden in der entsprechenden Zuliefererdokumen-
+tation beschrieben.  
+1 

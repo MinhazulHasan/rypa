@@ -1,0 +1,112 @@
+Operating instructions for filling and closing system Z-110
+Chapter 7
+ 
+ Table of Contents Chapter 7
+7 Operating the machine ................................ ................. ................. ........................... 2
+7.1 Starting the machine ................................ .................. ................. ................................ . ........................... 2
+7.2 Emptying the machine ................................ .................. ................. ................................ . ................................. 2
+7.3 Container counter ................................ ................ ................ ................................ .. .............................. . 2
+7.4 Main switch ................................ ................ ................ ................................ .. ............................... 3
+7.5 EMERGENCY STOP ................................ .................. ................. ................................ . ............................ .......... 3
+7.6 NCF marking ................................ ................. .................. ................................ ............................. 3
+7.7 Filling the conveyor pots ................................ .............. .................. ................................ .................4
+7.8 Control panel and buttons ................................ .............. .................. ................................ .................4
+ 
+Ver-
+version changes author date
+1.0 Niedzwiecki Andre October 27, 2021
+       Operating instructions for filling and closing system Z-110
+Chapter 7
+ 
+ 
+2/4 7 Operating the machine
+This chapter describes the routine operation of the machine.
+7.1 Start the machine
+To start the machine, proceed as follows:
+• Make sure that all mechanical, format-relevant settings have been made correctly.
+the.
+• Switch the filling and sealing machine (and all operationally relevant accessory components) on
+Main switch on (if the machine is switched off). The starting process of the filling and closing machine
+machine may take 2 to 3 minutes.
+• Log in to the HMI. The main screen appears and the machine is ready for reference.
+renzen. If the machine has not yet been referenced, various warnings and
+Error messages displayed.
+• Check that there are no lids in the presenter of the screw connection
+• At the top of the control bar under “Current program” tap the icon to open the sub-menu.
+menus to select the recipe to work with.
+• When the correct recipe has been selected and downloaded to the PLC, press Start -
+Button to start the referencing process (the referencing process is only necessary if
+the machine was previously switched off).
+• After the referencing process is complete, press the start button again to enter the
+To access manual operation.
+• Press the start button again to start the machine in automatic mode.
+7.2 Run the machine empty
+In the status and control bar, tap the submenu icon to display the production data, and
+select “Empty machine” “On”. From now on, no more containers will be transported into the transport system.
+dert. All containers that are currently in the transport system are processed normally (as preselected
+or stored in the recipe). When all of these containers have been processed, the machine stops.
+7.3 Containers count r
+The container counter in the production data can be used to count a specific number of containers
+to produce. Enter the corresponding number under “Target quantity” and select “Stop after
+number of units reached» «On» off .
+When the entered number of containers has been produced, the machine automatically starts the emptying cycle.
+The containers are counted from position 1 on the rotating star. After that, no new containers will be produced
+promoted more into the transport system.
+ 
+ 
+ 
+ 
+ 
+                                                                             Operating instructions for the automatic filling and closing system Z-110
+Chapter 7
+ 
+  3/4 7.4 Main switch
+When you press the main switch, the system is completely de-energized (including CPU and HMI).
+7.5 EMERGENCY STOP
+To trigger an EMERGENCY STOP, EMERGENCY STOP -Scpress holder. The machine stops immediately and the doors of the
+safety enclosures can be opened.
+7.6 NCF marking
+Only containers for which the process started has been completely completed are marked as CF. A
+Once a container has been marked as NCF, it retains this marking until the end of the process. An NCF mark
+cannot be undone.
+For troubleshooting, see Chapter 10, Error Messages, Errors and Their Fixes.
+     Operating instructions for filling and closing system Z-110
+Chapter 7
+ 
+ 
+4/4 7.7 Filling the conveyor pots/bunkers
+ A NOTICE
+Risk of machine damage.
+ 
+Overfilling the conveyor pots/bunkers can lead to backlogs, mutual jamming and loss of performance.
+lead to loss of power.
+ 
+• Only fill delivery pots up to the maximum permitted amount.
+ 
+To fill the conveyor pots, pour material into the bunker from above.
+7.8 Control panel and buttons
+The machine can be started, stopped and controlled from the control panel.
+ 
+Touchscreen The individual images are displayed on the touchscreen
+operates the machine. The individual functions are carried out by
+Pressing the on-screen buttons activates.
+Start/Stop Button This button is used to start/stop the machine.
+det.
+To start the machine, the safety doors must be closed.
+be closed.
+Pressing the start button increases the operating mode from Um-
+setup mode to manual mode or from manual mode to setup
+automatic operation.
+A short press of the stop button triggers a stop after the end of the cycle
+out of. All stations complete their step, then
+the machine stops.
+A long press > 2s triggers an immediate stop. The machine
+stops immediately without ending the current operation.
+EMERGENCY STOP switch This switch is used to stop the machine in dangerous situations.
+certain situations. The machine stops immediately without
+to end the current operation.
+The EMERGENCY STOP command is activated by pulling out the EMERGENCY STOP
+Switch and press the reset button once
+reset on the control panel. The machine can then be used again
+which can be started.
+Reset button / Reset Press to acknowledge active messages.

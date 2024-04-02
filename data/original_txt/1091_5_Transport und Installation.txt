@@ -1,0 +1,354 @@
+  Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 5  
+ 
+Inhaltsverzeichnis  Kapitel  5 
+5 Transport und Installation  ................................ ................................ ..........................  2 
+5.1 Anzahl und Masse der Transportgüter  ................................ ................................ .............................  2 
+5.2 Anforderungen an den Aufstellungsort  ................................ ................................ ...........................  3 
+5.3 Maschinentransport  ................................ ................................ ................................ ........................  4 
+5.3.1  Warenannahme / Öffnen der Verpackung  ................................ ................................ ........................  5 
+5.3.2  Befestigung der Maschine auf der Palette  ................................ ................................ ........................  6 
+5.3.3  Verpackungsmaterial entsorgen  ................................ ................................ ................................ .......  6 
+5.3.4  Maschine mit einem Gabelst apler transportieren – allgemein  ................................ ........................  7 
+5.3.5  Maschine auf Transportrollen bewegen - allgemein  ................................ ................................ ...... 10 
+5.4 Installieren der Maschine  ................................ ................................ ................................ ..............  11 
+5.5 Druckluftanschluss  ................................ ................................ ................................ ........................  12 
+5.6 Elektrischer Anschluss  ................................ ................................ ................................ ...................  14 
+ 
+ 
+7Version  Änderungen  Autor  Datum  
+1.0  Matthias Kunz  05.08.2021  
+      Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 5  
+ 
+ 
+2/14  5 Transport und Installation  
+5.1 Anzahl und Masse der Transportgüter  
+Auf jedem Transportgut ist eine separate Liste mit einer Übersicht über den Inhalt angebracht.  
+ 
+ 
+    
+ 
+ 
+  Bedienungsanleitung Füll - und Verschliessmaschine Z -110 S  
+Kapitel 5  
+ 
+  3/14 5.2 Anforderungen an den Aufstellungsort  
+Der Aufstellungsort muss folgende Anforderungen erfüllen:  
+• Spezielle Anforderungen an den Aufstellungsort sind im Pflichtenheft oder in der Auftragsbestätigung 
+beschrieben. Diese müssen beachtet werden.  
+• Geschlossener, sauberer und trockener Raum.  
+• Der Boden muss e ine ausreichende Tragfähigkeit aufweisen (siehe Kapitel 3, Technische Daten). Uneben-
+heiten im Boden dürfen 5 mm nicht übersteigen.  
+• Die Maschine muss von allen dafür vorgesehenen Seiten frei zugänglich sein.  
+• Für Bedien - und Servicepersonal muss ausreichend Bewegungsfreiheit vorhanden sein. Alle aufklappbaren 
+Teile müssen komplett geöffnet werden können.  
+• Erschütt erungsarme  Umgebung.  
+• Der Aufstellungsort muss gut beleuchtet sein.  
+• Die Maschine darf nicht direkter Heizungswärme oder direktem Sonne nlicht ausgesetzt sein.  
+Raumtemperatur : +5° bis +40°C  
+• Relative Luftfeuchtigkeit:  
+15 bis  60 % (Innenraum), kein Kondensieren  (der ab 60% rapide einsetzenden Korrosion ist durch geeigne-
+te Massnahmen an den gefährdeten Teilen vorzubeugen).  
+• Wenn die Luftfeuchtigkeit 70% übersteigt, verwenden Sie Korrosionsschutzmittel auf den blanken metalli-
+schen Oberflächen. Eine Tropenisolation ist in diesem Fall ebenfalls erforderlich.  
+• Maximal Höhe des Aufstellungsortes: <1000 m (ü. NN)  
+• Die Maschine darf nicht im Bereich von statischen Entladungen oder Magnetfeldern betrieben werden,  da 
+ansonsten Fehler in der Steuerung auftreten können.  
+    Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 5  
+ 
+ 
+4/14  5.3 Maschinentransport  
+ VORSICHT  
+Erlöschen der Garantie  
+ 
+Unsachgemässer  Transport schliesst alle Haftungsansprüche u nd Schadenersatzforderungen aus.  
+ 
+• Maschine und Maschinenteile n ur in  der dafür vorgesehener  und mit geeigneter Verpackung 
+transportieren  
+ 
+ HINWEIS  
+Risiko von Maschinenschaden.  
+ 
+Temperaturveränderungen, Stösse und Erschütterungen  können zu Maschinenschaden führen.  
+ 
+• Vermeiden Sie Temperaturveränderungen, oder packen Sie die Maschine in eine Wärme-
+schutzverpackung . Vermeiden Sie Stösse und Erschütterungen  oder schützen Sie die Ma-
+schine entsprechend.  
+ 
+ 
+Im Falle, dass die Maschine auf der Strasse, der Schiene oder auf dem Seeweg transportiert wird, müssen fol-
+gende Punkte beachtet werden:  
+• Beachten Sie die Unfallverhütungsvorschriften der EU -Richtlinien und Berufsgenossenschaften im Bereich 
+Transport, sowie lokale Bestimmungen.  
+• Schützen Sie die Maschine durch geeignetes Verpackungsmaterial gegen Feuchtigkeit und Korrosion.  
+• Transportieren Sie  die Maschine vorsichtig und heben, stützen oder schieben Sie sie nicht an empfindli-
+chen Bereichen, wie Hebel, Abdeckungen, etc.  
+• Verschrauben Sie den Maschinenunterbau mit dem Unterbau des Transportmittels oder der -kiste.  
+• Wenn längere Verpackungsmaschinen  transportiert werden, wird eine Transportschiene an den Rahmen 
+der Maschine angeschraubt. Die Maschine darf dann nur mit der angeschraubten Transportschiene trans-
+portiert werden, da sie ohne diese Sicherung beschädigt werden kann.  
+• Verwenden Sie für den Tr ansport nur  Lastaufnahmemittel die für diesen Zweck geeignet und ausgewiesen 
+sind (EG -Maschinenrichtlinie).  
+• Benennen Sie einen kompetenten Monteur, der beim Anheben behilflich ist.  
+• Verwenden Sie nur geeignete Transportmittel mit einer ausreichenden Tragfäh igkeit.  
+• Maschine nicht ruckartig aufsetzen.  
+• Wenn Sie für das Anheben Seile verwenden, stellen Sie sicher, dass keine empfindlichen Maschinenteile 
+dadurch beschädigt werden.  
+• Beachten Sie die erlaubte Traglast der Lastaufnahmemittel. Verwenden Sie nur getestete und zugelassene 
+Lastaufnahmemittel, für die die notwendigen Angaben vorliegen (EG -Maschinenrichtlinie).  
+• Befestigen Sie die Schaltschränke sicher.  
+• Sichern Sie alle Zubehörteile, die in der Maschine enthalten sind , gegen Rutschen.  
+• Stellen Sie siche r, dass die Maschine nicht in Schräglage gerät, wenn sie angehoben wird.  
+  Bedienungsanleitung Füll - und Verschliessmaschine Z -110 S  
+Kapitel 5  
+ 
+  5/14 • Entfernen sie möglichst alle Lasten die sich auf Wägezellen befinden oder sichern Sie diese mit geeigneten 
+Mitteln um Beschädigungen zu vermeiden.  
+• Trennen Sie die Maschine immer vo n der externen Stromversorgung, auch wenn nur kleine Ortsverände-
+rungen vorgesehen sind. Schliessen Sie die Maschine sorgfältig wieder an das Stromnetz an, bevor Sie sie 
+wieder in Betrieb nehmen.  
+• Grosse  Temperaturveränderungen während des Transports können zu Kondensation in der Maschine füh-
+ren. Dies kann Störungen oder den Ausfall von Ventilen oder anderen pneumatischen und elektrischen 
+Schaltgeräten zur Folge haben.  
+• Die Maschine ist ausserdem empf indli ch gegenüber Stössen und Erschütterungen . 
+ 
+5.3.1 Warenannahme / Öffnen der Verpackung  
+Bevor Sie die Verpackung öffnen, kontrollieren Sie, ob sie beim Transport beschädigt wurde.  
+Wenn sie Anzeichen von Beschädigung aufweist, könnte der Inhalt ebenfalls beschädigt  sein. Belassen Sie In 
+diesem Fall die Ware in dem Zustand, in dem sie eingetroffen ist, und verständigen Sie umgehend das Trans-
+portversicherungsunternehmen.  
+ 
+Beginnen sie beim Öffnen der Verpackung von oben. Tragen Sie Handschuhe, und verwenden Sie geeign etes 
+Werkzeug, da sich Holzsplitter von der Verpackung lösen können.  
+• Deckel und Seitenplatten entfernen.  
+• Schutzfolie entfernen.  
+• Untersuchen  Sie die Maschine auf Transportschäden.  
+    Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 5  
+ 
+ 
+6/14  5.3.2 Befestigung der Maschine auf der Palette  
+Die Maschine ist üblicherweise mit Hilfe von Klemmstücken mit Muttern und Bolzen an der Palette befestigt.  
+Klemmstücke sind an vier der Maschinenfüsse befestigt.  
+ 
+ 
+1 Maschinenfuss  
+2 Sicherheitsmutter  
+3 Klemmstück   
+ 4 Gewindebolzen  
+5 Mutter  
+Bevor die Maschine von der Palette gehoben wird:  
+• Sicherheitsmutter (2) am Maschinenfuss (1)  lösen  
+• Muttern  (5) an den Klemmstücken  (3) lösen  
+• Entfernen Sie die Klemmstücke  (3) 
+ 
+5.3.3 Verpackungsmaterial entsorgen  
+Nach dem Auspacken der Maschine  Verpackungsmaterial sortieren und gemäss der gültigen lokalen Bestim-
+mungen entsorgen.  
+  
+1 2 3 4 5  Bedienungsanleitung Füll - und Verschliessmaschine Z -110 S  
+Kapitel 5  
+ 
+  7/14 5.3.4 Maschine mit einem Gabelstapler transportieren – allgemein  
+  WARNUNG  
+Gefahr von Kippen beim Transport  
+ 
+Der unsachgemässe Transport der Maschinen oder Maschinenkomponenten kann zum Kippen 
+der Maschine oder Maschninenkomponenten führen. Dadurch können schwere Verletzungen 
+verursacht werden.  
+ 
+• Gabelstapler mit ausreichender Lastkapazität , ausreichender Gabellänge und ausreichen-
+dem Gabelabstand verwenden.  
+• Transportieren Sie die Maschine nur auf Ebenen mit ausreichender Tragfähigkeit.  
+• Positionieren Sie den Gabelstapler am Schwerpunkt der Maschine.  
+• Sichern Sie die Maschine gegen Abrutschen.  
+ 
+ HINWEIS  
+Risiko von Fussverletzungen  
+ 
+Herabfallende oder kippende Gegenstände können zu Fussverletzungen führen.  
+ 
+• Sicherheitsschuhe tragen.  
+ 
+ HINWEIS  
+Risiko von Kopfverletzungen  
+ 
+Herabfallende oder kippende Gegenstände können zu Kopfverletzungen führen.  
+ 
+• Helm tragen.  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 5  
+ 
+ 
+8/14   
+ HINWEIS  
+Maschinenschaden aufgrund von unsachgemässem Transport.  
+ 
+Bei unsachgemässem  Transport erlöschen alle Schadenersatzansprüche und Garantieansprü-
+che.  
+ 
+• Anweisungen in dieser Betriebsanleitung beachten.  
+• Bei Unklarheiten wenden Sie sich vor dem Transport zuerst an den Hersteller.  
+ 
+ 
+Symbole für den Transport mit der Hubgabel  
+ 
+ 
+ 
+ 
+Platzieren Sie die Gabel nur an den entsprechend markierten  Orten an der Maschine   
+ 
+ 
+  
+  Bedienungsanleitung Füll - und Verschliessmaschine Z -110 S  
+Kapitel 5  
+ 
+  9/14 Bitte beachten Sie Kabel  und andere Maschinenteile die  unter der Maschine  heraus ragen können  
+ 
+ 
+ 
+Wenn eine lange Gabel verfügbar ist, kann die Maschine von der kurzen Seite her hochgehoben werden.  
+ 
+ 
+  
+ 
+  Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 5  
+ 
+ 
+10/14  5.3.5 Maschine auf Transportrollen bewegen  - allgemein  
+Um die Maschine über kurze Distanzen zu transpor tieren, kann sie auf eine Pa lette gehoben und mit einem 
+Hand -Palettenwagen transportiert werden.  
+Beachten Sie dabei d ie folgenden Punkte:  
+• Heben Sie die Maschine an und stellen Sie sie auf eine Palette mit geschlossenem Lagerraum oder fester 
+Grundplatte.  
+• Die Mindesttraglast der Palette und der Bodenplatte muss das Gewicht der Maschine bzw. der 
+Maschinenkomponenten tragen können . 
+• Heben Sie die Palette, auf der die Maschine steht, mit dem Hand -Palettenwagen nur so weit wie nötig an , 
+um sie zu transportieren.  
+• Sichern Sie die Maschine gegen Rutschen.  
+    Bedienungsanleitung Füll - und Verschliessmaschine Z -110 S  
+Kapitel 5  
+ 
+  11/14 5.4 Installieren der Maschine  
+Beachten Sie beim Ins tallieren der Maschine die folgenden Punkte:  
+• Stellen Sie sicher dass zwischen der Maschine und anderen Maschinen , Zubehörteilen und Wänden  ein 
+ausreichend grosser Zwischenraum besteht . Die dafür vorgesehenen  Maschinentüren müssen vom 
+Wartungspersonal geöff net werden können.  
+• Bei geöffneten Türen muss noch ein ungehindertes Durchgehen möglich sein.  
+• Nachdem die Maschine aufgestellt wurde, muss sie mit Hilfe einer Wasserwaage ausgerichtet werden. 
+Beachten Sie dabei die Höhe, z.B. um die Maschine mit zulauf - oder ablaufseitigen Systemen zu 
+verbinden.  
+ 
+ 
+ 
+1 Einstellspindel ( SW19 ) 2 Feststehender Teil  (SW27)  
+ 
+Höhenausgleich : 
+Höhenunterschiede können durch Drehen der Einstellspindel am Maschinenfuss ausgeglichen werden.  
+• Halten Sie den feststehenden Teil mit einem Gabelschlüssel SW27 fest . 
+• Stellen Sie die Maschinenhöhe mit Hilfe der Einstellspindel  SW19  ein. 
+• Die Höhe kann zwischen 106 -146mm eingestellt werden.  
+ 
+Vibrationen im Raum : 
+Wenn im Bereich der Maschine  übermässige Erschütterungen  auftreten , sollten Sie sie z.B. auf Gummi -Metall -
+Antivibrationsbefestigungen stellen.  
+ 
+  
+1 
+2 
+  Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 5  
+ 
+ 
+12/14  5.5 Druckluftanschluss  
+ HINWEI S 
+Gefahr von Produktverunreinigung . 
+ 
+Produkte können durch verschmutzte Druckluft verunreinigt werden . 
+ 
+• Betreiben Sie die Maschine nur mit sauberer, ölfreier Druckluft.  
+ 
+Der Druckluftanschluss  der Maschine befin det sich von der Frontseite der Maschine aus gesehen unter der 
+Abdeckung .  
+ 
+ 
+ 
+  
+  Bedienungsanleitung Füll - und Verschliessmaschine Z -110 S  
+Kapitel 5  
+ 
+  13/14  
+ 
+ 
+1 Zentraler Druckluftanschluss ( Ø12mm)  2 Manuelles Einschaltventil  
+3 Druckminderer,Manometer und Kondensatablass  4 Drucksensor  
+5 Elektrisches Einschaltventil  6 Druckaufbauventil  
+7 Verteiler   
+ 
+Beachten Sie die angeschlossenen Lastenwerte in Kapitel 3, Technische Daten.  
+ 
+• Schliessen Sie die Maschine an Ihren Druckluftanschluss an (1).  
+• Stellen Sie den Betriebsdruck a m Druckminderer  (3) der Wartungseinheit ein (6 bar) . 
+• Kontrollieren Sie den Druck am Manometer (3).  
+• Kontrollieren Sie regelmässig  die Kondensatansammlung  (3) und lassen Sie es ggf. ab.  
+  
+1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7   Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 5  
+ 
+ 
+14/14  5.6 Elektrischer Anschluss  
+Das elektrische Zuführkabel in den Schaltschrank ziehen und an den Netzanschluss -Klemmen gemäss Elektro-
+schema anschliessen.  
+Vor dem Anschliessen der Maschine an das Netz muss überprüft werden, ob die Netzspannung und die Fre-
+quenz mit den Angaben auf dem Leistungsschild übereinstimmen.  
+ 
+ 
+ GEFAHR  
+Lebensgefahr durch Stromschlag!  
+ 
+Schwere Verletzungen oder Tod können die Folge sein.  
+Beim  Kontakt mit stromführenden Kabeln kann es zu einem Stromschlag kommen.  
+ 
+• Elektroarbeiten an der Maschine dürfen nur von geschu lten Elektrikern durchgeführt we r-
+den.  
+• Beachten Sie die entsprechenden EMV -Richtlinien.  
+• Beachten Sie ausserdem die lokalen Vorschriften des zuständigen Elektrizitätswerks.  
+ 
+ HINWEIS  
+Gefahr einer Maschinenstörung.  
+ 
+Die Schraubverbindungen der Klemmanschlüsse im Schaltschrank können sich beim Transport 
+lösen.  Gelöste Verbindungen können dazu führen, dass die Maschine nicht korrekt aufgestartet 
+werden kann.  
+ 
+• Stellen Sie vor dem Anschliessen der Maschine sicher, dass alle Schraubverbindungen im 
+Schaltschrank richtig gesichert sind.  
+ 
+ 
+ WARNUNG  
+Stolper - und Sturzgefahr durch unsachgemäss verlegte Leitungen und Kabel  
+ 
+Provisorisch und/oder nicht fachgerecht verlegte Leitungen und Kabel können zu Stürzen füh-
+ren. 
+ 
+• Flexible Leitungen und Kabel in Kanälen oder Kabelbrücken verlegen.  
+• Flexible Leitungen vor Belastungen durch Quetschung, Zug und Abrieb schützen.  
+ 
+Beachten Sie die angeschlossenen Lastenwerte in Kapitel 3, Technische Daten.  
+ 

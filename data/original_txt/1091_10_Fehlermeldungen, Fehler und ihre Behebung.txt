@@ -1,0 +1,1088 @@
+  Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 10  
+Inhaltsverzeichnis  Kapitel  10 
+10 Fehlermeldungen, Fehler und ihre Behebung  ................................ ..........................  2 
+10.1 Info ................................ ................................ ................................ ................................ ..................  2 
+10.2 Warnung  ................................ ................................ ................................ ................................ .........  3 
+10.3 Fehler  ................................ ................................ ................................ ................................ ...................  3 
+ 
+Version  Änderungen  Autor  Datum  
+1.0  Andre Niedzwiecki  27.10.2021  
+      Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 10  
+ 
+ 
+2/17  10 Fehlermeldungen, Fehler und ihre Behebung  
+Während des Betriebs der Maschine werden Betriebsmeldungen auf dem Touchscreen angezeigt. Diese Be-
+triebsmeldung geben dem Bediener wichtige Informationen über den korrekten Betrieb der Maschine.  
+Im Fall einer Störung an der Maschine, wird der automatische Betrieb gestoppt und eine Fehler meldung auf 
+dem Touchscreen angezeigt.  
+Im Fall e von mehreren Fehlermeldungen  werden alle aktiven Meldungen in der " Meldungsmaske“  aufgelistet.  
+Nachdem die Störung behoben  wurde, werden die Meldungen in den Archivordner verschoben . 
+ 
+Wenn die Störung nicht mit Hilfe  dieser Liste behoben werden kann, kontaktieren  Sie bitte unsere Zellw ag 
+Pharm tech Service -Abteilung.  
+ 
+10.1 Info 
+ 
+ID Info Behebun g  
+336 Maschine  stoppt nach beendetem Zyklus.  Maschine wird durch einen Fehler, Stopptaste oder 
+erreichter Stückzahl  gestoppt.  
+359 Stopfen Setztstation Förderschiene   Materialfluss 
+ist zu langsam, Maschine wartet,  bis Förder-
+schiene  wieder voll ist.  Prüfen sie den Fö rdertopf auf Klemmung von Mate-
+rial 
+360 Stopfen Setztstation Fördertopf Materialstand 
+niedrig.  Stopfen nachfüllen  
+365 Deckel Setzstation Förderschiene   Materialfluss 
+ist zu langsam, Maschine wartet,  bis Förder-
+schiene wieder voll ist.  Prüfen sie den Fö rdertopf auf Klemmung von Mate-
+rial 
+366 Deckel Setzstation Fördertopf Materialstand nied-
+rig. Deckel nachfüllen  
+431 In Prozess Kontrolle Keine  Verbindung zur Waa-
+gen Einheit . Prüfen der Verbindung zur Waage, Prüfen der Span-
+nungsversorgung  
+433 Gebinde Einlauf Gebinde Stopper  1 Warte auf Fla-
+schen  Flaschen nachfüllen  
+434 Gebinde Einlauf Gebinde Stopper  2 Warte auf Fla-
+schen  Flaschen nachfüllen  
+445 Anlage CIP  Adapter nicht installiert  CIP-Adapter installieren  
+448 Kein Batchprotokoll gestartet  Hinweis erschein falls sich die Maschine im Automa-
+tikbetrieb befindet und kein Batchprotokoll gestar-
+tet wurde  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 10  
+ 
+  3/17  
+ 
+10.2 Warnung  
+ 
+ID Warnung  Behebung  
+606 Etikettierer OPC UA Kommunikation Verbin-
+dungsproblem.  Überprüfung des Eitkettiere rs 
+365 LAF 515, 41 Vorfilter wechseln.  Überprüfung des LAF 
+366 LAF 515, 41 HEPA -Filter wechseln.  Überprüfung des LAF 
+369 LAF 515, 42 Vorfilter wechseln.  Überprüfung des LAF 
+370 LAF #515, 42 HEPA -Filter wechseln.  Überprüfung des LAF 
+57 Anlage Schutztüre sind nicht geschlossen.  Türen schliessen und Vorgang erneut starten  
+140 Verschrauben Fördertopf Füllstand tief.  Füllstand prüfen  
+444 Verschrauben Förderbunker Füllstand tief.  Füllstand prüfen  
+537 Stopfen setzen Präsentierer Warte auf Pro-
+dukt  Füllstand prüfen  
+ 
+ 
+10.3 Fehler  
+ 
+ 
+ID Fehler  Behebung  
+56 Keine Druckluft vorhanden oder Druck zu niedrig  Kontrollieren Sie die Druckluftzufuhr der Maschine  
+60 NOT -AUS  Lösen Sie alle NOT -AUS Schalter und quittieren sie den 
+Fehler  
+62 Transport Drehstern Achse befindet  sich im Feh-
+lerzustand   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+63 Transport Drehstern Achse befindet  sich im Feh-
+lerzustand    Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+64 Transport Drehstern Manuelle Bewegung wurde 
+durch einen Fehler des Fahrbefehls unterbro-
+chen.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+66 Transport Drehstern Manuelle Bewegung wurde 
+durch einen Fehler der Achs e unterbrochen.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+67 Transport Drehstern kann nicht eingeschalten 
+werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+68 Transport Drehstern Referenzieren wurde durch 
+einen Fehler abgebrochen.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+69 Transport Drehstern ist  nicht referenziert   Achse referenzieren  
+70 Transport Drehstern befindet  sich im Fehlerzu-
+stand Referenzieren kann nicht ausgeführt wer-
+den.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren    Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 10  
+ 
+ 
+4/17  ID Fehler  Behebung  
+71 Gebinde Einla uf Förderband Drive befindet sich 
+im Fehlerzustand.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+72 Gebindeausschiebung Förderband Drive befin-
+det sich im Fehlerzustand.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+74 Gebindeausschiebung Lift Achse kann nicht ein-
+geschalten werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+75 Gebindeausschiebung Lift Anfahren der Basispo-
+sition wurde durch einen Fehler unterbrochen   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+78 Gebindeausschiebung Lift Absolutes verfahren 
+wurde durch einen  anderen Fahrbefehl unter-
+brochen   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+80 Gebindeausschiebung Lift zu Basisposition kann 
+nicht ausgeführt werden, da die Achse momen-
+tan durch eine andere Applikation verwendet 
+wird.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+91 Gebindeausschiebung Gebindeausstosser 1 
+Achse kann nicht eingeschalten werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+93 Gebindeausschiebung Gebindeausstosser 1 An-
+fahren der Basisposition wurde durch einen Feh-
+ler unterbrochen   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+94 Gebindeausschiebung Gebindeausstosser 1 Ab-
+solutes verfahren wurde durch einen anderen 
+Fahrbefehl unterbrochen   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+98 Gebindeausschiebung Gebi ndeausstosser 1 zu 
+Basisposition kann nicht ausgeführt werden, da 
+die Achse momentan durch eine andere Applika-
+tion verwendet wird.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+99 Gebindeausschiebung Gebindeausstosser 2 
+Achse kann nicht eingeschalten werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+100 Gebindeausschiebung Gebindeausstosser 2 An-
+fahren der Basisposition wurde durch einen Feh-
+ler unterbrochen   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+101 Gebindeausschiebung Gebindeausstosser 2 Ab-
+solutes verfahren wurde durch einen anderen 
+Fahrbefehl unt erbrochen   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+102 Gebindeausschiebung Gebindeausstosser 2 zu 
+Basisposition kann nicht ausgeführt werden, da 
+die Achse momentan durch eine andere Applika-
+tion verwendet wird.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+103 Gebindeausschiebung Lift kann nicht eingeschal-
+ten werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfache m auftreten Support kontaktieren  
+105 Gebindeausschiebung Lift ist nicht referenziert. 
+_  Achse referenzieren  
+107 Gebindeausschiebung Lift befindet sich im Feh-
+lerzustand, Referenzieren kann nicht ausgeführt 
+werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+108 Gebindeausschiebung Gebindeausstosser 1 kann 
+nicht eingeschalten werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+109 Verschrauber 1 C -Achse Referenzieren wurde 
+durch einen Fehler abgebrochen.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+111 Verschrauber 1 Z -Achse ist nicht referenziert.   Achse referenzieren    Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 10  
+ 
+  5/17 ID Fehler  Behebung  
+112 Gebindeausschiebung Gebindeausstosser 1 be-
+findet sich im Fehlerzustand, Referenzieren kann 
+nicht ausgeführt werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+113 Gebindeausschiebung Gebindeausstosse r 2 kann 
+nicht eingeschalten werden.    Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+114 Verschrauber 2 C -Achse Referenzieren wurde 
+durch einen Fehler abgebrochen.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+120 Verschrauber 2 Z -Achse ist nicht referenziert.   Achse referenzieren  
+121 Gebindeausschiebung Gebindeausstosser 2 be-
+findet sich im Fehlerzustand, Referenzieren kann 
+nicht ausgeführt werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+122 Gebindeausschiebung Lift Manuelle Bewegung 
+wurde durch einen Fehler des Fahrbefehls un-
+terbrochen.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+128 Gebindeausschiebung Lift Manuelle  Bewegung 
+wurde durch einen Fehler der Achse unterbro-
+chen.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+129 Gebindeausschiebung Gebindeausstosser 1 Ma-
+nuelle Bewegung wurde durch  einen Fehler des 
+Fahrbefehls unterbrochen.    Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+130 Gebindeausschiebung Gebindeausstosser 1 Ma-
+nuelle  Bewegung wurde durch einen Fehler der 
+Achse unterbrochen.    Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+131 Gebindeausschiebung Gebindeausstosser 2 Ma-
+nuelle Bewegung wurde durch einen Fehler des 
+Fahrbefehls unterbrochen.    Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+132 Gebindeausschiebung Gebindeausstosser 2 Ma-
+nuelle  Bewegung wurde durch einen Fehler der 
+Achse unterbrochen.    Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+133 Gebindeausschiebung Schranke kann zurück Po-
+sition nicht erreichen.   Prüfen Sie die Einheit auf Blockaden.  
+Prüfen Sie den Sitz des Sensors.  
+134 Gebindeausschiebung Schieber kann zurück Po-
+sition nicht erreichen.   Prüfen Sie die Einheit auf Blockaden.  
+Prüfen Sie den Sitz des Sensors.  
+148 Gebindeausschiebung Lift Der Fahrbefehl wurde 
+durch einen Fehler beendet.     Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+149 Gebindeausschiebung Gebindeausstosser 1 Der 
+Fahrbefe hl wurde durch einen Fehler beendet.     Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+150 Gebindeausschiebung Gebindeausstosser 2 Der 
+Fahrbefehl wurde durch einen Fehler beendet.     Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+151 Gebindeausschiebung Schieber Konnte Position  
+nicht erreichen.    Prüfen Sie die Einheit auf Blockaden.  
+Prüfen Sie den Sitz des Sensors.  
+152 Gebindeausschiebung Zeitüberschreitung  des 
+Schritts.   1. Quittieren Sie und starten Sie die Maschine erneut. 
+2. Bei mehrfachem auftreten Support kontaktieren  
+153 Verschrauber 1 Z -Achse Manuelle Bewegung 
+wurde durch einen Fehler des Fahrbefehls un-
+terbrochen.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+154 Verschrauber 1 Z -Achse Manuelle  Bewegung 
+wurde durch einen Fehler der Achse unterbro-
+chen.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren    Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 10  
+ 
+ 
+6/17  ID Fehler  Behebung  
+155 Verschrauber 1 C -Achse Manuelle Bewegung 
+wurde durch einen Fehler des Fahrbefehls un-
+terbroche n.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+156 Verschrauber 1 C -Achse Manuelle  Bewegung 
+wurde durch einen Fehler der Achse unterbro-
+chen.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+157 Verschrauber 1 C -Achse kann nicht eingeschal-
+ten werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+159 Stopfen Setztstation C -Achse Referenzieren 
+wurde durch einen Fehler abgebrochen.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+161 Verschrauber 1 C -Achse ist  nicht referenziert   Achse referenzieren  
+162 Verschrauber 1 C -Achse befindet  sich im Fehler-
+zustand Referenzieren kann nicht ausgeführt 
+werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+164 Verschrauber 1 Z -Achse kann nicht eingeschal-
+ten werden.   Quittieren Sie und s tarten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+165 Stopfen Setztstation Drehstern Referenzieren 
+wurde durch einen Fehler abgebrochen.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+172 Verschrauber 1 Z -Achse befindet sich im Fehler-
+zustand, Referenzieren kann nicht ausgeführt 
+werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+173 Verschrauber 1 Power  kann nicht eingeschalten  
+werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+178 Verschrauber 1 C -Achse befindet sich im Fehler-
+zustand Verschrauben kann nicht ausgeführt 
+werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+179 Verschrauber 1 Z -Achse Z -Achse befindet sich im 
+Fehlerzustand Verschrauben kann nicht ausge-
+führt werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+180 Stopfen Setztstation Präsentierer konnte nicht 
+vorbereitet werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+184 Verschrauber 1 Z -Achse kann Setzposition nicht 
+erreichen.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+185 Verschrauber 1 Z -Achse Warteposition kann 
+nicht erreicht werden.   Prüfen Sie die Achse auf Blo ckaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+186 Verschrauber 1 Z -Achse Fehler in der Kraftüber-
+wachung des Vorschubs.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+187 Stopfen Setztstation Va kuumsauger 1 Greifer 
+konnte nicht geschlossen werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+188 Verschrauber 1 Z -Achse Achse kann nicht einge-
+schalten werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+189 Verschrauber 1 Z -Achse Anfahren der Basisposi-
+tion wurde durch einen Fehler unterbrochen    Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+190 Verschrauber 1 Z -Achse Absolutes verfahren 
+wurde durch einen anderen Fahrbefehl unter-
+brochen    Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+191 Stopfen Setztstation Z -Achse Manuelle Bewe-
+gung wurde durch einen Fehler des Fahrbefehls 
+unterbrochen.    Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse    Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 10  
+ 
+  7/17 ID Fehler  Behebung  
+192 Stopfen Setztstation Z -Achse Manuelle  Bewe-
+gung wurde durch einen Fehler der Achse unter-
+brochen.    Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+193 Stopfen Setztstation C -Achse Manuelle Bewe-
+gung wurde durch einen Fehler des Fahrbefehls 
+unterbrochen.    Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+194 Stopfen Setztstation C-Achse Manuelle  Bewe-
+gung wurde durch einen Fehler der Achse unter-
+brochen.    Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+195 Stopfen Setztstation Achsen befindet sich im 
+Fehlerzustand.    Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+196 Stopfen Setztstation Z -Achse Setz Position 
+konnte nicht erreicht werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+197 Stopfen Setztstation Va kuumsauger 2 Greifer 
+konnte nicht geschlossen werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+198 Stopfen Setztstation Achsen befindet sich im 
+Fehlerzustand   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+200 Stopfen Setztstation Z -Achse Setzposition kann 
+nicht erreicht werden.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+201 Stopfen Setztstation Va kuumsauger konnte 
+nicht geöffnet werden oder Vakuum konnte 
+nicht gebrochen werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+202 Stopfen Setztstation Z -Achse kann Basisposition 
+nicht erreichen.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+203 Stopfen Setztstation X -Achse kann  Basisposition 
+nicht erreichen.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+204 Stopfen Setztstation C -Achse kann Basisposition 
+nicht erreichen.   Quittieren Sie un d starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+205 Stopfen Setztstation Achsen befindet sich im 
+Fehlerzustand.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+206 Stopfen Setztstation C -Achse kann nicht einge-
+schalten werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+207 Gebinde Einlauf Gebinde Stopper  1 kann  Posi-
+tion nicht erreichen.   Prüfen Sie die Einheit auf Blockaden.  
+Prüfen Sie den Sitz des Sensors.  
+208 Stopfen Setztstation C -Achse ist  nicht referen-
+ziert   Achse referenzieren  
+209 Gebinde Einlauf Gebinderückhaltung kann zu-
+rück Position nicht erreichen.   Prüfen Sie die Einheit auf Blockaden.  
+Prüfen Sie den Sitz des Sensors.  
+211 Stopfen Setztstation C -Achse befindet  sich im 
+Fehlerzustand Referenzieren kann nicht ausge-
+führt werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftret en Support kontaktieren  
+212 Stopfen Setztstation Z -Achse kann nicht einge-
+schalten werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+223 Gebinde Einlauf Gebinde Stopper  2 kann  Posi-
+tion nicht erreichen.   Prüfen Sie die Einheit auf Blockaden.  
+Prüfen Sie den Sitz des Sensors.  
+224 Verschrauber 1 Z -Achse zu Basisposition kann 
+nicht ausgeführt werden, da die Achse momen-
+tan durch eine andere Applikation verwendet 
+wird.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren    Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 10  
+ 
+ 
+8/17  ID Fehler  Behebung  
+225 Verschrauber 2 Z -Achse Manuelle Bewegung 
+wurde durch einen Fehler des Fahrbefehls un-
+terbrochen.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+226 Verschrauber 2 Z -Achse Manuelle  Bewegung 
+wurde durch einen Fehler der Achse unterbro-
+chen.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+227 Verschrauber 2 C -Achse Manuelle Bewegung 
+wurde durch einen Fehler des Fahrbefehls un-
+terbrochen.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+228 Verschrauber 2 C -Achse Manuelle  Bewegung 
+wurde durch einen Fehler der Achse unterbro-
+chen.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+229 Verschrauber 2 C -Achse kann nicht eingeschal-
+ten werden.   Quittieren Sie und starten Sie die M aschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+230 Verschrauber 2 C -Achse ist  nicht referenziert   Achse referenzieren  
+231 Verschrauber 2 C -Achse befindet  sich im Fehler-
+zustand Referenzieren kann nicht ausgeführt 
+werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+232 Verschrauber 2 Z -Achse kann nicht eingeschal-
+ten werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+233 Verschrauber 2 Z -Achse befindet sich im Fehler-
+zustand, Referenzieren kann nicht ausgeführt 
+werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+234 Verschrauber 2 Power  kann nicht eingeschalten  
+werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+235 Verschrauber 2 C -Achse befindet sich im Fehler-
+zustand Verschrauben kann nicht ausgeführt 
+werden.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+236 Verschrauber 2 Z -Achse Z -Achse befindet sich im 
+Fehlerzustand Verschrauben kann nicht ausge-
+führt werden.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+237 Verschrauber 2 Z -Achse kann Setzposition nicht 
+erreichen.   Quittieren S ie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+238 Verschrauber 2 Z -Achse Warteposition kann 
+nicht erreicht werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+239 Verschrauber 2 Z -Achse Fehler in der Kraftüber-
+wachung des Vorschubs.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+240 Verschrauber 2 Z -Achse Achse kann nicht einge-
+schalten werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+241 Verschrauber 2 Z -Achse Anfahren der Basisposi-
+tion wurde durch einen Fehler unterbrochen   Quittieren Sie und starten Sie die Maschi ne erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+243 Verschrauber 2 Z -Achse Absolutes verfahren 
+wurde durch einen anderen Fahrbefehl unter-
+brochen   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+244 Verschrauber 2 Z -Achse zu Basisposition kann 
+nicht ausgeführt werden, da die Achse momen-
+tan durch eine andere Applikation verwendet 
+wird.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+245 Gebinde Einlauf Gebinde Stopper  1 kann zurück 
+Position nicht erreichen.   Prüfen Sie die Einheit auf Blockaden.  
+Prüfen Sie den Sitz des Sensors.  
+246 Gebinde Einlauf Gebinde Stopper  2 kann zurück 
+Position nicht erreichen.  Prüfen Sie die Einheit auf Blockaden.  
+Prüfen Sie den Sitz des Sensors.    Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 10  
+ 
+  9/17 ID Fehler  Behebung  
+247 Gebinde Einlauf Gebinderückhaltung kann vor 
+Position nicht erreichen.   Prüfen Sie die Einheit auf Blockaden.  
+Prüfen Sie den Sitz des Sensors.  
+248 Stopfen Setztstation Z -Achse befindet sich im 
+Fehlerzustand, Referenzieren kann nicht ausge-
+führt werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftre ten Support kontaktieren  
+249 Stopfen Setztstation Drehstern kann nicht einge-
+schalten werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+250 Gebinde Einlauf Einlaufweiche 1 kann zurück Po-
+sition nicht erreichen.  Prüfen Sie die Einheit auf Blockaden.  
+Prüfen Sie den Sitz des Sensors.  
+251 Stopfen Setztstation Drehstern ist  nicht referen-
+ziert   Achse referenzieren  
+258 Gebinde Einlauf Einlaufweiche 1 kann vor Posi-
+tion nicht erreichen.   Prüfen Sie die Weiche auf Blockaden.  
+259 Stopfen Setztstation Drehstern befindet  sich im 
+Fehlerzustand Referenzieren kann nicht ausge-
+führt werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktier en 
+263 Stopfen Setztstation Z -Achse ist nicht referen-
+ziert.   Achse referenzieren  
+264 Gebindeausschiebung Gebindeausstosser 1 ist 
+nicht referenziert.   Achse referenzieren  
+271 Stopfen Setztstation Drehstern Manuelle Bewe-
+gung wurde durch einen Fehler des Fahrbefehls 
+unterbrochen.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+272 Stopfen Setztstation Drehstern Manuelle  Bewe-
+gung wurde durch einen Fehler der Achse unter-
+brochen.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+273 Füllstation 1 Füllventil 1 Ventilstellung  Überwa-
+chung Fehler.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+274 Füllstation 1 Füllventil 1 Füllzyklus  konnte nicht 
+abgeschlossen werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+275 Füllstation 1 Füllventil 1 Technologiefehler  Ventil   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+276 Füllstation 1 Füllventil 2 Ventilstellung  Überwa-
+chung Fehler.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+277 Füllstation 1 Füllventil 2 Füllzyklus  konnte nicht 
+abgeschlossen werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+278 Füllstation 1 Füllventil 2 Technologiefehler  Ventil   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+280 Füllstation 2 Füllventil 1 Ventilstellung  Überwa-
+chung Fehler.   Quittieren Sie und  starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+281 Füllstation 2 Füllventil 1 Füllzyklus  konnte nicht 
+abgeschlossen werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+282 Füllstation 2 Füllventil 1 Technologiefehler  Ventil   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+283 Füllstation 2 Füllventil 2 Ventilstellung  Überwa-
+chung Fehler.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+284 Füllstation 2 Füllventil 2 Füllzyklus  konnte nicht 
+abgeschlossen werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+285 Füllstation 2 Füllventil 2 Technologiefehler  Ventil   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+286 Anlage Mehrfache  Schlechtteile in Serie erkannt.   Prüfen Sie die Rezeptwerte der Betroffenen Station  
+287 Anlage Mehrfache  Schlechtteile in Serie erkannt.   Prüfen Sie die Rezeptwerte der Betroffenen Station    Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 10  
+ 
+ 
+10/17  ID Fehler  Behebung  
+288 Anlage Mehrfache  Schlechtteile in Serie erkannt.   Prüfen Sie die Rezeptwerte der Betroffenen Station  
+289 Anlage Mehrfache  Schlechtteile in Serie erkannt.   Prüfen Sie die Rezeptwerte der Betroffenen Station  
+290 Anlage Mehrfache  Schlechtteile in Serie erkannt.   Prüfen Sie die Rezeptwerte der Betroffenen Station  
+292 Anlage Mehrfache  Schlechtteile in Serie erkannt.   Prüfen Sie die Rezeptwerte der Betroffenen Station  
+293 Anlage Mehrfache  Schlechtteile in Serie erkannt.   Prüfen Sie die Rezeptwerte der Betroffenen Station  
+294 Füllstation 1 Mehrfache  Schlechtteile in Serie er-
+kannt.   Prüfen Sie die Rezeptwerte der Betroffenen Station  
+295 Füllstation 1 Mehrfache  Schlechtteile in Serie er-
+kannt.   Prüfen Sie die Rezeptwerte der Betroffenen Station  
+309 Anlage Mehrfache  Schlechtteile in Serie erkannt.   Prüfen Sie die Rezeptwerte der Betroffenen Station  
+318 Sofort Stop durch Sto ptaste   Quittieren Sie und starten Sie die Maschine erneut  
+319 Transport Laufflächenverstellung Achse kann 
+nicht eingeschalten werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+320 Transport Laufflächenverstellung Anfahren der 
+Basisposition wurde durch einen Fehler unter-
+brochen   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+336 Transport Laufflächenverstellung Absolutes ver-
+fahren wurde durch einen anderen Fahrbefehl 
+unterbrochen   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+337 Transport Laufflächenverstellung zu Basisposi-
+tion kann nicht ausgeführt werden, da die Achse 
+momentan durch eine andere Applikation ver-
+wendet wird.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+342 Transport Laufflächenverstellung Manuelle Be-
+wegung wurde durch einen Fehler des Fahrbe-
+fehls unterbrochen.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+343 Transport Laufflächenverstellung Manuelle  Be-
+wegung wurde durch einen Fehler der Achse un-
+terbrochen.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+367 Transport Laufflächenverstellung befindet sich 
+im Fehlerzustan d, Referenzieren kann nicht aus-
+geführt werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+368 Transport Laufflächenverstellung kann nicht ein-
+geschalten werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+371 Gebindeausschiebung Gebindeausstosser 2 ist 
+nicht referenziert.   Achse referenzieren  
+374 Deckel Setzstation Z -Achse Manuelle Bewegung 
+wurde durch einen Fehler des Fahrbefehls un-
+terbrochen.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+375 Deckel Setzstation Z -Achse Manuelle  Bewegung 
+wurde durch einen Fehler der Achse unterbro-
+chen.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+377 Deckel Setzstation C -Achse Manuelle Bewegung 
+wurde durch einen Fehler  des Fahrbefehls un-
+terbrochen.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+378 Deckel Setzstation C -Achse Manuelle  Bewegung 
+wurde durch einen Fehler der Achse unterbro-
+chen.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+380 Deckel Setzstation Präsentierer konnte nicht 
+vorbereitet werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren    Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 10  
+ 
+  11/17 ID Fehler  Behebung  
+381 Deckel Setzstation Va kuumsauger 1 Greifer 
+konnte nicht geschlossen werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+383 Deckel Setzstation Va kuumsauger 2 Greifer 
+konnte nicht geschlossen werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+384 Deckel Setzstation Z -Achse Setz Position konnte 
+nicht erreicht werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+385 Deckel Setzstation Achsen befindet sich im Feh-
+lerzustand.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+386 Deckel Setzstation Va kuumsauger konnte nicht 
+geöffnet werden oder Vakuum konnte nicht ge-
+brochen werden.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontakt ieren  
+387 Deckel Setzstation Z -Achse Setzposition kann 
+nicht erreicht werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+389 Deckel Setzstation Achsen befindet sich im Feh-
+lerzustand   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+390 Deckel Setzstation Z -Achse kann Basisposition 
+nicht erreichen.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+391 Deckel Setzstation X -Achse kann  Basisposition 
+nicht erreichen.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+392 Deckel Setzstation C -Achse kann Basisposition 
+nicht erreichen.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+393 Deckel Setzstation Achsen befindet sich im Feh-
+lerzustand.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+395 Deckel Setzstation C -Achse Referenzieren wurde 
+durch einen Fehler abgebrochen.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+397 Deckel Setzstation C -Achse ist  nicht referenziert   Achse referenzieren  
+399 Deckel Setzstation C -Achse befindet  sich im Feh-
+lerzustand Referenzieren kann nicht ausgeführt 
+werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+400 Decke l Setzstation C -Achse kann nicht einge-
+schalten werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+401 Deckel Setzstation Z -Achse kann nicht einge-
+schalten werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+402 Deckel Setzstation Z -Achse befindet sich im Feh-
+lerzustand, Referenzieren kann nicht ausgeführt 
+werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+403 Deckel Setzstation Z -Achse ist nicht referenziert.   Achse referenzieren  
+404 Deckel Setzstation Drehstern Referenzieren 
+wurde durch einen Fehler abgebrochen.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+405 Deckel Setzstation Drehstern ist  nicht referen-
+ziert   Achse referenzieren  
+406 Deckel Setzstation Drehstern kann nicht einge-
+schalten werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+407 Deckel Setzstation Drehstern Manuelle Bewe-
+gung wurde durch einen Fehler des Fahrbefehls 
+unterbrochen.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+408 Deckel Setzstation Drehstern Manuelle  Bewe-
+gung wurde durch einen Fehler der Achse unter-
+brochen.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+409 Transport Laufflächenverstellung ist nicht refe-
+renziert.   Achse referenzieren    Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 10  
+ 
+ 
+12/17  ID Fehler  Behebung  
+410 Deckel Setzstation Drehstern Achse befindet 
+sich im Fehlerzustand   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+411 Deckel Setzstation Drehstern Achse befindet 
+sich im Fehlerzustand   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+412 Stopfen Setztstation Drehstern Achse befindet 
+sich im Fehlerzustand   Prüfen Sie die Achse auf Blockaden  
+Prüfe n Sie die Versorgungspannung des Motors  
+415 Stopfen Setztstation Drehstern Achse befindet 
+sich im Fehlerzustand   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+416 In Prozess Kontrolle Kein Stabiler Waagen wert 
+während dem Prozess erreicht.   Gebinde konnte nicht freigestellt werden, starten Sie 
+den Vorgang erneut.  
+418 In Prozess Kontrolle Waage 2 Keine Verbindung 
+zur Waagen Einheit.   Kontrollieren Sie die Verbindung und die Spannungs-
+versorgung der Waage  
+419 In Prozess Kontrolle Waage 1 Keine Verbindung 
+zur Waagen Einheit.   Kontrollieren Sie die Verbindung und die Spannungs-
+versorgung der Waage  
+420 Anlage mehrfach Schlechtteile in Serie erkannt, 
+prüfen Sie die Station.   Prüfen Sie die Rezeptwerte der Betroffen en Station  
+421 Gebindeausschiebung NCF  Behälter ist voll  Leeren sie den NCF Bereich  
+423 Gebindeausschiebung Auslaufband  Stau  Ein Stau  wurde erkannt, leeren Sie das Auslaufband  
+424 Transport Laufflächenverstellung Achse kann 
+nicht eingeschalten werden.  Bringen Sie die Maschine in den Manuelbetrieb.  
+Starten sie dann den Vorgang erneut.  
+425 Transport Laufflächenverstellung Anfahren der 
+Basisposition wurde durch einen Fehler unter-
+brochen  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+426 Transport Laufflächenverstellung Absolutes ver-
+fahren wurde durch einen anderen Fahrbefehl 
+unterbrochen  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+428 Transport Laufflächenverstellung zu Basisposi-
+tion kann nicht ausgeführt werden, da die Achse 
+momentan durch eine andere Applikation ver-
+wendet wird.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support konta ktieren  
+429 In Prozess Kontrolle Füllventil 1 Füllung 1 aus-
+serhalb Toleranz   Überprüfen Sie die Rezeptwerte der Füllstation  
+433 In Prozess Kontrolle Füllventil 2 Füllung 2 aus-
+serhalb Toleranz   Überprüfen Sie die Rezeptwerte der Füllstation  
+435 Gebindeausschiebung Lift Der Fahrbefehl wurde 
+durch einen Fehler beendet.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+436 Gebindeausschiebung Gebindeausstosser 1 Der 
+Fahrbefehl wurde durch einen Fehler beendet.  1. Prüfen sie die Achse auf Blockaden  
+2.Prüfen sie die Spannungsversorgung des Motors  
+437 Gebindeausschiebung Gebindeausstosser 2 Der 
+Fahrbefehl wurde durch einen Fehler beendet.  1. Prüfen sie die Achse auf Blockaden  
+2.Prüfen sie die Spa nnungsversorgung des Motors  
+438 Gebindeausschiebung Schieber Konnte Position 
+nicht erreichen.  Prüfen sie die Achse auf Blockaden  
+Prüfen sie die Spannungsversorgung des Motors  
+439 Gebindeausschiebung Zeitüberschreitung des 
+Schritts.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+441 Gebindeausschiebung NCF  Behälter ist voll  Leeren sie den NCF Bereich  
+442 Gebindeausschiebung Auslaufband  Stau  Ein Stau  wurde erkannt, leeren Sie das Auslaufband  
+443 Anlage Füllniveau im Vortank zu klein.  1. Prüfen Sie, ob die Anlagensteuerung die Tankspei-
+sung freigegeben hat.  
+2. Prüfen sie die Rezeptparameter PID Füllen. Ev. Ist 
+die maximale Regeleröffnung zu klein.    Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 10  
+ 
+  13/17 ID Fehler  Behebung  
+445 In Prozess Kontrolle Achse  befindet  sich im Feh-
+lerzustand  1. Prüfen sie den Drehstern auf Blockaden   
+2. Prüfen sie die Spannungsversorgung des Motors  
+447 Sicherheitstüren sind nicht geschlossen.   Schliessen Sie die Sicherheitstüren und starten sie den 
+Vorgang e rneut  
+449 Anlage Füllung Zwischentank ist nicht einge-
+schalten  Prüfen Sie den Zwischentankspeisung  
+450 Anlage Druck Zwischentank ist nicht eingeschal-
+ten Prüfen Sie den Zwischentank Druckbeaufschlagung  
+ 
+451 Einlauf & Ausblasen Z -Achse  konnte nicht ein-
+geschalten werden.  Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+453 Einlauf & Ausblasen  Ansaugung Druck nicht ok  Prüfen Sie d ie Ansaugung  
+454 Einlauf & Ausblasen Z -Achse  Fahrbefehl wurde 
+abgebrochen.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+455 Einlauf & Ausblasen Z -Achse   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+456 Einlauf & Ausblasen Auswerfer Auslauf konnte 
+nicht eingeschalten werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+457 Einlauf & Ausblasen Auswerfer Auslauf Refe-
+renzierposition nicht erreicht.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+459 Einlauf & Ausblasen Auswerfer Auslauf Refe-
+renzieren: Achse befindet sich im Fehlerzu-
+stand.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+460 Einlauf & Ausblasen Auswe rfer Auslauf ist nicht 
+referenziert.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+462 Einlauf & Ausblasen Achse Fahrbefehl wurde 
+abgebrochen.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+464 Einlauf & Ausblasen Achse konnte nicht einge-
+schalten werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+466 Einlauf & Ausblasen Stopper Zufuhr Basisposi-
+tion nicht erreicht.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+467 Einlauf & Ausblasen Stopper Ausfu hr Basisposi-
+tion nicht erreicht.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+468 Einlauf & Ausblasen Weiche Position nicht er-
+reicht   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+469 Einlauf & Ausblasen  Auslauf Ungleich Einlauf, 
+Produkt umgefallen ?  Prüfen Sie den Sachverhalt  
+471 Einlauf & Ausblasen Luft Ionisierung_1 ist nicht 
+in Betrieb.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+473 Einlauf & Ausblasen Luft Ionisierung_2 ist nicht 
+in Betrieb.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse    Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 10  
+ 
+ 
+14/17  475 Einlauf & Ausblasen Luft Ionisierung_3 ist nicht 
+in Betrieb.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+477 Einlauf & Ausblasen Luft Ionisierung_4 ist nicht 
+in Betrieb.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+484 Einlauf & Ausblasen Drehteller im Fehlerzu-
+stand.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+485 Einlauf & Ausblasen Drehteller ist nicht ange-
+wählt.  Wählen Sie die Station an  
+486 Einlauf & Ausblasen Förderband im Fehlerzu-
+stand.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+487 Einlauf & Ausblasen Förderband ist nicht ange-
+wählt.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+495 Stopfen setzen Z -Achse  Fahrbefehl wurde ab-
+gebrochen.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+496 Stopfen setzen Z -Achse   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+497 Stopfen setzen C -Achse Fahrbefehl wurde ab-
+gebrochen.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+498 Stopfen setzen C -Achse  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+512 Stopfen setzen Z -Achse  konnte nicht einge-
+schalten werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+513 Stopfen setzen Z -Achse  Referenzierposition 
+nicht erreicht.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+515 Stopfen setzen Z -Achse  Referenzieren: Achse 
+befindet sich im Fehlerzustand.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+516 Stopfen setzen Z -Achs e  ist nicht referenziert.  Referenzieren S ie die Achse  
+517 Stopfen setzen C -Achse konnte nicht einge-
+schalten werden.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+518 Stopfen setzen C -Achse Referenzierposition 
+nicht erreicht.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+520 Stopfen setzen C -Achse Referenzieren: Achse 
+befindet sich im Fehlerzustand.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+521 Stopfen setzen C -Achse ist nicht  referenziert.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+524 Stopfen setzen Präsentierer konnte nicht vor-
+bereitet werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+525 Stopfen setzen Vacuumsauger Greifer konnte 
+nicht geschlossen werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+529 Stopfen setzen Förderschiene rückmeldung 
+fehlt.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+530 Stopfen setzen Fördertopf rückmeldung fehlt.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren    Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 10  
+ 
+  15/17 533 Stopfen setzen Präsentierer  konnte nicht ein-
+geschalten werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+534 Stopfen setzen Präsentierer Der Fahrbefehl 
+wurde durch einen Fehler beendet.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+535 Stopfen setzen Präsentierer Das Takt wurde 
+durch einen anderen Fahrbefehl unterbrochen.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+536 Stopfen setzen Präsentie rer Achse Befindet sich 
+im Fehlerzustand  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+538 Stopfen setzen Präsentierer  konnte nicht ein-
+geschalten werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+539 Stopfen setzen Präsentierer Der Fahrbefehl 
+wurde durch einen Fehler beendet.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+540 Stopfen setzen Präsentierer Das Takt wurde 
+durch einen anderen Fahrbefe hl unterbrochen.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+541 Stopfen setzen Präsentierer Achse Befindet sich 
+im Fehlerzustand  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+542 Stopfen setzen Präsentierer Timeout Transport 
+Takt  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+543 Stopfen setzen Präsentierer konnte nicht einge-
+schalten werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+544 Stopfen setzen Präsentierer Referenzierposi-
+tion nicht er reicht.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+546 Stopfen setzen Präsentierer Referenzieren: 
+Achse befindet sich im Fehlerzustand.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+547 Stopfen setzen Präsentierer ist nicht referen-
+ziert.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+548 Stopfen setzen Präsentierer Fahrbefehl wurde 
+abgebrochen.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+549 Stopfen setzen Präsentierer  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+557 Stopfen setzen Förderbunker rückmeldung 
+fehlt.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+575 Stopfen setzen Saugrohr -Zentrierung ZAchse 
+Basisposition nicht erreicht.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+576 Stopfen setzen Saugrohr -Zentrierung Greifer 
+Basisposition nicht erreicht.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+577 Verschrauben Kle mmung hat nicht geöffnet.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+578 Verschrauben Achsen Basisposition nicht er-
+reicht.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+579 Verschrauben Klemmung hat nicht geöffnet.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+580 Verschrauben Achsen Basisposition nicht er-
+reicht.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors    Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 10  
+ 
+ 
+16/17  Beenden Sie manuelle Bedienung der Achse  
+582 Transport Auswerfer Auslauf Fahrbefehl wurde 
+abgebrochen.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+584 Transport Auswerfer Ausla uf konnte nicht ein-
+geschalten werden.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+585 Stopfen setzen Kontrolle  Mehrfache Schlecht-
+teile in Serie erkannt.   Prüfen Sie die Rezeptwerte der Betroffenen Station  
+586 Einlauf & Ausblasen  Produkt umgefallen  Entneh men S ie das Produkt und rese tten Sie den Pro-
+duktzähler  
+587 Einlauf & Ausblasen Klemmung Ventil/Klem-
+mung Fehler  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+590 Stopfen setzen Achsen anfahren Warte Hol Po-
+sition konnte nicht ausgeführt werden.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse  
+591 Stopfen setzen Z -Achse  Setz Position konnte 
+nicht erreicht werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+592 Stopfen setzen Achsen anfahren Übergangs Hol 
+Position konnte nicht ausgeführt werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+593 Stopfen setzen Ac hsen anfahren Übergangs 
+Setz Position konnte nicht ausgeführt werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+594 Stopfen setzen Achsen anfahren Warte Setz Po-
+sition konnte nicht ausgeführt werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+595 Stopfen setzen Achsen befindet sich im Fehler-
+zustand.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+596 Stopfen setzen Z -Achse  kann Basisposition 
+nicht erreichen.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+597 Stopfen setzen X -Achse  kann Basisposition 
+nicht erreichen.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+598 Stopfen setzen C -Achse kann Basisposition 
+nicht erreichen.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+599 Stopfen setzen Achsen befindet sich im Fehler-
+zustand.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+600 Stopfen setzen Achsen Stopfenholen konnten 
+nicht ausgeführt werde n.   Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+601 Stopfen setzen Z -Achse  wurde durch einen an-
+deren Fahrbefehl unterbrochen  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+602 Stopfen setzen Achsen befindet sich im Fehler-
+zustand  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+603 Stopfen setzen Z -Achse  Setzposition kann nicht 
+erreicht werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+604 Stopfen setzen Vacuumsauger konnte nicht ge-
+öffnet werden oder Vakuum konnte nicht ge-
+brochen werden.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+605 Stopfen setzen Z -Achse  kann Warteposition 
+nicht erreichen.   Prüfen Sie die Achse auf Blockaden  
+Prüfen Sie die Versorgungspannung des Motors  
+Beenden Sie manuelle Bedienung der Achse    Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 10  
+ 
+  17/17 608 Stopfen setzen C -Achse befindet sich im Fehler-
+zustand  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+609 Transport Auswerfer Auslauf Auswurf ung ewiss  / 
+610 Stopfen setzen C -Achse befindet sich im Fehler-
+zustand  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+611 Stopfen setzen Förderband im Fehlerzustand.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+612 Verschrauben Förderband im Fehlerzustand.  Quittieren Sie und starten Sie die Maschine erneut.  
+Bei mehrfachem auftreten Support kontaktieren  
+613 Verschrauben Kontrolle  Mehrfache Schlecht-
+teile in Serie erkannt.   Prüfen Sie die Rezeptwerte der Betroffenen Station  
+614 Einlauf & Ausblasen  Mehrf ache Schlechtteile in 
+Serie erkannt.   Prüfen Sie die Rezeptwerte der Betroffenen Station  
+615 Füllen Kontrolle Füllen Kontrolle_1 Mehrfache 
+Schlechtteile in Serie erkannt.   Prüfen Sie die Rezeptwerte der Betroffenen Station  
+616 Füllen Kontrolle Füllen Kontrolle_2 Mehrfache 
+Schlechtteile in Serie erkannt.   Prüfen Sie die Rezeptwerte der Betroffenen Station  
+617 Drehstern Einlauf  Mehrfache Schlechtteile in 
+Serie erkannt.   Prüfen Sie die Rezeptwerte der Betroffenen Station  
+618 Drehstern Einlauf  Mehrfache Schlechtteile in 
+Serie erkannt.   Prüfen Sie die Rezeptwerte der Betroffenen Station  
+621 Anlage  wurde geöffnet.   
+622 Anlage  Halt nach Taktende konnte nicht abge-
+schlossen werden.  Die Beendigung einer Station wurde länger als 60 Se-
+kunden aufgehalten  
+ 

@@ -1,0 +1,56 @@
+  Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 11  
+ 
+Inhaltsverzeichnis  Kapitel  11 
+11 Ausserbetriebnahme Demontage und Entsorgung  ................................ ..................  2 
+ 
+Version  Änderungen  Autor  Datum  
+1.0  Matthias Kunz  30.06.2021  
+      Bedienungsanleitung Füll - und Verschliessmaschine Z -110 
+Kapitel 11  
+ 
+ 
+2/2  11 Ausserbetriebnahme Demontage und Entsorgung  
+Dieses Kapitel enthält wichtige Informationen zur korrekten Ausserbetriebnahme und Entsorgung der Maschi-
+ne oder einzelner Maschinenteile . 
+ 
+Die Demontage und die Entso rgung der Maschine oder einzelner  Maschinenteile  darf nur von geschultem Per-
+sonal durchgef ührt werden. Dieses geschulte Personal hat angemessene Kenntnisse über Sicherheits - und Un-
+fallverhütungsvorschriften aufgrund ihres speziellen Trainings, Erfahrung und Unterweisung.  
+ 
+ 
+ GEFAHR  
+Lebensgefahr durch Stromschlag!  
+ 
+Schwere Verletztungen oder Tod können die Folge sein.  
+Einige Teile im Schaltschrank können Spannung führen, obwohl der Hauptschalter ausgeschal-
+tet ist.  Das Eingangskabel zum Schaltschrank und zum Hauptschalter ist immer spannungsfüh-
+rend. Obwohl leitende Teile im S chaltschrank und in den Verteilerboxen berührungssicher sind, 
+kann der Kontakt mit Werkzeugen trotzdem die Gefahr von Kontakt mit leitenden Teilen ber-
+gen.  
+ 
+• Alle Arbeiten an elektrischer Ausrüstung müssen daher unbedingt von qualifizi erten Elekt-
+rikern oder von Personen ausgeführt werden, die entsprechend geschult worden sind.  
+ 
+ 
+ VORSICHT  
+Quetschgefahr wenn schwere Maschinenteile zerlegt werden.  
+ 
+When  die Maschine oder einzelne Maschinenteile auseinandergebaut werden, können sich 
+schwere Teile lösen und zur Quetschung von Körperteilen führen.  
+ 
+ Sorgfältig und aufmerksam arbeiten.  
+ Geeignete Hebevorrichtung verwenden.  
+ Angemessene Schutzausrüstung tragen.  
+ 
+• Fahren Sie die Anlage herunter und schalten Sie sie mit dem Haupt schalter ab.  
+• Unterbrechen Sie gebäudeseitig alle Strom - und Medienzuführungen durch Abschalten der Hauptstrom-
+versorgung bzw. durch Schließen des Druckluft -Hauptvent ils. 
+• Achten Sie darauf, dass dadurch keine anderen Geräte / Anlagen beeinträchtigt werden!  
+• Prüfen Sie den spannungs - / drucklosen Zustand aller abzuhängenden Versorgungsleitungen.  
+• Trennen Sie die Anlage von den Versorgungsleitungen.  
+• Be- / Entlüften Sie all e Druckbehälter und -leitungen.  
+• Entfernen Sie alle Betriebs - und Hilfsstoffe (z. B. Schmiermittel) und entsorgen Sie diese umweltgerecht.  
+• Zerlegen Sie die Anlage so weit, bis alle Anlagenteile einer Materialgruppe zugeordnet und entsprechend 
+entsorgt werde n können.  
+• Entsorgen Sie die Anlage umweltgerecht. Beachten Sie dabei die nationalen Vorschriften.  

@@ -1,0 +1,1087 @@
+Operating instructions for filling and sealing machine Z-110
+Chapter 10
+Table of contents Chapter 10
+10 error messages, errors and how to fix them ................................ ........... .................. 2
+10.1 Info ................................ ................ ................ ................................ .. .............................................. 2
+10.2 Warning ................................ ................ ................ ................................ .. .............................. ......... 3
+10.3 Errors ................................ ................ ................ ................................ .. ............................. ................... 3
+ 
+Version Changes Author Date
+1.0 Andre Niedzwiecki October 27, 2021
+      Operating instructions for filling and sealing machine Z-110
+Chapter 10
+ 
+ 
+2/17 10 error messages, errors and their fixes
+While the machine is operating, operational messages are displayed on the touchscreen. This be-
+Operation messages provide the operator with important information about the correct operation of the machine.
+In the event of a malfunction on the machine, automatic operation is stopped and an error message appears
+displayed on the touchscreen.
+In the case of multiple error messages, all active messages are listed in the "message mask".
+After the malfunction has been resolved, the messages are moved to the archive folder.
+ 
+If the problem cannot be resolved using this list, please contact our Zellw ag
+Pharm tech service department.
+ 
+10.1 Info
+ 
+ID Info Fix
+336 Machine stops after completed cycle. Machine is due to an error, stop button or
+stopped when the number of pieces has been reached.
+359 Plug setting station conveyor rail material flow
+is too slow, machine waits until conveyor
+rail is full again. Check the conveyor bowl for jamming of materials.
+rial
+360 stopper placement station conveyor pot material stand
+low. Refill plug
+365 lid setting station conveyor rail material flow
+is too slow, machine waits until conveyor
+rail is full again. Check the conveyor bowl for jamming of materials.
+rial
+366 Lid setting station conveyor pot material level low
+rig. Refill lid
+431 In process control No connection to the monitor
+towards unity. Checking the connection to the scale, checking the voltage
+power supply
+433 container inlet container stopper 1 waiting for bottle
+refill the bottles
+434 container inlet container stopper 2 waiting for bottle
+refill the bottles
+445 System CIP adapter not installed Install CIP adapter
+448 No batch protocol started. Note appears if the machine is in automatic mode.
+is in tic mode and no batch protocol has been started.
+was tet
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Operating instructions for filling and sealing machine Z-110
+Chapter 10
+ 
+  3/17
+ 
+10.2 Warning
+ 
+ID warning fix
+606 labeler OPC UA communication connection
+connection problem. Checking the egg chain rs
+365 LAF 515, 41 Change pre-filter. Review of the LAF
+366 LAF 515, 41 Change HEPA filter. Review of the LAF
+369 LAF 515, 42 Change pre-filter. Review of the LAF
+370 LAF #515, 42 HEPA filter change. Review of the LAF
+57 System protective doors are not closed. Close the doors and start the process again
+140 screwing conveyor pot filling level low. Check fill level
+444 screwing conveyor bunker fill level low. Check fill level
+537 Put Plugs Presenter Waiting for Pro-
+Check product fill level
+ 
+ 
+10.3 Errors
+ 
+ 
+ID error fix
+56 No compressed air available or pressure too low Check the compressed air supply to the machine
+60 EMERGENCY STOP Release all EMERGENCY STOP switches and acknowledge them
+Mistake
+62 Transport rotating star axis is in error
+status Check the axis for blockages
+Check the motor supply voltage
+End manual operation of the axis
+63 Transport rotating star axis is in error
+status Check the axis for blockages
+Check the motor supply voltage
+End manual operation of the axis
+64 Transport rotating star Manual movement was
+interrupted by an error in the drive command
+chen. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+66 Transport rotating star Manual movement was
+interrupted by an error in axis e. Quitt and restart the machine.
+If this occurs multiple times, contact support
+67 Transport rotating star cannot be switched on
+become. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+68 Transport rotating star referencing was carried out
+aborted due to an error. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+69 Transport rotating star is not referenced. Reference axis
+70 Transport rotating star is in error mode
+Status referencing cannot be carried out
+the. Acknowledge and start the machine again.
+If this occurs multiple times, contact support operating instructions for the filling and sealing machine Z-110
+Chapter 10
+ 
+ 
+4/17 ID error fix
+71 container inlet is located on the conveyor belt drive
+in error state. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+72 Container ejection conveyor belt drive is located
+is in error state. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+74 Container extension lift axis cannot be activated
+be switched. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+75 container ejection lift approaching the base position
+The position was interrupted by an error. Acknowledge and restart the machine.
+If this occurs multiple times, contact support
+78 Container ejection lift Absolute movement
+was interrupted by another driving command
+broken Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+80 container extension lift to base position can
+cannot be carried out because the axis is currently
+tan used by another application
+becomes. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+91 Container ejection Container ejector 1
+Axis cannot be switched on. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+93 container ejection container ejector 1
+driving the base position was caused by an error
+ler interrupted Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+94 container ejection container ejector 1
+Solutes procedure was carried out by another
+Travel command interrupted Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+98 container ejection container ejector 1 closed
+Basic position cannot be executed because
+the axis is currently being used by another application
+tion is used. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+99 container ejection container ejector 2
+Axis cannot be switched on. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+100 container ejection container ejector 2 attachments
+driving the base position was caused by an error
+ler interrupted Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+101 container ejection container ejector 2
+Solutes procedure was carried out by another
+Travel command canceled. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+102 container ejection container ejector 2 closed
+Basic position cannot be executed because
+the axis is currently being used by another application
+tion is used. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+103 Container ejection lift cannot be switched on
+be. Acknowledge and start the machine again.
+If multiple m occur, contact support
+105 Container extension lift is not referenced.
+_ Reference axis
+107 Container ejection lift is faulty
+status, referencing cannot be carried out
+become. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+108 container ejection container ejector 1 can
+cannot be switched on. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+109 Screwdriver 1 C axis was referenced
+canceled due to an errorochen. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+111 Screwdriver 1 Z axis is not referenced. Reference axis operating instructions filling and sealing machine Z-110
+Chapter 10
+ 
+  5/17 ID error fix
+112 container ejection container ejector 1
+is found in the error state, can be referenced
+not be executed. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+113 container ejection container ejection r 2 can
+cannot be switched on. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+114 Screwdriver 2 C axis was referenced
+canceled due to an error. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+120 Screwdriver 2 Z axis is not referenced. Reference axis
+121 container ejection container ejector 2
+is found in the error state, can be referenced
+not be executed. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+122 Container ejection lift Manual movement
+was caused by an error in the travel command.
+broken. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+128 Container ejection lift Manual movement
+was interrupted by an axis error.
+chen. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+129 container ejection container ejector 1 machine
+nal movement was caused by an error of the
+Drive command interrupted. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+130 container ejection container ejector 1 machine
+nual movement was caused by an error
+Axis interrupted. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+131 container ejection container ejector 2 machines
+nal movement was caused by an error of the
+Drive command interrupted. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+132 container ejection container ejector 2 machines
+nual movement was caused by an error
+Axis interrupted. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+133 container extension barrier can be returned to
+cannot reach the position. Check the unit for blockages.
+Check the position of the sensor.
+134 Container ejection slider can be returned to
+cannot reach the position. Check the unit for blockages.
+Check the position of the sensor.
+148 Container ejection lift The travel command was received
+terminated by an error. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+149 Container ejection Container ejector 1 Der
+Driving command was terminated due to an error. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+150 container ejection container ejector 2 der
+Travel command was ended due to an error. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+151 Container ejection slider could position
+not reach. Check the unit for blockages.
+Check the position of the sensor.
+152 Container ejection timeout
+Steps. 1. Acknowledge and start the machine again.
+2. If this occurs multiple times, contact support
+153 Screwdriver 1 Z axis manual movement
+was caused by an error in the travel command.
+broken. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+154 Screwdriver 1 Z axis manual movement
+was interrupted by an axis error.
+chen. Acknowledge and start the machine again.
+If this occurs multiple times, contact support operating instructions for the filling and sealing machine Z-110
+Chapter 10
+ 
+ 
+6/17 ID error fix
+155 Screwdriver 1 C-axis manual movement
+was by onen Error in the drive command and
+interrupted. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+156 Screwdriver 1 C-axis manual movement
+was interrupted by an axis error.
+chen. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+157 Screwdriver 1 C axis cannot be switched on
+be. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+159 Plug setting station C axis homing
+was canceled due to an error. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+161 Screwdriver 1 C axis is not referenced. Reference the axis
+162 Screwdriver 1 C axis is in error
+status Referencing cannot be carried out
+become. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+164 Screwdriver 1 Z axis cannot be switched on
+be. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+165 Plug setting station rotating star referencing
+was canceled due to an error. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+172 Screwdriver 1 Z axis is in error mode
+status, referencing cannot be executed
+become. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+173 Screwdriver 1 Power cannot be switched on
+become. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+178 Screwdriver 1 C axis is in error
+condition Screwing cannot be carried out
+become. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+179 Screwdriver 1 Z axis Z axis is located in the
+Error condition: screwing cannot be removed
+be led. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+180 stopper placement station presenter couldn't
+to get prepared. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+184 Screwdriver 1 Z axis cannot set position
+to reach. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+185 screwdriver 1 Z axis waiting position can
+cannot be achieved. Check the axis for blockages
+Check the motor supply voltage
+End manual operation of the axis
+186 Screwdriver 1 Z axis error in force transmission
+monitoring of the feed. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+187 Plug setting station vacuum suction cup 1 gripper
+could not be closed. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+188 Screwdriver 1 Z axis axis cannot be switched on
+will switch. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+189 Screwdriver 1 Z axis approaching the base position
+tion was interrupted by an error Check the axis for blockages
+Check the motor supply voltage
+End manual operation of the axis
+190 Screwdriver 1 Z axis Absolute movement
+was interrupted by another driving command
+broken Check the axis for blockages
+Check the motor supply voltage
+End manual operation of the axis
+191 Plug setting station Z axis manual movement
+The transmission was caused by an error in the drive command
+interrupted. Check the axle for blockages
+Check the motor supply voltage
+Complete manual operation of the axis operating instructions filling and sealing machine Z-110
+Chapter 10
+ 
+  7/17 ID error fix
+192 Plug setting station Z axis manual movement
+was interrupted due to an axis error.
+broken. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+193 Plug setting station C axis Manual movement
+The transmission was caused by an error in the drive command
+interrupted. Check the axle for blockages
+Check the motor supply voltage
+Exit manual operationening the axis
+194 Plug setting station C-axis Manual movement
+was interrupted due to an axis error.
+broken. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+195 plug setting station axles is located in
+Error condition. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+196 Plug setting station Z axis setting position
+could not be reached. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+197 Plug setting station vacuum suction cup 2 grippers
+could not be closed. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+198 plug setting station axles is located in
+Error condition Check the axis for blockages
+Check the motor supply voltage
+End manual operation of the axis
+200 plug setting station Z axis setting position can
+cannot be achieved. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+201 plug setting station vacuum cleaner could
+could not be opened or vacuum could
+not be broken. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+202 plug setting station Z axis can base position
+not reach. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+203 Plug setting station X axis can base position
+not reach. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+204 plug setting station C axis can base position
+not reach. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+205 plug setting station axles is located in
+Error condition. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+206 Plug setting station C axis cannot be activated
+will switch. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+207 Container inlet Container stopper 1 can be positioned
+tion cannot be achieved. Check the unit for blockages.
+Check the position of the sensor.
+208 Plug setting station C -axis is not referenced-
+reference the axis
+209 Container inlet Container retention can occur
+cannot reach back position. Check the unit for blockages.
+Check the position of the sensor.
+211 Plug setting station C axis is located in
+Error state Homing cannot be activated
+be led. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+212 Plug setting station Z axis cannot be set
+will switch. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+223 container inlet container stopper 2 can be positioned
+tion cannot be achieved. Check the unit for blockages.
+Check the position of the sensor.
+224 screwdriver 1 Z axis to base position can
+cannot be carried out because the axis is currently
+tan used by another application
+becomes. Acknowledge and start the machine again.
+If this occurs multiple times, contact support operating instructions for the filling and sealing machine Z-110
+Chapter 10
+ 
+ 
+8/17 ID error fix
+225 screwdriver 2 Z axis manual movement
+was caused by an error in the travel command.
+broken. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+226 screwdriver 2 Z axis manual movement
+was interrupted by an axis error.
+chen. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+227 Screwdriver 2 C-axis manual movement
+was caused by an error in the travel command.
+broken. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+228 Screwdriver 2 C-axis manual movement
+was interrupted by an axis error.
+chen. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+229 Screwdriver 2 C axis cannot be switched on
+be. Acknowledge and starrestart the machine.
+If this occurs multiple times, contact support
+230 Screwdriver 2 C axis is not referenced. Reference the axis
+231 Screwdriver 2 C axis is in error
+status Referencing cannot be carried out
+become. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+232 Screwdriver 2 Z axis cannot be switched on
+be. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+233 Screwdriver 2 Z axis is in error
+status, referencing cannot be executed
+become. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+234 Screwdriver 2 Power cannot be switched on
+become. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+235 Screwdriver 2 C axis is in error
+condition Screwing cannot be carried out
+become. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+236 Screwdriver 2 Z axis Z axis is located in the
+Error condition: screwing cannot be removed
+be led. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+237 Screwdriver 2 Z axis cannot set position
+to reach. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+238 screwdriver 2 Z axis waiting position can
+cannot be achieved. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+239 Screwdriver 2 Z axis error in force transmission
+monitoring of the feed. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+240 Screwdriver 2 Z axis Axis cannot be switched on
+will switch. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+241 Screwdriver 2 Z axis approaching the base position
+The operation was interrupted by an error. Acknowledge and restart the machine.
+If this occurs multiple times, contact support
+243 Screwdriver 2 Z axis Absolute movement
+was interrupted by another driving command
+broken Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+244 screwdriver 2 Z axis to base position can
+cannot be carried out because the axis is currently
+tan used by another application
+becomes. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+245 container inlet container stopper 1 can return
+Cannot reach position. Check the unit for blockages.
+Check the position of the sensor.
+246 container inlet container stopper 2 can return
+Cannot reach position. Check the unit for blockages.
+Check the position of the sensor. Operating instructions for filling and sealing machine Z-110
+Chapter 10
+ 
+  9/17 ID error fix
+247 container inlet Container retention can occur
+Cannot reach position. Check the unit for blockages.
+Check the position of the sensor.
+248 Plug setting station Z axis is located in
+Error state, homing cannot be carried out
+be led. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+249 Plug setting station rotating star cannot be set
+will switch. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+250 containers inlet inlet diverter 1 can be returned to
+cannot reach the position. Check the unit for blockages.
+Check the position of the sensor.
+251 Plug setting station rotating star is not referenced
+reference the axis
+258 containers inlet inlet diverter 1 can be positioned in front of
+tion cannot be achieved. Check the switch for blockages.
+259 Plug setting station rotating star is located in the
+Error state Homing cannot be activated
+be led. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+263 Plug setting station Z axis is not referenced
+adorned. Reference axis
+264 container ejection container ejector 1 is
+not referenced. Reference axis
+271 Plug setting station rotating star manual movement
+wasde due to an error in the drive command
+interrupted. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+272 plug setting station rotating star manual movement
+was interrupted due to an axis error.
+broken. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+273 Filling station 1 filling valve 1 valve position monitoring
+chung error. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+274 Fill station 1 fill valve 1 fill cycle failed
+be completed. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+275 Filling station 1 Filling valve 1 Technology error valve Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+276 Filling station 1 Filling valve 2 Valve position monitoring
+chung error. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+277 Fill station 1 fill valve 2 fill cycle failed
+be completed. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+278 Filling station 1 Filling valve 2 Technology error valve Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+280 Filling station 2 Filling valve 1 Valve position monitoring
+chung error. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+281 Fill station 2 fill valve 1 fill cycle failed
+be completed. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+282 Filling station 2 Filling valve 1 Technology error valve Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+283 Filling station 2 Filling valve 2 Valve position monitoring
+chung error. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+284 Fill station 2 fill valve 2 fill cycle failed
+be completed. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+285 Filling station 2 Filling valve 2 Technology error valve Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+286 System Multiple bad parts detected in series. Check the prescription values ​​of the affected station
+287 System Multiple bad parts detected in series. Check the recipe values ​​of the affected station operating instructions filling and sealing machine Z-110
+Chapter 10
+ 
+ 
+10/17 ID error fix
+288 System Multiple bad parts detected in series. Check the prescription values ​​of the affected station
+289 System Multiple bad parts detected in series. Check the prescription values ​​of the affected station
+290 System Multiple bad parts detected in series. Check the prescription values ​​of the affected station
+292 System Multiple bad parts detected in series. Check the prescription values ​​of the affected station
+293 System Multiple bad parts detected in series. Check the prescription values ​​of the affected station
+294 Filling station 1 Multiple bad parts produced in series
+knows. Check the prescription values ​​of the affected station
+295 Filling station 1 Multiple bad parts produced in series
+knows. Check the prescription values ​​of the affected station
+309 System Multiple bad parts detected in series. Check the prescription values ​​of the affected station
+318 Immediately stop using the stop button Acknowledge and start the machine again
+319 Transport tread adjustment axle can
+cannot be switched on. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+320 Transport Tread adjustment Starting the
+Base position was interrupted due to an error
+broken Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+336 Transport tread adjustment Absolutely ver-
+driving was caused by another driving command
+interrupted Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+337 Transport tread adjustment to base position
+tion cannot be carried out because the axis
+currently used by another application
+is applied.Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+342 Transport Tread adjustment Manual operation
+movement was caused by an error in the driving
+not interrupted. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+343 Transport Tread adjustment Manual operation
+movement was caused by an error in the axis and
+broken. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+367 Transport tread adjustment is located
+in error state d, referencing cannot be carried out
+be guided. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+368 Transport tread adjustment cannot be activated
+be switched. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+371 container ejection container ejector 2 is
+not referenced. Reference axis
+374 Lid setting station Z axis manual movement
+was caused by an error in the travel command.
+broken. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+375 Lid setting station Z -axis manual movement
+was interrupted by an axis error.
+chen. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+377 Lid setting station C -axis manual movement
+was caused by an error in the travel command.
+broken. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+378 Lid setting station C -axis manual movement
+was interrupted by an axis error.
+chen. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+380 lid setting station presenter couldn't
+to get prepared. Acknowledge and start the machine again.
+If this occurs multiple times, contact support operating instructions for the filling and sealing machine Z-110
+Chapter 10
+ 
+  11/17 ID error fix
+381 Lid setting station vacuum suction cup 1 gripper
+could not be closed. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+383 Lid setting station vacuum suction cup 2 grippers
+could not be closed. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+384 cover setting station Z axis setting position could
+cannot be achieved. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+385 Axle setting station cover is faulty
+learning state. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+386 Lid setting station vacuum cleaner could not
+opened or vacuum could not be created.
+be broken. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+387 cover setting station Z axis setting position can
+cannot be achieved. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+389 Cover for setting station axles is faulty
+status Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+390 cover setting station Z axis can base position
+not reach. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+391 cover setting station X axis can base position
+not reach. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+392 cover setting station C axis can base position
+not reach. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+393 Axle setting station cover is faulty
+learning state. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+395 Cover setting station C axis homing was done
+canceled due to an error. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+397 Cover setting station C axis is not referenced Reference axis
+399 Lid setting stationC axis is in error
+status Referencing cannot be carried out
+become. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+400 Ceiling l Setting station C axis cannot be switched on
+will switch. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+401 Lid setting station Z axis cannot be activated
+will switch. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+402 Cover setting station Z axis is in error
+status, referencing cannot be carried out
+become. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+403 Cover setting station Z axis is not referenced. Reference axis
+404 Cover setting station rotating star referencing
+was canceled due to an error. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+405 Cover setting station rotating star is not referenced
+reference the axis
+406 Lid setting station rotating star cannot be activated
+will switch. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+407 Lid setting station rotating star manual movement
+The transmission was caused by an error in the drive command
+interrupted. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+408 Lid setting station rotating star manual movement
+was interrupted due to an axis error.
+broken. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+409 Transport tread adjustment is not recommended
+renned. Reference axis operating instructions filling and sealing machine Z-110
+Chapter 10
+ 
+ 
+12/17 ID error fix
+410 Cover setting station rotating star axis is located
+is in an error state. Check the axis for blockages
+Check the motor supply voltage
+411 cover setting station rotating star axis is located
+is in an error state. Check the axis for blockages
+Check the motor supply voltage
+412 Plug setting station rotating star axis is located
+is in an error state. Check the axis for blockages
+Check the motor supply voltage
+415 plug setting station rotating star axis is located
+is in an error state. Check the axis for blockages
+Check the motor supply voltage
+416 In process control No stable scales worth
+achieved during the process. Container could not be released, start
+the process again.
+418 In process control scale 2 No connection
+to the scale unit. Check the connection and voltage
+supplying the scale
+419 In process control scale 1 No connection
+to the scale unit. Check the connection and voltage
+supplying the scale
+420 system detected bad parts several times in series,
+check the station. Check the prescription values ​​of the affected station
+421 Container ejection NCF container is full. Empty the NCF area
+423 Container ejection outfeed conveyor Jam A jam has been detected, empty the outfeed conveyor
+424 transport tread adjustment axle can
+cannot be switched on. Put the machine in manual mode.
+Then start the process again.
+425 Transport tread adjustment approaching the
+Base position was interrupted due to an error
+broken Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+426 Transport tread adjustment Absolutely ver-
+driving was caused by another driving command
+interrupted Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+428 Transport tread adjustment to base position
+tion cannot be carried out because the axis
+currently used by another application
+is applied. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+429 In process check filling valve 1 filling 1 off
+outside tolerance Check the recipe values ​​of the filling station
+433 In process check filling valve 2 filling 2 off
+outside tolerance Check the recipe values ​​of the filling station
+435 Container ejection lift The travel command was received
+terminated by an error.Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+436 container ejection container ejector 1 der
+Travel command was ended due to an error. 1. Check the axis for blockages
+2.Check the motor power supply
+437 container ejection container ejector 2 Der
+Travel command was ended due to an error. 1. Check the axis for blockages
+2.Check the power supply to the motor
+438 Container ejection slider could position
+not reach. Check the axis for blockages
+Check the motor power supply
+439 Container ejection timeout
+Steps. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+441 Container ejection NCF container is full. Empty the NCF area
+442 Container ejection outfeed conveyor Jam A jam has been detected, empty the outfeed conveyor
+443 System Filling level in the pre-tank too low. 1. Check whether the system control system supports the tank storage
+released the solution.
+2. Check the PID Fill recipe parameters. Ev. Is
+the maximum rule opening is too small. Operating instructions for filling and sealing machine Z-110
+Chapter 10
+ 
+  13/17 ID error fix
+445 In process control axis is in error
+status 1. Check the rotating star for blockages
+2. Check the motor power supply
+447 security doors are not closed. Close the security doors and start it
+process again
+449 System Filling intermediate tank is not switched on
+Switch Check the intermediate tank feed
+450 System pressure intermediate tank is not switched on
+th Check the intermediate tank pressurization
+ 
+451 Intake & blowout Z axis could not enter
+be switched. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+453 Inlet & blowout Suction pressure not ok Check the suction
+454 Inlet & blowout Z axis travel command was issued
+canceled. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+455 Inlet & blowout Z axis Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+456 inlet & blowout ejector outlet could
+cannot be switched on. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+457 Inlet & Blow Out Ejector Outlet Reference
+Restoration position not reached. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+459 Inlet & Blow Out Ejector Outlet Reference
+correct: Axis is in the error zone
+was standing. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+460 inlet & blow out ejector outlet is not
+referenced. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+462 Intake & blowout axis travel command was received
+canceled. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+464 Intake & blowout axis could not be switched on
+will switch. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+466 inlet & blow out stopper feed base position
+tion not achieved. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+467 Inlet & Blow Out Stopper Exit Basic Position
+tion not achieved. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+468 Inlet & blow out Soft position not achieved
+is enough Check the axis for blockages
+Check the motor supply voltage
+End manual operation of the axis
+469 inlet & blowout outlet unequal inlet,
+Product fallen over? Check the facts
+471 Inlet & blow out air ionization_1 is not
+in operation. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+473 Inlet & blow out air ionization_2 is not
+in operation. Check the axle for blockages
+Check the motor supply voltage
+Exit manual operationr axis operating instructions for filling and sealing machine Z-110
+Chapter 10
+ 
+ 
+14/17 475 Inlet & blow out air ionization_3 is not
+in operation. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+477 Inlet & blow out air ionization_4 is not
+in operation. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+484 Inlet & blowout turntable in error condition
+was standing. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+485 Inlet & blowout turntable is not connected
+chooses. Select the station
+486 Inlet & blowout conveyor belt in error condition
+was standing. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+487 Inlet & blowout conveyor belt is not connected
+chooses. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+495 Set plug Z axis travel command was sent
+Broken. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+496 Set plug Z axis Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+497 Set plug C axis travel command was sent
+Broken. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+498 Set plug C axis Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+512 Set plug Z axis could not be inserted
+will switch. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+513 Set plugs Z axis homing position
+not reached. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+515 Set plug Z axis Homing: axis
+is in error state. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+516 Set plug Z axis is not referenced. Home the axis
+517 Set plug C axis could not be inserted
+will switch. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+518 Set plugs C axis homing position
+not reached. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+520 Set plug C axis Homing: Axis
+is in error state. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+521 Set plug C axis is not referenced. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+524 Set plug Presenter could not
+be prepared. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+525 plug could put vacuum suction gripper
+not be closed. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+529 Set plug conveyor rail feedback
+missing. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+530 Set plug. Feed pot feedback is missing. Acknowledge and start the machine again.
+If this occurs multiple times, contact support operating instructions for the filling and sealing machine Z-110
+Chapter 10
+ 
+  15/17 533 Set plug Presenter could not insert
+be switched. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+534 Set plug Presenter The drive command
+was terminated by an error. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+535 Plugs put presenter The beat was
+interrupted by another driving command. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+536 Insert plug Presenter axis Located
+in error condition Acknowledge and restart the machine.
+If this occurs multiple times, contact support
+538 Insert plug Presenter could not insert
+savedwill hold. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+539 Set plug Presenter The drive command
+was terminated by an error. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+540 plugs put presenter The beat was
+interrupted by another driving command. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+541 Insert Plug Presenter Axis Located
+in error condition Acknowledge and restart the machine.
+If this occurs multiple times, contact support
+542 Set Plug Presenter Timeout Transport
+Cycle Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+543 Insert plug Presenter could not be inserted
+will switch. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+544 set plugs presenter referencing position
+tion is not enough. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+546 Put plugs Presenter Referencing:
+Axis is in error state. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+547 Set plug Presenter is not referenced
+adorned. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+548 Set plug Presenter Travel command was given
+canceled. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+549 Set plug presenter Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+557 plugs set conveyor bunker feedback
+missing. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+575 plugs set suction pipe centering Z axis
+Base position not reached. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+576 plugs set suction pipe centering gripper
+Base position not reached. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+577 Screw clamp has not opened. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+578 Screwing axes base position not achieved
+suffices. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+579 Screwing clamping did not open. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+580 Screwing axes base position not achieved
+suffices. Check the axle for blockages
+Check the supply voltage of the motor operating instructions filling and sealing machine Z-110
+Chapter 10
+ 
+ 
+16/17 End manual operation of the axis
+582 Transport ejector runout travel command was issued
+canceled. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+584 Transport ejector outlet could not be inserted
+be switched. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+585 Insert plug Check Multiple bad
+parts detected in series. Check the prescription values ​​of the affected station
+586 Inlet & Blowout Product fallen Remove the product and reset the pro-
+duct counter
+587 inlet & blow out clamping valve/clamp
+mung error Acknowledge and restart the machine.
+If this occurs multiple times, contact support
+590 Set plugs Move axes Wait Get Po-
+position could not be executed. Check the axle for blockages
+Check the motor supply voltage
+End manual operation of the axis
+591 Set plug Z axis set position could
+cannot be achieved. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+592 Set plugs Move axes Transition Hol
+Position could not be executed. Acknowledge and start the machinehine again.
+If this occurs multiple times, contact support
+593 Set plugs Move axes transition
+Set position could not be executed. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+594 Set plugs Move axes Wait Set po-
+position could not be executed. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+595 Set plug Axis is in error state
+condition. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+596 plugs set Z axis can base position
+not reach. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+597 plug set X axis can base position
+not reach. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+598 plug set C axis can base position
+not reach. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+599 Set plug Axis is in error state
+condition. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+600 axles were able to put plugs and get plugs
+will not be executed. Acknowledge and restart the machine.
+If this occurs multiple times, contact support
+601 Set plug Z axis was blocked by an
+whose travel command was interrupted. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+602 Set plug Axis is in error state
+status Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+603 Set plug Z axis setting position cannot
+can be achieved. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+604 Insert plug Vacuum cleaner could not be opened
+opened or vacuum could not be created.
+be broken. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+605 plug set Z axis can wait position
+not reach. Check the axle for blockages
+Check the motor supply voltage
+Complete manual operation of the axis operating instructions filling and sealing machine Z-110
+Chapter 10
+ 
+  17/17 608 Set plug C axis is in error
+status Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+609 Transport ejector outlet ejection ewis /
+610 Set plug C axis is in error
+status Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+611 Set plugs Conveyor belt in error condition. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+612 Screwing conveyor belt in error condition. Acknowledge and start the machine again.
+If this occurs multiple times, contact support
+613 Screwing check Multiple bad
+parts detected in series. Check the prescription values ​​of the affected station
+614 Inlet & blow out Multiple bad parts in
+Series recognized. Check the prescription values ​​of the affected station
+615 Fill Control Fill Control_1 Multiple
+Bad parts detected in series. Check the prescription values ​​of the affected station
+616 Fill Control Fill Control_2 Multiple
+Bad parts detected in series. Check the prescription values ​​of the affected station
+617 rotating star inlet Multiple bad parts in
+Series recognized. Check the prescription values ​​of the affected station
+618 rotating star inlet Multiple bad parts in
+Series recognized. Check the prescription values ​​of the affected station
+621 facility was opened.
+622 System stop after end of cycle could not be completed
+be closed. It took longer than 60 seconds to complete a station.
+customers stopped

@@ -1,0 +1,56 @@
+Operating instructions for filling and sealing machine Z-110
+Chapter 11
+ 
+Table of contents Chapter 11
+11 Decommissioning Dismantling and disposal ................................ ............. .....2
+ 
+Version Changes Author Date
+1.0 Matthias Kunz June 30, 2021
+      Operating instructions for filling and sealing machine Z-110
+Chapter 11
+ 
+ 
+2/2 11 Decommissioning Dismantling and disposal
+This chapter contains important information on the correct decommissioning and disposal of the machine.
+ne or individual machine parts.
+ 
+The dismantling and disposal of the machine or individual machine parts may only be carried out by trained personnel.
+be carried out sonally. These trained personnel have appropriate knowledge of safety and security
+fall prevention regulations based on their specific training, experience and instruction.
+ 
+ 
+ DANGER
+Danger to life due to electric shock!
+ 
+Serious injuries or death can result.
+Some parts in the control cabinet may be live even though the main switch is turned off.
+tet is. The input cable to the control cabinet and the main switch is always live.
+rend. Although conductive parts in the control cabinet and distribution boxes are touch-safe,
+Contact with tools can still pose the risk of contact with conductive parts.
+gene.
+ 
+• All work on electrical equipment must therefore be carried out by qualified electricians.
+or carried out by persons who have received appropriate training.
+ 
+ 
+ CAUTION
+Danger of crushing when heavy machine parts are dismantled.
+ 
+When the machine or individual machine parts are dismantled,
+loosen heavy parts and lead to crushing of body parts.
+ 
+ Work carefully and attentively.
+ Use suitable lifting equipment.
+ Wear appropriate protective equipment.
+ 
+• Shut down the system and switch it off using the main switch.
+• Interrupt all power and media supplies on the building side by switching off the main power supply.
+supply or by closing the main compressed air valve.
+• Make sure that no other devices/systems are affected!
+• Check that all supply lines to be disconnected are de-energized/depressurized.
+• Disconnect the system from the supply lines.
+• Ventilate/ventilate all pressure vessels and lines.
+• Remove all operating and auxiliary materials (e.g. lubricants) and dispose of them in an environmentally friendly manner.
+• Disassemble the system until all parts of the system are assigned to a material group and accordingly
+can be disposed of.
+• Dispose of the system in an environmentally friendly manner. Please note the national regulations.

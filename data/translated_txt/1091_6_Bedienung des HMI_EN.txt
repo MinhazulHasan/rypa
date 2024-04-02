@@ -1,0 +1,673 @@
+1 6 Operating the HMI
+Table of contents Chapter 6
+6 Operating the HMI ................................ ................. .................. ................................ ................................ ..........  1
+6.1 Main menu ................................ ................ ................ ................................ .. .............................. ............ 3
+6.2 General icons ................................ .................. ................. ................................ . .............................. .... 4
+6.2.1 Machine status icons ................................ .......... ...................... .......................................... .... .................... 4
+6.2.2 Status and control bar ................................ ........... .................................................... ................................... 5
+6.2.3 Production data ................................ ................. .................. ................................ ................................ ... 5
+6.2.4 Current program ................................ ............. ................... ................................... ................................. 6
+6.2.5 Machine speed ................................ ................. .................. ................................ .................... 7
+6.2.6 Operator ................................ ................. .................. ................................ ................................. ................. 7
+6.3 Messages ................................ ................ ................ ................................ .. .............................. ............  8th
+6.3.1 Message line ................................ .............. .................. ................................ ................................ ............  8th
+6.3.2 Message pages ................................ .............. .................. ................................ ................................ ......... 9
+6.3.3 Current messages ................................ ............. ................... ................................... ................................. ..9
+6.3.4 System messages ................................ ................. .................. ................................ ................................ ..... 9
+6.3.5 Message archive ................................ .............. .................. ................................ ................................ ................ 10
+6.4 Overview ................................ ................ ................ ................................ .. ................................ .................... .. 11
+6.5 Manual operation menu ................................ ................ ................ ................................ .. ............................. ....... 12
+6.5.1 Inlet blow out ................................ ............. ................... ................................... ................................. .....12
+6.5.2 Inlet rotating star ................................ ............. ................... ................................... ................................. .....13
+6.5.3 Filling ................................ ................. .................. ................................ ................................. ................. .....13
+6.5.4 Inserting the plug ................................ .............. .................. ................................ ................................ .......... 14
+6.5.5 Screwing ................................ ............. ................... ................................... ................................. ........... 14
+6.5.6 Phase out of the rotating star ................................ ............. ................... ................................... ................................. 15
+6.5.7 LAF ................................ ................. .................. ................................ ................................. ................. .........15
+6.6 Recipe menu ................................ ................ ................ ................................ .. ................................. ................ 16
+6.6.1 Inlet blow out ................................ ............. ................... ................................... ................................. .....16
+6.6.2 Inlet rotating star ................................ ............. ................... ................................ .......................................... .... ..... 17
+6.6.3 Filling ................................ ................. .................. ................................ ................................. ................. .....18
+6.6.4 Placing the plug ................................ .............. .................. ................................ ................................ .......... 19
+6.6.5 Screwing ................................ ............. ................... ................................... ................................. ........... 20
+6.6.6 Phase out of the rotating star ................................ ............. ................... ................................... ................................. .... 21
+6.7 Production data ................................ ................ ................ ................................ .. .................................. ........ 22
+6.7.1 Machine statistics ................................ ................. .................. ................................ ................................ ... 22
+6.7.2 Production statistics ................................ ............. ................... ................................... ................................. . 23
+6.7.3 Batch protocol ................................ .............. .................. ................................ ................................ ......... 24
+6.7.4 Station statistics ................................ .............. .................. ................................ ................................. .......25
+6.8 Users ................................ ................ ................ ................................ .. ................................ .................... ..26
+6.8.1 Creating a new user profile ................................ .......... ...................... .......................................... .... ............ 26 2 6.8.2 User levels ........................... .... ................................ .............. .................. ................................ ......27
+6.9 Settings ................................ ................ ................ ................................ .. ............................. .................. 28
+6.9.1 General ................................ ................. .................. ................................ ................................ ................ 28
+6.10 Settings ................................ ................ ................ ................................ .. .............................. ............ 29
+6.11 Info ................................ .................. ................. ................................ . .............................. ................... .....29
+6.11 List of parameters and their meaning ................................ ........... .................................................... ... .... 30
+6.11.1 Recipe parameters – inlet blow out ................................ ........... .................................................... ..30
+6.11.2 Inlet rotating star ................................ ............. ................... ................................... ................................. 30
+6.11.3 Recipe parameters – filling ................................ ............ .................... ................................. .. .................. 30
+6.11.4 Setting the plug ................................ ............. ................... ................................... ................................. ... 33
+6.11.5 Screwing ................................ .............. .................. ................................ ................................ .... 34
+6.11.6 Recipe parameters – phase-out rotating star ................................ .......... ...................... .......................................... ..35
+ 
+ 
+  3
+6.1 Main menu
+The main menu is accessible via the menu icon in the top right:
+ 
+ 
+ 
+Meaning of the individual buttons:
+ 
+Overview Switch to overview. This is the main window, which also contains the
+Part tracking is displayed.
+Parameters Switch to the parameter menu, where all recipe-relevant machine parameters
+can be defined.
+Production data Show the production data window, where all current production data is displayed
+become.
+Audit Trail Switch to the Audit Trail, where GMP-relevant events can be tracked.
+Messages Switch to the message menu where all systems are displayedmessages can be displayed.
+Users Go to the user menu where system users can be defined.
+Settings Go to the settings menu where cross-system settings
+can be made.
+  
+ 4
+6.2 General icons
+ Open main menu
+ Open submenu for the respective entry
+ Go back to the previous screen
+ To the main screen
+ 
+6.2.1 Machine status icons
+Next to the icons there is text that describes the machine status.
+ The machine moves all stations to the base position
+ Machine is about to end the current process, then stops and
+switches to conversion mode
+ The machine is in error status, all axes are de-energized and the
+Doors unlocked
+ Machine is in production
+ All axes are powered and can be moved manually
+Doors are locked
+ The machine moves all axes to the reference position
+ All axes are without power, the machine can be converted, the doors
+are unlocked
+ 
+  
+5
+6.2.2 Status and control bar
+ 
+ 
+ 
+ 
+1 operating mode display
+2 Display of production data
+3 Display of the currently selected recipe
+4 number of machine speed
+5 Display of the currently logged in operator
+ 
+6.2.3 Production data
+After tapping the submenu icon for the production data, the following window opens:
+ 
+ 
+ 
+The target number of pieces to be produced can be entered or reset here. The corresponding
+The current actual number of pieces and the scrap produced are displayed.
+The functions “Stop after the number of pieces has been reached” and “Empty the machine” can be switched on and off
+turned off.
+Batch recording can be started and stopped again. The current batch protocol can be viewed via the
+“Download to USB” can be downloaded as a PDF onto a USB stick.
+Tapping the Close button will close the window again.
+  
+1 2 3
+ 4
+ 5
+ 6
+6.2.4 Current program
+After tapping the submenu icon for the current program, the following window opens:
+ 
+ 
+On this screen, new recipes can be created and saved and existing recipes can be deleted and renamed
+or be loaded.
+Select recipe
+• Tap the selection arrow on the right of the “Data record name” field and select a data record from the by tapping
+Select the drop-down list that appears.
+• tap to download the selected recipe parameters to the PLC.
+ 
+Create new recipe
+• All components and parameters for the product for which a recipe is to be created in the
+Set parameter buttons (a test run is possible without saving).
+• tap.
+• Enter a new recipe name and confirm with ENTER.
+• tap to save the current parameters to the newly created recipe.
+ 
+Delete existing recipe
+• tap to delete the selected recipe.
+ 
+Rename existing recipe
+• tap to rename the selected recipe.
+ 
+  
+7 6.2.5 Machine speed
+After tapping the submenu icon for the override, the following window opens:
+ 
+ 
+The desired machine speed can be selected here. 5% and 100% are absolute values
+Values ​​with the signs are added to or subtracted from the current speed. This
+Value influences the speeds of the rotating star, the filling axis and the pivot axis of the
+screwdriver.
+ 
+6.2.6 Operators
+After tapping the submenu icon for the operator, a login window opens in which the
+Operators can access their user level using their username and password.
+  
+ 8 6.3 Messages
+ 
+6.3.1 Message line
+ 
+If a message is pending, it will be displayed in the message line with an icon and also
+the most current message text can be seen. The message line can be expanded using the bottom bar and
+several messages and the respective time can be displayed.
+ 
+ 
+ 
+The message icons and their meaning.
+ Information is pending
+ A warning is pending
+ An error message is pending
+ 
+  
+9 6.3.2 Message pages
+To open the messages, select “Messages” in the main menu. At the bottom you can choose between
+Navigate to the “Current Messages”, “System Message Archive”, “System Message Archive” and “Audit Trail” pages.
+ 
+6.3.3 Current messages
+The currently pending messages from the system are displayed here with number,Time, date and text displayed.
+ 
+ 
+6.3.4 System messages
+All system messages are displayed here.
+ 
+ 
+  
+ 10 6.3.5 Report archive
+All past machine messages are listed here with number, date, time and text.
+ 
+ 
+  
+11 6.4 Overview
+ 
+ 
+ 
+The overview shows the current part tracking as well as the overview of the current batch.
+The status of the two LAFs and the labeller are visible.
+Pressing the stations takes you directly to the respective recipe settings.
+ 
+ There is a CF container at this position on the rotating star
+ There is an N CF container at this position on the rotating star
+ Delete part tracking
+ 
+  
+ 12 6.5 Manual operation menu
+To switch to the manual operation menu, tap the corresponding icon on the left side of the screen,
+. The following window appears:
+ 
+ Manual operator of an axis
+ Axis switched on Malfunction on the axis
+ Axis references axis in motion
+Manual movement in positive direction
++: small step, ++: large step, <<: manual travel
+Manual movement in negative direction
+- : small step, --: big step, >>: manual travel
+ 
+ 
+ 
+6.5.1 Inlet blow out
+ 
+In the picture above, manual operation of the individual drives and valves is possible.
+  
+13 6.5.2 Inlet rotating star
+ 
+In the picture above, manual operation of the individual valves is possible.
+ 
+6.5.3 Filling
+ 
+In the picture above, manual operation of the individual drives is possible.
+ 14 6.5.4 Inserting the plug
+ 
+In the picture above, manual operation of the individual valves and drives is possible.
+ 
+6.5.5 Screwing
+ 
+In the picture above, manual operation of the individual valves and drives is possible.
+  
+15 6.5.6 Swivel star exit
+ 
+ 
+In the picture above, manual operation of the individual drives is possible.
+ 
+6.5.7 LAF
+ 
+ 
+LAF and lighting can be switched on. Standby mode reduces the speed of the
+fans n.
+The current speed of the air flow and when it is within the target range is displayed.
+  
+ 16 6.6 Recipe menu
+To switch to the recipe menu, tap the corresponding icon on the left side of the screen,
+ or select “Parameters” in the main menu. The following window appears:
+ 
+6.6.1 Inlet blow out
+ 
+ 
+All parameters for the run-in are listed in the run-in menu. The settings windows can be opened using the buttons
+be opened.
+The most important parameters are displayed directly. You can use the info icon to get help text
+respective parameters (if available) can be displayed.
+The parameters for each component are listed individually in Chapter 6.11 and their meaning is explained.
+  
+17 6.6.2 Inlet rotating star
+ 
+ 
+All parameters for the run-in are listed in the run-in menu. The settings windows can be opened using the buttons
+be opened.
+The most important parameters are displayed directly. You can use the info icon to get help text
+respective parameters (if available) can be displayed.
+The parameters for each component are listed individually in Chapter 6.11 and their meaning is explained.
+  
+ 18 6.6.3 Filling
+ 
+ 
+ 
+ 
+All parameters for the run-in are listed in the run-in menu. The settings windows can be opened using the buttons
+be opened.
+The most important parameters are displayed directly. You can use the info icon to get help text
+respective parameters (if available) can be displayed.
+The parameters for each component are listed individually in Chapter 6.11 and their meaning is explained.
+19 6.6.4 Placing the plug
+ 
+ 
+All parameters for the run-in are listed in the run-in menu. The settings windows can be opened using the buttons
+be opened.
+The most important parameters are displayed directly. You can use the info icon to get help text
+respective parameters (if available) can be displayed.
+The parameters for each component are listed individually in Chapter 6.11 and their meaning is explained.
+  
+ 20 6.6.5 Screwing
+ 
+ 
+All parameters for the inlet are listed in the inlet menu. The settings windows can be opened using the buttons
+be opened.
+The most important parameters are displayed directly. You can use the info icon to get help text
+respective parameters (if available) can be displayed.
+The parameters for each component are listed individually in Chapter 6.11 and their meaningtion is explained.
+  
+21 6.6.6 Swivel star exit
+ 
+ 
+All parameters for the run-in are listed in the run-in menu. The settings windows can be opened using the buttons
+be opened.
+The most important parameters are displayed directly. You can use the info icon to get help text
+respective parameters (if available) can be displayed.
+The parameters for each component are listed individually in Chapter 6.11 and their meaning is explained.
+  
+ 22 6.7 Production data
+To open the production data, select “Production data” in the main menu. The following window
+appears:
+ 
+6.7.1 Machine statistics
+ 
+ 
+The machine statistics show various running, waiting and error times across the entire machine
+recorded. There is also a counter of the pieces produced.
+By tapping on the info icon, a more detailed description of the respective capture can be displayed
+become.
+  
+23 6.7.2 Production statistics
+ 
+ 
+The production statistics show the currently produced good (CF) and bad parts (NCF) in the upper diagram.
+on and in the bottom diagram the cycle time and the status of the system.
+ 
+  
+ 24 6.7.3 Batch protocol
+ 
+ 
+The batch log shows the status of the current batch. You can see the start and
+Stop time, number of parts produced and certain running times.
+The last 5 protocols can also be displayed and printed out
+ 
+  
+25
+6.7.4 Station statistics
+ 
+ 
+The batch statistics show the cycle times and number of good (CF) and bad parts (NCF) of each individual station
+visible.
+  
+ 26 6.8 Users
+To open the user management, select “Users” in the main menu. The following window appears:
+ 
+ 
+ 
+6.8.1 Create a new user profile
+Press an empty user field. A keyboard appears on the monitor.
+Enter a new user name and confirm with Enter.
+Repeat the same process for the password field and confirm the password again
+Press Group and select a user level from the list box.
+Press logout time and enter the time in minutes after which the logout time in the number field that appears
+corresponding user should be logged out automatically.
+Similarly, all users can change their password and logout time here.
+  
+27 6.8.2 User levels
+There are four user levels: Operator, Technician, Maintenance, Admin. These are shown in the table below
+respective permissions are listed. There is also a Zellwag user who has all permissions
+and can also manage users.
+ 
+Authorization user groups description
+  
+Admin
+Maintenance
+Technician (setup)
+operator
+  
+B_Batch protocol start / stop/ export x Start, stop and move batch protocol to USB
+G_Machine change machine speed x x x Adjust machine speed
+G_Quit runtime x x Quit the user interface to get to Windows
+G_View dialog / Default right x x x x Navigation between the menus
+M_ManualReferencing x Axes reference manually
+M_Manual control x x Manual operation of the axes and pneumatics
+O_Operating data delete x x Reset batch data (times, counters)
+O_Operating data view x x x x View statistics for machine stations,
+Batch protocol
+O_AuditView x x View audit trail
+P_Parttrackin delete x x x Delete rotating star parts tracking
+R_Recipe create new x x Create new recipes
+R_Recipe delete x x Delete recipes
+R_Recipe edit x x Change recipe values, rename recipes, stations
+deactivate
+R_Recipe export x Export recipes
+R_Recipe import x Import recipes
+R_Recipe load x x x Load recipes
+R_Recipe save x x Save recipe values
+S_Service x x Reference axes, change recipes directly
+S_Settings edit x x Change settings for storage paths and language
+S_Settings view x x x x Show settings for storage paths and language
+S_Testfunctions x x Start without LAF/without batch protocol
+U_OpenUsermanagment x x x x Open user management (change own PW)
+U_User Administration x Create, delete, change PW user
+ 
+   28 6.9 Settings
+To open Settings, select “Settings” from the main menu. The following window appears:
+ 
+6.9.1 General
+ 
+Remote control connectionng
+To activate remote maintenance, tap the corresponding button.
+ 
+Exit runtime
+To end Runtime, tap the corresponding button.
+ 
+Machine operation
+Start: Works the same as the green start button on the control box
+Stop: Works the same as the red stop button on the control box
+Reset: Works the same as the blue reset button on the control box
+ 
+ 
+  
+29 6.10 Settings
+ 
+ 
+The storage locations for audit archive, batch report, process data and messages can be found under Directory
+To be defined. The files are saved to these locations at 4 a.m.
+The recipes can be exported and imported again.
+ 
+6.11 Info
+ 
+ 
+The information area shows the current software status of the general control and the safety functions
+  
+ 30 6.11 List of parameters and their meaning
+6.11.1 Recipe parameters – inlet blow out
+ 
+6.11.2 Inlet rotating star
+ 
+ 
+6.11. 3 Recipe Parameters – Fill Component Property/Action Meaning
+Inlet bottle 1 setpoint % Value of the inlet sensor to be defined
+Container recognition
+Inlet bottle 2 setpoint % Value of the inlet sensor to be defined
+Container recognition
+Infeed conveyor setpoint % -
+Infeed conveyor approach ramp s approach ramp until the
+Final speed of the outfeed conveyor
+Infeed conveyor follow-up time s -
+Bridge breaker interval Delay ms Interval in which the bridge breaker is switched on and off
+Exits.
+Turntable approach ramp s approach ramp until the
+Final speed of the outfeed conveyor
+Turntable setpoint % -
+Blow-out unit waiting/base position speed mm/s
+Blow-out unit waiting/base position acceleration mm/s2
+Blow-out unit waiting/base position delay mm/s2
+Blow-out unit start position speed mm/s
+Blow-out unit start position acceleration mm/s2
+Blow-out unit start position delay mm/s2
+Blow-out unit start position speed mm/s
+Blowout unit products within counter
+Component Property/Action Meaning
+Inlet band 1 setpoint % Value of the inlet sensor to be defined
+Container recognition
+Inlet belt 2 setpoint % Value of the inlet sensor to be defined
+Container recognition
+Component Position Property/Action Meaning
+Pump 1 suction speed mm/s speed at which the position
+is approached
+Pump 1 suction acceleration mm/ s2 approach ramp until the
+Top speed
+Pump 1 suction delay mm/s2 braking ramp until the
+standstill
+Pump 1 dosing speed mm/s speed with which the position
+is approached
+Pump 1 Dosing Acceleration mm/ s2 Start-up ramp until the
+Top speed
+Pump 1 dosing delay mm/s2 braking ramp until the
+Standstill 31 Pump 2 Suction Speed ​​mm/s Speed ​​at which the position
+is approached
+Pump 2 suction acceleration mm/ s2 approach ramp until the
+Top speed
+Pump 2 suction delay mm/s2 braking ramp until the
+standstill
+Pump 2 dosing speed mm/s speed with which the position
+is approached
+Pump 2 Dosing Acceleration mm/ s2 Start-up ramp until the
+Top speed
+Pump 2 dosing delay mm/s2 braking ramp until the
+standstill
+Pumps C suction position ° Position at which the pump suctions
+Pumping C suction speed °/s speed at which the position
+is approached
+Pumping C Suction Acceleration °/s2 Start-up ramp until the
+Top speed
+Pumping C suction delay °/s2 braking ramp until the
+standstill
+Pumps C Dosing Position ° Position at which the pump doses
+Pumping C Dosing Speed ​​°/s Speed ​​at which the position
+is approached
+Pumping C Dosing Acceleration °/s2 Start-up ramp until the
+Top speed
+Pumping C Dosing Delay °/s2 Braking ramp until the
+standstill
+Filling axis_1 &_2 Waiting position Position mm Position at which the filling axis waits
+during which the rotating star rotates.
+Filling axis_1 &_2 Waiting position speed mm/s Speed ​​at which the position
+is approached
+Filling axis_1 &_2 waiting position acceleration mm/ s2 approachramp until you reach the
+Top speed
+Filling axis_1 &_2 waiting position delay mm/s2 braking ramp until the
+standstill
+Filling axis_1 &_2 Start position Position mm Position at which the filling axis starts
+to fill.
+Filling axis_1 &_2 Start position speed mm/s Speed ​​at which the position
+is approached
+Filling axis_1 &_2 start position acceleration mm/ s2 approach ramp until the
+Top speed
+Filling axis_1 &_2 start position delay mm/s2 braking ramp until the
+standstill
+Filling axis_1 &_2 Stop position Position mm Position of the filling axis moves to during
+filling process.
+Filling axis_1 &_2 Stop position speed mm/s Speed ​​at which the position
+is approached
+Filling axis_1 &_2 stop position acceleration mm/ s2 approach ramp until the
+Top speed
+Filling axis_1 &_2 stop position delay mm/s2 braking ramp until the
+standstill
+Pump 1 filling volume ml Volume that the pump uses at one cycle
+should dose. 32
+  Pump 1 return stroke
+ml volume that the pump produces after one cycle
+dosing should be reduced by one
+To prevent dripping.
+Pump 1 Max. Volume ml The maximum volume of the pump.
+Pump 1 pumps
+Diameter mm pump diameter
+Pump 2 filling volume ml Volume that the pump uses at one cycle
+should dose.
+Pump 2 return stroke
+ml volume that the pump produces after one cycle
+dosing should be reduced by one
+To prevent dripping.
+Pump 2 Max. Volume ml The maximum volume of the pump.
+Pump 2 pumps
+Diameter mm pump diameter
+Content detection 1 filling control actual value % current value
+Content detection 1 filling control setpoint setpoint
+Content detection 1 filling control in the target range /
+delay
+Detection 1 filling control Time delay ms Time delay until detection starts
+Content detection 2 filling control actual value % Current value
+Content detection 2 filling control setpoint setpoint
+Content detection 2 filling control in the target range /
+delay
+Detection 12 Fill control Time delay ms Time delay until detection starts 33 6.11. Put 4 plugs
+ 
+  Component Property/Action Meaning
+Vacuum actual value mbar Actual value of the vacuum gripper
+Vacuum setpoint mbar Setpoint of the vacuum gripper
+Vacuum In target range Is the vacuum in the target range (green) or not
+(gray) for detecting whether there is a plug
+could be grabbed.
+Delivery pot amplitude pot %
+Funding pot amplitude path %
+Conveyor pot pot
+Switch-on delay s Delay of the pot as soon as the sensor is on
+the train is empty signal.
+Conveyor pot pot
+Switch-off delay s Delay of the pot as soon as the sensor is on
+the train gives a full signal.
+Bunker bunker
+Switch-on delay s Delay of the bunker as soon as the sensor is in the
+Pot empty signal gives.
+Bunker bunker
+Switch-off delay s Delay of the bunker as soon as the sensor
+on the top there is a full signal.
+Get Postiiton / Pos. before Get /
+Wait Pos. Before Set /
+Waiting position after setting /
+Pos. riser pipe centering /
+ Set position position Z axis mm position Z of the kinematics
+Get Postiiton / Pos. before Get /
+Wait Pos. Before Set /
+Waiting position after setting /
+Pos. riser pipe centering /
+ Set position position C axis ° position C of the kinematics
+Get Postiiton / Pos. before Get /
+Wait Pos. Before Set /
+Waiting position after setting /
+Pos. riser pipe centering /
+ Set position speed mm/s speed of the kinematics
+Get Postiiton / Pos. before Get /
+Wait Pos. Before Set /
+Waiting position after setting /
+Pos. Riser pipe centering /
+ Set position acceleration mm/s2 approach ramp until the
+Top speed
+Get Postiiton / Pos. before Get /
+Wait Pos. Before Set /
+Waiting position after setting /
+Pos. riser pipe centering /
+ Set position deceleration m m/s2 braking ramp until the
+standstill
+Set position force Z axis Nm Maximum force of the drive
+Set position force C axis Nm maximum force of the drive 34 6.11.5 Screwing
+ 
+ 
+Per unit
+ 
+ 
+ 
+ Component Property/Action Meaning
+Conveyor pot switch-on delay s Time until the pot switches on when the rail reports empty.
+Conveyor pot switch-off delay s Time until the pot switches off when the rail reports full.
+Bunker switch-on delay s time until theBunker switches on when the pot reports empty.
+Bunker switch-off delay s Time until the bunker switches off when the pot reports that it is full.
+Component Property/Action Meaning
+Torque control Target torque Nm Target torque
+Torque control switching torque
+Nm switching point from position to
+Torque control
+Torque control Thread length Thread length of the bottle (termination criterion
+for screwing)
+Torque control speed °/s rotation speed of the C-axis
+Torque control acceleration °/s2 approach ramp until the
+Top speed
+Torque control feed force N feed force Z axis
+Torque control thread pitch mm Used for calculating the feed
+in mm
+Component Position Property/Action Meaning
+Kinematics Holposition Position Z mm Position Z for gripping the lid in
+Presenter.
+Kinematics pick position position C ° position C for gripping the lid in
+Presenter.
+Kinematics fetch position speed mm/s Speed ​​at which the position
+is approached
+Kinematics fetch position acceleration
+mm/s2 approach ramp until the
+Top speed
+Kinematics fetch position delay mm/s2 braking ramp until the
+standstill
+Kinematics waiting position position Z mm position Z above the container.
+Kinematics waiting position position C ° position C above the container.
+Kinematics waiting position speed mm/s Speed ​​at which the position
+is approached
+Kinematics waiting position acceleration
+mm/s2 approach ramp until the
+Top speed
+Kinematics waiting position delay mm/s2 braking ramp until the
+standstill
+Z-axis cover setting position position mm position in which the cover is gripped and the
+The screwing process can be started
+Z-axis cover setting position speed mm/s speed at which the position
+is approached 35 6.11.6 Recipe parameters – rotating star exit
+ 
+ 
+ Component Property/Action Meaning
+Rotating star speed °/s Speed ​​of the rotating star
+Rotary star acceleration °/s2 approach ramp until the
+Final speed of the rotating star
+Rotary star deceleration °/s2 braking ramp until the
+standstill
+NCF position speed °/s speed of the rotating star
+NCF position acceleration °/s2 approach ramp until the
+Final speed of the rotating star
+NCF position delay °/s2 braking ramp until the
+standstill
+CF Position Speed ​​°/s Speed ​​of the rotating star
+CF position acceleration °/s2 approach ramp until the
+Final speed of the rotating star
+CF position delay °/s2 braking ramp until the
+standstill
+Outlet conveyor setpoint % -
+Exit conveyor approach ramp s approach ramp until you reach the
+Final speed of the outfeed conveyor
+Exit conveyor follow-up time s -

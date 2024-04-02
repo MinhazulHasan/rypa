@@ -1,0 +1,959 @@
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final Inhaltsverzeichnis Kapitel 4 
+4 MASCHINENBESCHREIBUNG  ................................ ................................ ................................ ...................  3 
+4.1 Hauptkomponenten der Maschine ................................ ................................ ................................ .................  3 
+4.1.1  Sicherheitsumhausung und Not -Halt-Taster  ................................ ................................ ....................  4 
+4.1.2  Schaltschränke  ................................ ................................ ................................ ................................ .. 6 
+4.1.3  Pneumatik Einheit  ................................ ................................ ................................ ............................  6 
+4.1.4  HMI  ................................ ................................ ................................ ................................ ...................  6 
+4.1.5  LAF ................................ ................................ ................................ ................................ ....................  7 
+4.1.6  Auffangrinne  ................................ ................................ ................................ ................................ ..... 7 
+4.2 Gesamtmaschine  ................................ ................................ ................................ ................................ ............  8 
+4.3 Drehteller (Nr.1)  ................................ ................................ ................................ ................................ .............  9 
+4.4 Ausblasstation (Nr.2)  ................................ ................................ ................................ ................................ ...... 10 
+4.4.1  Sicherheitsverschalung  ................................ ................................ ................................ .....................  10 
+4.4.2  Funktionsübersicht  ................................ ................................ ................................ ...........................  11 
+4.4.3  Formateinstellungen und For matteile  ................................ ................................ ..............................  12 
+4.4.4  Anschluss Absaugung  ................................ ................................ ................................ .......................  13 
+4.5 Drehstern und Einlauf (Nr. 3) ................................ ................................ ................................ ..........................  14 
+4.5.1  Funktionsübersicht  ................................ ................................ ................................ ...........................  14 
+4.5.2  Formateinstellungen und Formatteile  ................................ ................................ ..............................  15 
+4.6 Drehkolbenpumpe (Nr.4) ................................ ................................ ................................ ................................  16 
+4.6.1  Funktionsübersicht  ................................ ................................ ................................ ...........................  16 
+4.6.2  Anschluss Drehkolbenpumpe  ................................ ................................ ................................ ...........  17 
+4.7 Füllnadel (Nr.5)  ................................ ................................ ................................ ................................ ...............  18 
+4.7.1  Funktionsübersicht  ................................ ................................ ................................ ...........................  18 
+4.7.2  Stickstoffbefüllung  ................................ ................................ ................................ ............................  19 
+4.7.3  Reinigung  ................................ ................................ ................................ ................................ ..........  20 
+4.8 Anwesenheit Flüssigkeit (Nr.6)  ................................ ................................ ................................ .......................  21 
+4.9 Tropfeinsatz -Setzstation (Nr.8)  ................................ ................................ ................................ .......................  22 
+4.9.1  Funktionsübersicht  ................................ ................................ ................................ ...........................  22 
+4.9.2  Formateinstellungen und Formatteile  ................................ ................................ ..............................  23 
+4.10 Anwesenheit Tropfeinsatz (Nr.9)  ................................ ................................ ................................ ....................  24 
+4.11 Deckel - Verschraubstation (Nr.11)  ................................ ................................ ................................ .................  25 
+4.11.1  Funktionsübersicht  ................................ ................................ ................................ ...........................  25 
+4.11.2  Formateinstellungen und Formatteile  ................................ ................................ ..............................  26 
+4.12 Anwesenheit Deckel (Nr.12)  ................................ ................................ ................................ ...........................  27 
+4.13 Auss chleusung, inkl. CF/NCF Beurteilung (Nr.13)  ................................ ................................ ...........................  28 
+4.14 Hensle Zuführtopf (Nr. 7+10)  ................................ ................................ ................................ ..........................  29 
+4.14.1  Funktionsunterteilung Zuführtöpfe  ................................ ................................ ................................ .. 30 
+4.15 Bedienpanel (Nr.14)  ................................ ................................ ................................ ................................ ........  31 
+4.16 Etikettierer  ................................ ................................ ................................ ................................ ......................  32   
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Version  Änderungen  Autor  Datum  
+1.0 Erstausgabe  Matthias Kunz  16.06.2021  
+      
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4 MASCHINENBESCHREIBUNG  
+4.1 HAUPTKOMPONENTEN DER MASCHINE  
+ 
+Beschreibung  Funktion  
+Drehteller  Vereinzelung und Bereitstellung der als Batches  eingebrachten 
+Flaschen . 
+Ausblasstation  Flaschen werden ausgeblasen und ausgesogen, damit alle möglichen 
+Partikeln sicher entfernt werden (Glas, Staub).  
+Abfüll - und Verschliessanlage Z -110 Befüllung der bereitgestellten Flaschen . Verschliessen der Flaschen  
+mit Deckeln. Kontrolle der aufgeschraubten Deckel  und Übergabe der 
+gefüllten und verschlossenen Gebinde an den Etikettierer.  
+Zuführung Giessring  Vereinzelung und Bereitstellung der als Schüttgut eingebrachten 
+Giessringen.  
+Zuführung Deckel  Vereinzelung und Bereitstellung der als Schüttgut eingebrachten 
+Deckeln.  
+Etikettierer  Aufbringen von Etiketten . 
+ 
+  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.1.1 Sicherheitsumhausung und Not -Halt -Taster  
+Um die Sicherheit der Bediener zu gewährleisten ist die gesamte Maschine mit einer Schutzumhausun g 
+verkleidet. Um die Maschine im Notfall in einen sicheren Zustand zu versetzen, befinde t sich ein Not -Halt-
+Taster am Panel und  zwei Not -Halt-Taster an der Maschine.  Zusätzlich befindet sich noch ein Not -Halt-
+Taster beim Etikettierer.  
+ 
+Die Fensterscheiben  und Türen sind aus PET -G gefertigt.  
+Sicherheitsschalter geben der Steuerung Rückmeldung ob alle Türen 
+geschlossen sind. Bei geöffneten Sicherheitstüren können keine für den 
+Bediener gefährlichen Bewegungen ausgeführt werden. Wird eine der 
+Sicherheitstüren  geöffnet, während die Maschine läuft, wird ein Not -Halt 
+ausgeführt. Die Druckluft pneumatischer Antriebe wird abges tellt und die 
+elektrischen Antriebe werden in einen energiefreien Zustand versetzt.  
+Alle Türen werden durch jeweils zwei Magnete geschlossen  gehalten.  Der LAF 
+läuft auch bei einem Not -Aus weiter.  
+ 
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final  
+ 
+  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.1.2 Schaltschränke  
+Es gibt zwei elektrische Schaltschränke. Ein Schaltschrank befindet sich neben der Maschine, der andere 
+Schaltschrank ist unterhalb der Grundplatte der Maschine montiert.  
+Der Schaltschrank neben der Maschine beinhaltet die Leistungskomponenten, wie die Motor -Controller und 
+die Hauptsicherungen.  
+Der Schaltschrank unterhalb der Maschine beinhaltet ausschließlich Niederspannungskomponenten wie die 
+SPS. Um an den Sch altschrank zu gelangen,  
+müssen die Abdeckungen des Grundgestells 
+abgenommen werden.  Diese können mit 
+einem Schaltschrankschlüssel geöffnet 
+werden.  
+4.1.3 Pneumatik Einheit  
+Unterhalb der Maschine ist eine 
+Wartungseinheit angebracht. Um an diese 
+Wartungseinheit zu gelangen,  müssen die 
+Abdeckungen des Grundgestells abgenommen 
+werden  (Öffnen mit Schaltschrankschlüssel) . 
+ 
+Die Wartungseinheit besteht aus einem manuellen Einschaltventil, einem Druckregelventil mit 
+Kondensatabscheidung, einem Druckschalt er, einem elektrisch betätigtem Einschaltventil und einem 
+Druckaufbauventil. Das manuelle Einschaltventil kann im ausgeschalteten Zustand mit einem Bügelschloss 
+gegen Wiedereinschalten gesichert werden.  
+Weiter e pneumatische Ventile und Vakuumerzeuger werden  ebenfalls unter der Grundplatte montiert.  
+4.1.4 HMI  
+Das HMI (Human Maschine Interface) ist ein 
+Touchscreen mit zusätzlichen Tastern. Mit dem HMI 
+kann die Maschine bedient werden, es zeigt 
+Produktionsinformationen sowie Fehlermeldungen.  
+Neben den Tastern befin det sich ein Not -Aus-Taster 
+an dem HMI.  
+Die Anordnung und die Beweglichkeit des HMI 
+werden im Kapitel 4.15 Bedienpanel  noch genauer 
+erklärt.  
+ 
+ 
+ 
+  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.1.5 LAF 
+ 
+ 
+Der LAF saugt Luft aus der Umgebung an, filtert diese und bläst die Luft in einer laminaren Strömung na ch 
+unten in die Maschine.  
+Spezifikationen:  
+• Material Edelstahl 1.4301, K320 geschliffen (Ra≤1,2μm)  
+• Materialzertifikat 2.1  
+• HEPA -Filter Klasse H14 nach EN 1822 mit Trockendichtung und  Zertifikat, differenzdrucküberwacht  
+(Oppermann DD83)  
+• Vorfilter Klasse ISO ePM10 70% (DIN EN ISO 16890) (G4 nach EN 779) hinter Lochblech, 
+differenzdrucküberwacht (Oppermann DD83), Anordnung seitlich  
+• Wartungsfreie und direkt angetriebene EC -Ventilatoren, automatische Geschwindigkeitsregelung 
+mittels EC -Regler und Strömungssonde für eine konstante LAF -Geschwindigkeit von v=0,45m/s, 
+Leistungsreserve mit neuen Filtern ca. 25%, 400V 50Hz  
+• Beleuchtung >500 Lux, Fa. Waldmann LED  
+• GMP/FDA -konform  
+ 
+Prozesssicherheit: Der LAF hat eine Strömungsüberwachung 
+und läuft selbst be i einem Not -Aus weiter. Dies ist für die 
+ATEX -Umgebung wichtig, zudem sichert dies auch das 
+Produkt, wenn die Maschine  wegen einer Störung  kurzzeitig  
+abgestellt ist.  
+ 
+4.1.6 Auffangrinne  
+Das Abdeckblech auf der Abfüll - und Verschliessanlage Z -
+110 hat rundherum e ine zugeschweisste Auffangrinne, falls 
+ein Medium nach Aussen laufen würde.  
+ 
+  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 
+4.2 GESAMTMASCHINE  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Die Maschine wird im Kapitel 4 in folgende Teilfunktionen unterteilt.  
+ 
+Nr. Beschreibung  Nr. Beschreibung  
+1 Drehteller  8 Tropfeinsatz -Setzstation  
+2 Ausblasstation  9 Anwesenheit Tropfeinsatz  
+3 Drehstern und E inlauf  10 Zuführtopf  
+4 Drehkolbenpumpen  11 Deckel - Verschraub  Station  
+5 Füllnadeln  12 Anwesenheit Deckel  
+6 Anwesenheit Flüssigkeit  13 Ausschleusung, inkl. CF/NCF Beurteilung  
+7 Zuführtopf  14 Bedienpanel  
+ 
+    
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 
+4.3 DREHTELLER  (NR.1)   
+Format  Glas  Anz. Produkte auf dem 
+Drehteller (bei 60%) Zu erwartende Bufferzeit 
+bei 60% Ausnutzung (min)  Dimension Verpackung  
+(Länge x Breite / Anzahl)  
+30ml  FL Spray 30ml B/DIN 20/R  462 10 min 400mmx380mm (126Stk.)  
+50ml  FL Tropf. 50ml B./DIN 18/R.  438 10 min 385mmx275mm (84Stk.)  
+100ml  FL Tropf. 100ml B./DIN 18/R.  283 6.5 min 360mmx385mm (72Stk.)  
+FL Stand 100ml B./PP28S/R.  283 6.5 min 385mmx400mm (80Stk.)  
+200ml  FL Tropf. 200ml braun DIN 22 
+rund  183 5 min 540mmx350mm (63Stk.)  
+FL Stand 200ml B./PP28S/R.  183 5 min 550x380mm (70Stk.)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pos.  Formatteile (Rot  – müssen ersetzt werden ) Formateinstellungen (Grün  – müssen eingestellt werden ) 
+1 keine  Die Auslaufschiene muss bei einem Formatwechsel auf das 
+Produkt angepasst werden  
+ 
+Beschreibung  Funktion  
+Schieber  Die ausgepackten Produkte werden manuell auf den Drehstern befördert und vorne als 
+Führung platziert.  
+Brückenbrecher  Ein Keil bewegt sich intermittierend nach Aussen und fährt wieder ein, dadurch werden 
+entstehende Brückenbildungen von den Flaschen verhindert.  
+Drehteller  Fährt für alle Formate die gleiche Drehzahl. Diese liegt bei ca. 5 -6 U/min.  
+ 
+Prozesssicherheit: Umgefallene Produkte werden vor der Ausblasstation erkennt.  
+ 
+Materialien:  
+• Aluminium eloxiert: Grundplatte (abgedeckt), Maschinenfuss unterhalb der Auspackzone, Pneumatikzyl. 
+beim Brückenbrecher (abgedeckt)  
+• restlichen Teile aus 1.4301 Edelstahl oder POM C (FDA)   
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.4 AUSBLAS STATION  (NR.2)  
+4.4.1 Sicherheitsverschalung  
+ 
+Beschreibung  Funktion  
+Sicherheitsverschalung (fest)  Dient der Sicherheit, kann nicht weggenommen werden. Bei einer Störung kann 
+von der näheren Seite hineingegriffen werden.  
+Sicherheitstüre  Für die Zugänglichkeit zum Reinigen und zum Formatwechseln, hat es vorne und 
+hinten je eine Sicherheitstüre.  
+ 
+Prozesssicherheit:  
+• Umgefallene Produkte werden vor der Ausblasstation erkennt.  
+• Beim Ausblasen wird die Luftzufuhr nur leicht in die Flasche eintauchen, dadurch gibt es mehr Aufwirbelung 
+und vorhandene Partikel oder Glasscheiben werden herausgesogen.  
+• Die Absaugzeit wird so hoch wie möglich gehalten  
+• Der vertikale Hub schliesst die Flasche fast dicht ab.  
+ 
+Mate rialien:  
+• Aluminium eloxiert: Grundplatte (abgedeckt), Maschinenfuss des Transportbandes, Grundaufbau des Bandes, 
+Pneumatikzyl inder  Bei der Weiche und bei den Stopper (Abgedeckt)  
+• Produktberührende Teile aus POM -C (FDA), 1.4401 oder 1.4404 Material: Blasrohr , Pneumatikdurchführung  
+(Pneumatiksteckverbinder aus Kunststoff oder Edelstahl mit höchstem Korrosionsschutz)  
+• restlichen Teile aus 1.4301 Edelstahl oder POM C (FDA)  
+• Gurt des Transportbandes: Lebensmitteltauglich  
+  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.4.2 Funktionsü bersicht  
+ 
+Beschreibung  Funktion  
+Ausblasen  und Absaugen  Über diese Achse wird das Ausblasen der Flaschen durchgeführt . Es wird 
+entionisierte  und gefilterte (PAL -Filter)  Luft hineingeblasen und gleichzeitig 
+mittels des Saugers  von A.Vogel abgesogen.  
+Stopper  Hält 4 Flaschen in Position, damit diese gereinigt  werden  
+Weiche  Lässt immer 4 Flaschen  auf die eine Bahn und die nächsten 4 Flaschen auf die 
+andere Bahn.  
+Startsensor  Öffnet de n erste n Stopper. Die Produkte werden zum 2.Stopper befördert. Der 
+erste Stopper schliesst wenn genau 4 Flaschen den Sensor passiert haben . Dann 
+wird der Ausblasprozess gestartet. Nach diesem Ausblasen öffnet der 2. Stopper 
+und nach einer kurzen Zeit auch der erst e Stopper  wieder , und der 
+Ausblasvorgang beginnt von neuem . Dadurch wird eine Lücke zwischen jeweils 
+4 Flaschen erzeugt.  
+Kontrolle stehendes Produkt  Wenn der Startsensor belegt ist und d er obere Sensor  nicht, ist das Produkt 
+umgefallen, somit wird eine St örung herausgegeben. Falls nicht, zählt dieser 
+Sensor ob 4 Produkte passiert haben und startet dann den Reinigungsprozess.  
+Max. Stausensor  Ist dieser Sensor eine bestimmte Zeit belegt. Stoppt das Band und auch der 
+Drehteller. Der Ausblasprozess kann noch zu Ende geführt werden.  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.4.3 Formateinstellungen und Formatteile  
+ 
+Pos.  Formatteile (Rot – müssen ersetzt werden)  Formateinstellungen (Grün – müssen eingestellt werden)  
+1 Stopperplatte  von der Pneumatik lösen und 
+die neue Stopperplatte an die Pneumatik 
+anstecken und mit den Sterngriffen fixieren  Einlaufschiene vorne an die korrekte Stopperplatte 
+ausrichten. Beim Drehteller kontrollieren, ob die Flaschen 
+gut durchlaufen können.  
+2 Die Kunststoffplatte mit den Sterngriffen 
+lösen und durch das korrekte Format 
+ersetzen  Einlaufschiene hinten an die korrekte Kunststoffplatte 
+ausrichten. Beim Drehteller kontrollieren, ob die Flaschen 
+gut durchlaufen können.  
+3 Die Kunststoffplatte mit den kor rekten 
+Ausblaspositionen ersetzen. Mittels den 
+Sterngriffen fixieren.  Auslaufschiene beidseitig so ausrichten, dass die Flaschen 
+gut durchlaufen können. Beim Drehstern muss der 
+Übergang zur Kunststoffplatte kontrolliert werden  
+4  Auslaufschiene beidseitig  so ausrichten, dass die Flaschen 
+gut durchlaufen können. Beim Drehstern muss der 
+Übergang zur Kunststoffplatte kontrolliert werden  
+Es gibt bei der Ausblaseinheit drei Formatsätze  
+Format  Glas  Formatsatz  
+30ml  FL Spray 30ml B/DIN 20/R  FORMAT 30/50  
+50ml  FL Tropf. 50ml B./DIN 18/R.  FORMAT 30/50  
+100ml  FL Tropf. 100ml B./DIN 18/R.  FORMAT 100  
+FL Stand 100ml B./PP28S/R.  FORMAT 100  
+200ml  FL Tropf. 200ml braun DIN 22 rund  FORMAT 200  
+FL Stand 200ml B./PP28S/R.  FORMAT 200  
+ 
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.4.4 Anschluss Absaugung  
+ 
+Der Stabsauger steht direkt neben dem Elektroschrank an der 
+Wand und die Absaugleitung wird am Kabelkanal befestigt. Der 
+Anschluss an der Ausblas station  ist an der oberen Abdeckung. Der 
+Anschlussdurchmesser ist 50mm . Die Absaugung wird überwacht  
+ob genügend Saugleistung vorhanden ist. Dies wird über ein 
+Drucksensor von Festo ausgeführt, der misst ob durch die 
+Saugleistung ein genügend grosses Vakuum entsteht (Venturi -
+Effekt).   
+Schnittstelle zu A.Vogel: Der Anschluss d er Absaugung erfolgt bis 
+zum 4er Verteiler. A.Vogel liefert den Sauger und den 
+notwendigen Schlauch (blau eingezeichnet. Dieser hat einen 
+Innendurchmesser von 50mm und eine Länge von ungefähr 6m.  
+  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 
+4.5 DREHSTERN UND EINLAUF  (NR. 3)  
+4.5.1 Funktionsübersicht  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Die grünen Positionsnummern dienen als Übersichtsh ilfe für die weiteren Funktion, die an diesen 
+Positionen ausgeführt w erden.  
+Beschreibung  Funktion  
+Seitenführung Einlaufbremse  Führt die Flaschen auf zwei Bahnen zum Drehstern hin. Bevor der Drehstern 
+taktet wird die Einlaufb remse aktiviert , um die nachfolgenden Produkte 
+aufzuhalten  
+Präsenzkontrolle  Die Präsenzkontrolle besteht aus einem abstandsmessenden 
+Ultraschallsensor. Der Sensor überwacht, ob die Flaschen  vollständig in den 
+Drehstern eingelaufen sind.  Der Drehstern wartet bis beide Sensoren eine 
+Anwesenheit der Flaschen erkennen. Danach taktet d er Drehstern einen Takt 
+weiter und die nächsten beiden Flaschen können in die Taschen des 
+Drehsternes einlaufen.  
+Seitenführung Drehstern  Führt  die Gebinde im Drehstern . Die Seitenführung und die Lauffläche sind 
+aus POM -C. 
+Drehstern  Der Drehstern selbst i st ein Formatabhängiges Bauteil. In die Aussparungen 
+am Drehsternrand fahren die Flaschen  ein und werden dann durch die 
+Maschine getaktet. Der Drehstern wird über eine gelagerte Welle mit einem 
+Servomotor unter dem Tisch verbunden. Der Servomotor positioni ert über 
+ein Getriebe den Drehstern.  
+Drehsternverschraubung  Über die Drehsternverschraubung wird der Drehstern mit der Antriebswelle 
+verschraubt und fixiert. Um den Drehstern für einen Formatwechsel zu 
+tauschen kann die Verschraubung werkzeuglos gelöst werden.  
+Sterngriffe  Die Sterngriffe fixieren die Seitenführungen . Um diese  zu tauschen, können 
+die Sterngriffe werkzeuglos geöffnet werden.    
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.5.2  Formateinstellungen und Formatteile  
+ 
+ Pos.  Formatteile (Rot – müssen ersetzt werden)  Formateinstellungen (Grün – 
+müssen eingestellt werden)  
+1 Stopperplatte vorne. Beide Pneumatikanschlüsse neu anstecken 
+und mit den beiden Sterngriffen befestigen   
+2 Einlaufkeil austauschen und mit dem Sterngriff fixieren   
+3 Stopperplatte  hinten. Beide Pneumatikanschlüsse neu anstecken 
+und mit den beiden Sterngriffen befestigen   
+4 Seitenführung ersetzen und mit den Sternschrauben anziehen   
+5 Drehstern mittels der Drehsternmutter ersetzen und anziehen   
+ 
+Prozesssicherheit:  
+• Die Präsenzkontrolle erkennt ob bei beiden Bahnen ein Produkt im Drehstern vorhanden ist und nur dann 
+taktet  der Drehstern  
+• Ein umgefallenes Produkt würde nicht bis nach vorne im Drehstern einlaufen und würde somit auch nicht von 
+der Prä senzkontrolle als Produkt erkennt werden  
+• Die Bremse verhindert, dass immer nur von einer Bahn Produkte in die Taschen laufen können.  
+ 
+Materialien:  
+• Aluminium eloxiert: Pneumatikzylinder bei der Bremse  
+• Lauffläche aus POM C (FDA)  
+• Führungsteile aus POM C (FDA)  
+• Sterngriffe aus 1.4301 Edelstahl.  
+  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.6 DREHKOLBENPUMPE  (NR.4)  
+4.6.1 Funktionsübersicht  
+ 
+Beschreibung  Funktion  
+Drehkolbenpumpe  Die Drehkolbenpumpen (4x) sind neben dem Drehstern positioniert. Der Antrieb erfolgt über zwei 
+Linearschlitten mit Servomotoren (jeweils 2 Drehkolbenpumpen werden zusammen angesteuert) 
+und einer Rotationsbewegung, die ebenfalls über einen Servomotor ausgeführt wird. Alle drei 
+Antriebe befinden sich unterhalb der Grundplatte. Der Pumpenzylinder befindet sich oberhalb de r 
+Grundplatte und kann werkzeuglos gewechselt werden. Die Drehkolbenpumpe können 12. 3-123ml 
+pumpen. Die Füllaufteilung (z.B. 40/60% von der ersten zur zweiten Füllposition) wird in der 
+Software über den Hub der Drehkolbenpumpe eingestellt.  
+Die Drehkolbenpumpe besitzt eine Spülfunktion . Dadurch kann der Bediener die Pumpe und die 
+Füllnadel reinigen. Er kann ein Rein igungsmittel anschliessen und bei den Füllnadel ein 
+Auffangbehälter unterstellen. Mit der Funktion «Spülen» wird die Drehkolbenpu mpe in einen 
+permanenten Füllmodus versetzt, bis der Operator dieser wieder stoppt. Es werden dabei nur die 
+Drehkolbenpumpen bewegt und die Sicherheitstüren müssen geschlossen werden.  
+Manifold  Am Manifold werden die vier Zuleitungen zu  den Drehkolbenpumpe  angeschlossen . Das Manifold 
+wird direkt am Tank befestigt  und kann für eine Reinigung über die Milchverschraubung entfernt 
+werden.   
+Stickstoffanschluss - 
+Durchflussmesser  Hier wird der Stickstofftank  für die Stickstoffüberlagerung bei der Abfüllung  angesc hlossen und 
+über den Durchflussmesser, kann der korrekte Durchfluss eingestellt und kontrolliert werden.   
+Schlauchdimension  Alle Anschlüsse an die Drehkolbenpumpen und auch an die Füllnadeln sind für einen  PTFE - 
+Schlauch mit Aussendurchmesser 12mm und einem Innendurchmesser von 10mm vorgesehen.  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.6.2 Anschluss Drehkolbenpumpe  
+ 
+ 
+Schnittstelle zu A.Vogel:  
+Das Manifold  wird von der 
+Zellwag  so ausgeführt, dass es  
+an das vorhandene Gewinde 
+DN 50 (RD 78 x 1/6 ", male)  
+Vom Tank angesc hlossen 
+werden kann.  
+ 
+ 
+ 
+  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.7 FÜLLNADEL  (NR.5)  
+4.7.1 Funktionsübersicht  
+ 
+Die Füllnadeln können einen Hub von 
+200mm Hub ausführen. Es gibt 2 
+Abfüllachsen. An der Drehsternposition 3 
+und 4 wird der 1.Teil (ca.40 -50%) eingefüllt. 
+An der Drehsternposition 5 und 6 wird der 
+2. Teile (restlichen 50 -60%) eingefüllt. Für 
+ein Formatwechs el muss lediglich die 
+richtige Füllnadel ausgetauscht werden. 
+Dies gelingt mit dem Sterngriff,  der vor der 
+Füllnadel ist.  
+Abweichung zur URS:  
+Keine Tropfwanne vorgesehen, da diese 
+sehr schlecht zu reinigen ist und wir 
+erkennen, ob eine Flasche vorhanden is t 
+oder nicht.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Format  Glas  Formatsatz  
+30ml  FL Spray 30ml B/DIN 20/R  FORMAT 3 
+50ml  FL Tropf. 50ml B./DIN 18/R.  FORMAT 3 
+100ml  FL Tropf. 100ml B./DIN 18/R.  FORMAT 3  
+FL Stand 100ml B./PP28S/R.  FORMAT 2  
+FL Stand 100ml B./PP28S/R.  FORMAT 1  
+200ml  FL Tropf. 200ml braun DIN 22 rund  FORMAT 2  
+FL Stand 200ml B./PP28S/R.  FORMAT 2  
+FL Stand 200ml B./PP28S/R.  FORMAT 1  
+ 
+Format  Art Formate  Füllnadel  
+1 Ölhaltig  Weizenkeimöl und Johannisöl, 100ml und 200ml  4 x Ø 10 mm Kombi filling gassing  
+2 Sirup  100ml  4 x Ø 10 mm Standard  
+3 Tinktur  30ml, 50ml, 100ml , 200ml  4 x Ø 8 mm Standard  
+  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final Schlauchverbindungen:  
+Die Schläuche aus PTFE besitzen eine sehr hohe Chemikalienbeständigkeit, sie sind im Me dizin - und 
+Nahrungsmittelbereich zulässig, für die Reinraumproduktion geeignet und FDA, USP und BGVV konform.  
+ 
+Schlauchbefestigungen an Pumpe und Füllnadel:  
+ 
+1) Die Peek -Mutter der Verbindung aufdrehen  
+2) Den Schlauch auf den Edelstahl -Nippel schieben  
+3) Die Peek -Mutter fest drehen  
+ 
+Darstellung der Schraubverbindung an Pumpe und Füllnadel:  
+   
+ 
+ 
+     
+ 
+4.7.2 Stickstoffbefüllung  
+• Für den Stickstoffanschluss wurde eine Schottverschraubung 
+mit 1/8“ Gewinde vorgesehen. Die Stickstoffflasche kann an 
+einem beliebigen  Ort stehen. Die Zuleitung darf maximal 6 Bar 
+haben.  
+  
+ 
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.7.3 Reinigung  
+ 
+Für die Reinigung kann die Edelstahlwann e von A.Vogel  (L650mm x B565mm X H885mm) zwischen den 
+Tank und der Abfüllstation geschoben werden. Das Manifold wird vom Tank abgeschraubt und in die 
+Wanne gelegt. Die Füllnadeln werden ebenso herausgezogen und unter der Türe durchgezogen. Dann 
+werden Sie in den fixier ten Adapter hineingesteckt . Nun kann der Spülprozess (Programm: 10min  spülen)  
+gestartet werden.  
+Prozesssicherheit Pumpe und Füllnadel:  
+• Die Hubbewegung der Kolbenpumpe wird servotechnisch  überwacht.  
+• Die Hubbewegung der Füllnadel wird über ein Rezept gesteuert und wird von der Firma Zellwag bestmöglich 
+eingestellt, damit eine möglichst kurze  Abfüllzeit ohne Spritzer gewährleistet wird  
+ 
+ 
+Materialien Pumpe und Füllnadel:  
+• Medium berührende Teile aus PTFE,  1.4401 oder 1.4404 Edelstahl.  (Pumpe, Ventile, Schlauchverschraubung 
+und Füllnadeln)  
+• Pumpendach aus POM C (FDA)  
+• Restlichen Materialien aus 1.4301 Edelstahl.  
+ 
+  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.8 ANWESENHEIT FLÜSSIGKEIT  (NR.6)   
+ 
+An der Drehsternposition 7 und 8 kontrollieren zwei Ultrasch allsensoren, ob das Füllmedium auch in der 
+Flasche angekommen ist. Ein Fehler hier mit einer korrekt durchgeführten Befüllung deklariert das Produkt 
+als NCF (Not conform), dieses wird nach dem Drehstern aussortiert.  
+ 
+Pos.  Formatteile (müssen ersetzt werden)  Formateinstellungen (müssen eingestellt werden)  
+1 Mittels dem Klemmhebel kann die korrekte 
+Position in der Höhe über den Formatring 
+korrekt eingestellt werden.   
+ 
+ 
+Materialien:  
+• Sensor besitzt ein  Kuns tstoff gehäuse  
+• Alle anderen Materialien sind aus 1.4301 Edelstahl  
+  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.9 TROPFEINSATZ -SETZSTATION  (NR.8)  
+4.9.1 Funktionsübersicht  
+ 
+ 
+Beschreibung  Funktion  
+Deckelzuführung  Die Tropfeinsätze und der Nasenspray werden vom Zuführtopf in die 
+Maschine befördert  
+Produktanwesenheit  Dieser Sensor kontrolliert, ob ein Einsatz im Präsentierer anwesend ist.  
+Präsentierer  Mit der Anwesenheit eines Deckels taktet der Präsentierer um 90°. Bis 
+jeweils zwei Produkte für den Vakuumgreifer anwesend sind. Danach 
+wartet er , bis dieser die Produkte übernimmt.   
+Vakuumgreifer  Saugt immer zwei Tropfeinsätze oder Nasenspray an und stopft sie in 
+die Flaschen. Die dabei benötigte Kraft wird servotechnisch überprüft, 
+um sicher zu sein, dass der Tropfeinsatz auch korrekt aufgesetzt wurde  
+Abw urfbehälter  Falls die Vakuumüberwachung ke in angesaugtes Produkt erkenn t, 
+werden die angesaugten Produkte in den Abw urfbehälter gelegt und 
+zwei neuen Stopfen angesaugt , damit keine unnötigen  NCF entstehen.  
+Saugrohrzentrierung  Diese Funktion kommt nur beim Format 30ml Nasenspray zum Einsatz. 
+Dies e Zentrierung fährt zuerst ganz nach oben, zentriert dort den 
+Anfang des Saugrohrs und fährt dann wieder nach unten. Dadurch ist 
+das Saugrohr sauber zentriert. Nach den ersten 10mm vom 
+Hineinsetzen, öffnet die Saugrohrzentrierung, damit der 
+Nasenspray aufsa tz auf das Glas gepresst werden kann.  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.9.2 Formateinstellungen und Formatteile  
+ 
+Pos.  Formatteile (Rot – müssen ersetzt werden)  Formateinstellungen (Grün – müssen eingestellt werden)  
+1 Sauger: Vakuum abhängen und mit der 
+Sternschraube entfernen. Neuer Sauger 
+wieder mit der Sternschraube fixieren und 
+Vakuum anschliessen.   
+2 Führungsplatte ersetzen   
+3 Präsentierplatte ersetzen   
+ 
+Prozesssicherheit:  
+• Das Vakuum wird überwacht , wirft bei einem Fehler die angesaugten Einsätze ab und holt zwei neue.  
+• Die mitfahrende Steigrohrzentrierung garantiert eine Fehlerfreie Montage.  
+• Die Setztiefe de r Stopfen wird über den Servoantrieb kontrolliert.  
+ 
+Materialien:  
+• Produkt berührende Teile aus 1.4401 oder 1.4404 Edelstahl. (Präsentierer, Seitenführung, Vakuumgreifer und 
+Zentrierbleche bei der Steigrohrzentrierung)  
+• Aluminium eloxiert: Pneumatikzylinder bei der Zentrierung  
+• Restlichen Materialien aus 1.4301 Edelstahl.  
+  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.10 ANWESENHEIT TROPFEINSATZ  (NR.9)  
+ 
+Der Sensor kontrolliert, ob der Tropfei nsatz oder Spraykopf eingesetzt wurde oder nicht und deklariert das 
+Gebinde als CF ( conform ) oder NCF ( not conform ). Diese werden nach dem Drehstern aussortiert.  Hier sind 
+keine Formateinstellungen nötig.  
+ 
+Materialien:  
+• Sensor besitzt ein Kunststoffgehäuse  
+• Alle anderen Materialien sind aus 1.4301 Edelstahl  
+ 
+ 
+  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.11 DECKEL - VERSCHRAUBSTATION  (NR.11)  
+4.11.1  Funktionsübersicht  
+ 
+Beschreibung  Funktion  
+Pneumatische Klemmung  Die Pneumatische Klemmung besteht aus zwei doppelwirkenden 
+Zylindern, die sich unter der Grundplatte befinden. Sie bewegen eine 
+Klemmmechanik, die die Gebinde an der Verschraubposition 
+klemmen. Die Klemmmechanik befindet sich oberhalb der 
+Grundplatte und u nterhalb des Drehsterns und des Guidings.  
+Rändelschrauben  Die Rändelschrauben an der Klemmeinheit, können werkzeuglos 
+gelöst werden. Die se ermöglichen einen schnellen Austausch der 
+Klemmbacken für die verschiedenen Formate.  
+Schwenkachse  Die Schwenkachse bewegt den Verschrauber von der Abholposition  
+des Präsentierer  der Deckel zu der Setzposition über dem Drehstern. 
+Die Schwenkachse wird mit einem Servomotor angetrieben. Dieser 
+befindet sich unterhalb der Tischplatte.  
+Pneumatischer 3-Backen -Greifer  Der pneumatische 3 -Backen -Greifer greift die Deckel, um sie aus dem 
+Präsentierer zu entnehmen und sie auf die Flaschen  aufzuschrauben .  
+Drehmomentgeregelter Verschrauber  Der drehmomentgeregelte Verschrauber besteht aus einer direkt 
+ange triebenen vertikalen Achse und einer direkt angetriebenen 
+Rotationsachse.  
+Drehteller  Von der Längsförderschiene laufen die Deckel in den Drehteller ein. 
+Befindet sich ein Deckel im Drehteller, schwenkt dieser um 1 20°.Wird 
+die Rändelschraube auf dem Drehte ller gelöst, kann der Drehteller 
+und die Aussenführung entnommen bzw. ausgetauscht werden . 
+Lichtschranke  Die Lichtschranke detektiert, ob ein Deckel  ganz  in den Drehteller 
+eingelaufen ist.  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.11.2  Formateinstellungen und Formatteile  
+ 
+Für diese Formatumstellung muss der Drehstern und die Seitenführung weg genommen w erden.  
+Pos.  Formatteile (Rot – müssen ersetzt werden)  Formateinstellungen (Grün – müssen eingestellt werden)  
+1 Alle vier Klemmplatten mittels der 
+darunterliegenden Sternschraub e 
+herausnehmen und ersetzen.  Keine Einstellungen nötig  
+2 Alle 6 Klemmgreifer nach unten herausziehen 
+und ersetzen   
+3 Führungsplatte ersetzen   
+4 Präsentierplatte ersetzen   
+ 
+Prozesssicherheit:  
+• Das Anziehmoment und die Tiefe beim Verschrauben  werden  überwacht  
+ 
+Materialien:  
+• Produkt berührende Teile aus POM -C (Präsentierer, Seitenführung und) oder aus NBR (Gummiklemmung, FDA)  
+• Aluminium eloxiert: Pneumatikzylinder 3 -Backen -Futter und die dazugehörenden Greifer  
+• Restlichen Materialien aus 1.4301 Ede lstahl.  
+  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.12 ANWESENHEIT DECKEL  (NR.12)  
+ 
+Der Sensor kontrolliert,  ob der Deckel  korrekt verschraubt  wurde oder nicht und deklariert das Gebinde als 
+CF (conform ) oder NCF (Not conform ). 
+Pos.  Formatteile (müssen ersetzt werden)  Formateinstellungen (müssen eingestellt werden)  
+1 Mittels dem Klemmhebel kann die korrekte 
+Position eingestellt werden . Die korrekte  
+Höhe wird über den Formatring  definiert . 
+Dies ist analog  des Anwesenheitssensor der 
+Flüssigkeit.  Keine Einstellungen nötig  
+ 
+ 
+Materialien:  
+• Sensor besitzt ein Kunststoffgehäuse  
+• Alle anderen Materialien sind aus 1.4301 Edelstahl  
+ 
+  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.13 AUSSCHLEUSUNG, INKL. CF/NCF BEURTEILUNG  (NR.13)  
+ 
+Beschreibung  Funktion  
+Auslauf NCF  (Not conform)  Wird  ein Gebinde als schlecht deklariert  (Not conform) , wird die 
+Maschinenleistung gedrosselt. Ist das erste Produkt ein NCF, dann 
+fährt zuerst der Ausschieber NCF nach aussen. Der Drehstern fährt 
+einen halben Takt, damit nur das falsche Produkt aus dem Drehstern 
+gelangt. Nach einer definierten Zeit fährt der Ausschieber NCF mit 
+dem aufgefangenen Produkt wieder zurück.  
+Ist das erste P rodukt ein CF und erst das zweite Produkt das NCF, 
+dann fährt der Drehstern auch nur einen halben Takt und übergibt das 
+CF-Produkt dem Transportband. Nach einer bestimmten Zeit wird der 
+NCF-Prozess für das zweite Produkt wie oben beschrieben in Gang 
+gesetz t. 
+Als NCF werden alle Produkte  deklariert, bei denen ein Prozess 
+(Füllmenge, Drehmoment beim Verschrauben, Einpresskraft) 
+schiefgelaufen  ist oder eine Überwachung ein Fehler (Deckelhöhe, 
+Anwesenheit Flüssigkeit, Anwesenheit Stopfen) erkennt . Es werden 
+alle NCF Produkte aus dem Drehstern befördert.  
+Auslauf CF  (Conform)  Gute Gebinde  (conform)  werden durch einen Takt beim Drehstern 
+dem Förde rband  übergeben und werden über eine Seitenführung 
+zum Etikettierer geführt.   
+Stausensor  Stellt die Maschine ab, falls zu viele Produkte im NCF Auslauf sind 
+oder der Etikettierer eine Störung hat und sich die Produkte 
+zurückstauen.  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.14 HENSLE ZUFÜHRTOPF (NR. 7+10)   
+ 
+Beschreibung  Funktion  
+Bunker SF50  In den 50l- Vibrationsbunker werden die Deckel als Schüttgut vom 
+Bediener eingefüllt. Die Deckel werden mittels Vibration in den 
+Sortiertopf gefördert.  (Speicherzeit ca. 40min  oder ca. 1800Stk ) 
+Füllstand skontrolle  Kontrolliert,  ob der Bunker noch Material hat und gibt sonst eine 
+Meldung an den Operator zum Nachfüllen.  
+Sortiertopf  Im Sortiertopf steigen die Deckel mittels Vibration über Wendel nach 
+oben. Sie werden Lagerichtig sortiert und gelangen auf die 
+Längsförderschiene.  
+Füllstandsensor  Dieser Sensor kontrolliert ob genügend Deckeln im Sortiertopf sind. 
+Sind zu wenige vorhanden, aktiviert der Sensor den Vibrationsbunker 
+und fördert automatisch neue Deckel in de n Sortiertopf.  
+Längsförderschiene  Auf der Längsförderschiene werden die Deckel zur Maschine 
+gefördert.  
+Minimumstausensor  Ein Stausensor überwacht die Längsförderschiene. Ist die Schiene mit 
+zu wenigen Deckeln befüllt, schaltet der Sortiertopf ein und fördert 
+eine genau definierte Zeit neue Deckel in die Längsförderschiene.  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.14.1  Funktionsunterteilung Zuführtöpfe  
+Folgende Produkte werden von der Zuführung Giessring zugeführt:  
+Stopfen / Tropfer / Ausgiessring:  
+  
+Sprayaufsatz mit Tauchrohr:  
+  
+ 
+Folgende Produkte werden von der Zuführung Deckel zugeführt:  
+Schraubdeckel : 
+ 
+Besondere Merkmale:  Die Fördertöpfe besitzen eine  Abdeckung über dem Bunker, dem Fördertopf und der 
+Zuführschiene als Schmutzfänger und als Schallschutz.  Die Abdeckungen sin d aus PET -G. 
+ 
+Materialien:  
+• Grundplatte Aluminium eloxiert.  
+• Produktberührende Teile aus 1.4401 oder 1.4404 Edelstahl (Schwingförderer ist zudem E -poliert)  
+• Restlichen Materialien aus 1.4301 Edelstahl.   
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.15 BEDIENPANEL (NR.14)  
+ 
+Die Bedienung des HMI ist auf beiden Seiten des Zuführbandes möglich. Die Limitierung der Bewegung ist 
+die Sicherheitsumhausung der Maschine.  
+ 
+Das HMI kann sich um ca. 330° drehen.  
+Besondere Eigenschaften : Vom HMI kann ein Batchrapport (Analog dem Beisp iel von A.Vogel) auf einen 
+USB-Stick oder einen Drucker herausgegeben werden.  
+ 
+  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final 4.16 ETIKETTIERER   
+ 
+ 
+Grobübersicht  
+• 45-60 Stück/min  
+• Vollautomatische Etikettieranlage, Typ VRM -RB, um verschiedene zylindrische Produkte mit einem 
+Etikett am Umfang zu versehen  
+• Grundgestell, VA -Vierkantrohr geschweisst, mit höhenverstellbaren Füssen  
+• Transportband auf dem Grundgestell aufgebaut, Gurtbreite: 100mm , Länge: 2600mm  
+• Pneumatische Produktvereinzelung  
+• Pneumatische Produktauswurfstation für fehlerhafte Produkte   
+• Universelles Etikettenspendegerät RAPID SM80  
+• Thermontransferdrucker Videojet DF6330. Druckbreite 53mm  
+• Kamerasystem Keyence CA -H500 (2MP ) 
+• Arbeitshöhe: 900mm  
+• Elektroanschluss: 400V/50Hz  
+• Gewicht ca.  500kg  
+• Vollverkleidung aus Edelstahlblechen  
+• Verwendete Materialien: Edelstahl, Stahl verchromt,  
+ Aluminium, Aluminium eloxiert  
+ 
+Abweichung zur URS  
+• Nicht der Thermotransferdruck DOMINO  
+• Nicht Cognex insight Kamera  
+  
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final Beschreibung  Funktion  
+Etikettenspendegerät  
+Rapid SM 80 
+ 
+ Das Etikettenspendegerät nimmt die zu verarbeitenden 
+Etiketten auf. Es lässt sich auf das jeweilige Format 
+einstellen.  
+- Etikettenbreite bis 80 mm  
+- elektronische Mikroprozessorsteuerung  
+- elektronische Drehzahlregelung  
+- Antrieb durch Schrittmotor  
+- inkl. Höhen - und Querverstellung mit Doppelspindel sowie 
+Handrad und Positionsanzeiger  
+- inkl. Feineinstellung (an Höhenverstellung)  
+- inkl. Etikettenvorabmeldung  
+ 
+Wichtig: Seitlicher Anbau  bestellt  (nicht wie auf dem Bild 
+gezeigt) . Dadurch ist ein einfacherer  Rollenwechsel au f ca. 
+950mm Höhe möglich.  
+ 
+ 
+Thermotransferdrucker  
+Videojet DF6330  
+ Der Thermotransferdrucker bedruckt die Etiketten.  
+- Typ: Videojet Dataflex 6330  
+- Auflösung: 300 dpi  
+- Druckbereich: 53 x 75 mm (intermittierend)  
+- inkl. Barcodes / Datamatrix -Codes  
+- aufgebaut auf das Etikettenspendegerät  
+- vollintegriert in das Anlagen -HMI  
+- z.B. 3-zeiliger Druck mit Abfüllmenge, Abfülldatum, 
+Verbrauchsdatum realisierbar.  (siehe rote Markierung)  
+ 
+Kamera  
+CA-H500M  
+ 
+ 
+ 
+ Kamerasystem zur Druckdatenkontrolle UDI.  
+-Kamerasystem Keyence CA -H500 (2MP)  
+-Inkl. Software und Beleuchtung  
+Überprüft den 
+Pharmacode und auch ob 
+der Druck korrekt 
+ausgeführt wurde und 
+stellt somit fest, dass das 
+richtige Etikett im Einsatz 
+ist und der Druck korrekt 
+ausgeführt wurde.  
+ 
+ 
+  
+ Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 4 
+ 
+ Vor der Anwendung des Dokuments ist sicherzustellen, dass die gültige Version vorliegt  Status: final Beschreibung  Funktion  
+ 
+Touchpanel 15" 
+ 
+ Touchpanel 15" mit Visualisierung der Gesamtanlage sowie 
+der einzelnen Anlagenkomponenten  
+- incl. Programmwahl mit frei wählbaren Hilfstexten  
+- Benutzerverwaltung  
+- Anzeige der individuellen Zähler  
+- Hauptparameter sind direkt im Übersichtsbild editierbar  
+- Touchscreen PC embedded und FIAVis  
+- ausführliche Beschreibung und Anzeige von 
+Fehlermeldungen  
+- Fabrikat: BECKHOF F 
+Edelstahl -Grundgestell , 
+Vollverkleidung  
+ 
+ 
+ Das Grundgeste ll nimmt alle mechanischen und 
+elektrischen Komponenten des Etikettierers auf. 
+Abweichend zum Bild sind 4 feste Füsse vorgesehen.  
+ 
+ 
+ 
+ 
+ 
+ 

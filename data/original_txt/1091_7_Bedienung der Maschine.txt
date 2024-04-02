@@ -1,0 +1,113 @@
+Bedienungsanleitung Füll - und Verschliessanlage Z -110  
+Kapitel 7  
+ 
+ Inhaltsverzeichnis  Kapitel  7 
+7 Bedienung der Maschine  ................................ ................................ ............................  2 
+7.1 Maschine starten  ................................ ................................ ................................ .............................  2 
+7.2 Maschine leerfahren  ................................ ................................ ................................ .......................  2 
+7.3 Gebindezähler  ................................ ................................ ................................ ................................ . 2 
+7.4 Hauptschalter  ................................ ................................ ................................ ................................ .. 3 
+7.5 NOT AUS  ................................ ................................ ................................ ................................ ..........  3 
+7.6 NCF-Markierung  ................................ ................................ ................................ ..............................  3 
+7.7 Befüllen der Fördertöpfe  ................................ ................................ ................................ .................  4 
+7.8 Bedienpanel und Knöpfe  ................................ ................................ ................................ .................  4 
+ 
+Ver-
+sion  Änderungen  Autor  Datum  
+1.0  Niedzwiecki Andre  27.10.2021  
+       Bedienungsanleitung  Füll - und Verschliessanlage Z -110  
+Kapitel 7  
+ 
+ 
+2/4  7 Bedienung der Maschine  
+Dieses Kapitel beschreibt die routinemässige Bedienung der Maschine.  
+7.1 Maschine starten  
+Um die Maschine zu starten, gehen Sie folgendermassen vor : 
+•       Stellen Sie sicher, dass alle mechanischen, formatrelevanten Einstellungen korrekt vorgenommen wur-
+den. 
+•       Schalten Sie die Füll- und Verschliessmaschine (und alle betriebsrelevanten Zubehörkomponenten) am 
+Haupts chalter ein  (Falls die Maschine ausgeschalten ist) . Der Startvorgang der  Füll- und Verschliessma-
+schine  kann 2  bis 3 Minuten dauern.  
+• Loggen Sie sich in das HMI ein.  Der Hauptbildschirm erscheint , und die Maschine ist bereit zum Refe-
+renzieren. Wenn die Maschine noch nicht referenziert wurde , werden verschiedene Warnungen und 
+Fehlermeldungen angezeigt . 
+• Überprüfen S ie, ob sich keine De ckel im Präsenter  der Verschraubung befinden  
+•       Tippen Sie oben in der Bedienleiste unter «Aktuelles Programm» auf das Icon zum Öffnen des Unter-
+menüs,  um das Rezept auszuwählen, mit dem gearbeitet werden soll .  
+•       Wenn das korrekte Rezept ausgewählt und auf die SPS heruntergeladen wurde, drücken Sie den Start -
+Knopf, um den Re ferenzierungsprozess zu starten (der Referenzierungsprozess ist nur notwendig, wenn 
+die Maschine vorher stromlos geschaltet war).   
+•       Nachdem der Referenzierungsprozess abgeschlossen ist, drücken Sie den Startknopf erneut, um in die 
+Manuellebetrieb zu gelangen .  
+•       Drücken Sie nochmal den Startknopf, um die Maschine im Automatikmodus zu starten.  
+7.2 Maschine leerfahren  
+Tippen Sie in der Status - und Bedienleiste auf das Untermenü -Icon zum Anzeigen der Produktionsdaten, und 
+wählen Sie «Maschine leerfahren» «On». Ab j etzt werden  keine Gebinde  mehr in das Transportsystem geför-
+dert. Alle Gebinde , die sich aktuell im Transportsystem befinden, werden normal verarbeitet  (wie vorgewählt 
+bzw. im Rezept hinterlegt ). Wenn alle diese Gebinde  verarbeitet wurden, stoppt die Maschi ne. 
+7.3 Gebinde zähle r 
+Der Gebindezähle r in den Produktionsdaten  kann verwendet we rden, um eine bestimmte Anzahl von Gebinden 
+zu produzieren. Geben Sie unter «Sollstückzahl» die entsprechende Zahl ein, und wählen Sie «Stoppen nach 
+erreichter Stückzahl» «On» aus .  
+Wenn die einge gebene  Anzahl von Gebinden produziert  wurde , startet die Maschine automatisch das Leerfah-
+ren. Gezählt werden die Gebinde ab der Position 1 auf dem Drehstern . Danach werden keine neuen Gebinde  
+mehr in das Transportsystem gefördert . 
+ 
+ 
+ 
+ 
+ 
+                                                                             Bedienungsanleitung Automatische Füll - und Verschliessanlage Z -110  
+Kapitel 7  
+ 
+  3/4 7.4 Hauptschalter  
+Beim Betätigen des Haupts chalters wird die Anlage komplett spannungsfrei geschaltet (inklusive CPU  und HMI).  
+7.5 NOT AUS  
+Um ein en NOT AUS auszulösen, NOT AUS -Schalter drücken. Die Maschine stoppt sofort, und die Türen der Si-
+cherheitseinhausung können geöffnet werden .  
+7.6 NCF-Markierung  
+Nur Gebinde , bei denen der  begonnen e Prozess v ollständig abgeschlossen wurde , werden als CF ma rkiert.  Ein 
+einmal als NCF markiertes Gebinde  behält diese Markierung bis zum Ende des Prozesses. Eine NCF -Markierung 
+kann nicht wieder rückgängig gemacht werden.  
+Zur Fehlerbehebung  siehe Kapitel 10, Fehlermeldungen, Fehler und ihre Beheb ung.  
+     Bedienungsanleitung  Füll - und Verschliessanlage Z -110  
+Kapitel 7  
+ 
+ 
+4/4  7.7 Befüllen der Fördertöpfe /Bunker  
+ HINWEIS  
+Risiko von Maschinenschaden.  
+ 
+Überfüllen der Fördertöpfe /Bunker kann zu Rückstau, gegenseitigem Verklemmen und Leis-
+tungsverlust führen.   
+ 
+• Fördertöpfe nur bis zur zulässigen Höchstmenge füllen.  
+ 
+Zum Befüllen der Fördertöpfe, Material von oben in den Bunker nachschütten.  
+7.8 Bedienpanel und Knöpfe  
+Die Maschine kann vom Bedienpanel aus gestartet, gestoppt und gesteuert werden.  
+ 
+Touchscreen  Auf dem Touchscreen werden die einzelnen Bilder  angezeigt und 
+die Maschine bedient. Die einzelnen Funktionen werden durch 
+Drücken auf die Bildschirmschaltflächen aktiviert.  
+Start - / Stop -Knopf  Dieser Knopf wird zum Starten/Stoppen der Maschine verwen-
+det. 
+Um die Maschine zu starten, müssen die Sicherheitstür en ge-
+schlossen sein.  
+Drücken des Startknopfes erhöht den Betriebsmodus von Um-
+rüstbetreib zu Manuelbetrieb oder vom Manuelbetrieb zum Au-
+tomatikbetrieb.  
+Ein kurzes Drücken  der Stop knopf  löst einen Halt nach Taktende 
+aus. Alle Station machen ihren Schritt fertig, anschliessend 
+stoppt die Maschine.  
+Ein langes Drücken  > 2s löst eine Sofortstop aus. Die Maschine 
+stoppt sofort, ohne den laufenden Arbeitsgang zu beenden.  
+NOT AUS -Schalter  Dieser Schalter wird verwendet, um die Maschine in gefährli-
+chen Situationen zu stoppen. Die Maschine stoppt sofort, ohne 
+den laufenden Arbeitsgang zu beenden.  
+Der NOT AUS -Befehl wird durch Herausziehen des NOT AUS -
+Schalters und durch einmaliges Drücken der  Rückstellta ste auf 
+dem Bedienp anel zurückgesetzt. Danach kann die Maschine wie-
+der gestartet werden.  
+Rückstelltaste / Reset  Drücken, um aktive Meldungen zu quittieren.  
+ 

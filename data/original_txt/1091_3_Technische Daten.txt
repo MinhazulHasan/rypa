@@ -1,0 +1,104 @@
+  Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 3  
+ 
+Inhaltsverzeichnis Kapitel  3 
+3 Technische Daten  ................................ ................................ ................................ .......  2 
+3.1 Maschinenabmessungen  ................................ ................................ ................................ .................  2 
+3.2 Allgemeine technische Daten  ................................ ................................ ................................ ..........  3 
+3.2.1  Basismaschine  ................................ ................................ ................................ ................................ ... 3 
+3.2.2  Sicherheit  ................................ ................................ ................................ ................................ ..........  3 
+3.2.3  Produktionsrate ................................ ................................ ................................ ................................ . 3 
+3.2.4  Spannungsversorgung  ................................ ................................ ................................ .......................  3 
+3.2.5  Druckluftversorgung  ................................ ................................ ................................ ..........................  4 
+3.2.6  Umweltbedingungen  ................................ ................................ ................................ .........................  4 
+3.3 Verwendete Materialien  ................................ ................................ ................................ .................  4 
+ 
+Version  Änderungen  Autor  Datum  
+1.0 Erstausgabe  Matthias Kunz  16.06.2021  
+      Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 3  
+ 
+ 
+2/4  3 Technische Daten  
+Auf der Füll - und Verschliessmaschine  Z-110 werden fünf verschiedenen Glasf laschen mit Flüssigkeit befüllt . 
+Anschliessend werden die Flasch en mit einem Giessring  verschlossen und ein Schraubverschluss aufgeschraubt.  
+3.1 Maschinenabmessungen  
+ 
+ 
+ 
+ 
+  
+  Bedienungsanleitung Füll - und Verschliessmaschine Z -110 S  
+Kapitel 3  
+ 
+  3/4 3.2 Allgemeine technische Daten  
+3.2.1 Basismaschine  
+Beschreibung  Einheit  Wert  Bemerkung  
+Dimensionen Maschinenrahmen  mm 1400 x 1400 x 1800  - 
+Schrittwinkel des Drehsterns  ° 30 - 
+ 
+Abmessungen ohne Zuführungen und Etiket-
+tierer  
+(L x W x H) [mm]  1400 x 1400 x 2450  
+Abmessungen mit Zuführungen und Etikettie-
+rer 
+(L x W x H) [mm]  73800 x 3 600 x 2450  
+Gesamtgewicht [kg]   
+ 
+Flaschenhöhe  
+Flaschendurchmesser  60mm – 160mm*  
+Ø20 – Ø70mm*  
+Deckelhöhe  
+Deckeldurchmesser  10 – 40 mm*  
+Ø10 – Ø32mm*  
+Füllmengenbereich mit den verwendeten 
+Kolbenpumpen  12.3 – 123ml ( eine Pumpe ) 
+24.6 – 246ml (Total)  
+*Neue Formate benötigen zusätzliche Formatteile.  
+3.2.2 Sicherheit  
+Beschreibung  Einheit  Wert  Bemerkung  
+Anzahl der Not -Aus-Tastern  Pcs 4 - 
+Anzahl der Sicherheitsschaltern an Türen  Pcs 6  
+3.2.3 Produktionsrate  
+Maschinentechnische Leistung [Stück/min] ** 
+45 
+** Die effektive Leistung wird durch das Füllverhalten des Medium s beeinflusst  
+3.2.4 Spannungsversorgung  
+Gilt für die Z -110, die Zuführung, Ausblasstation, den beiden Zuführtöpfen und dem Etikettierer  
+Parameter [Einheit]  Wert  
+Spannungsversorgung [V]/[Hz]  3 x 400VAC + N + PE / 50 Hz  
+Leistung [kW]  27.7  
+Strom [A]  40 
+Schutzklasse des externen Schaltschranks [IP]  IP 55    Bedienungsanleitung Füll - und Verschliessmaschine Z -110  
+Kapitel 3  
+ 
+ 
+4/4  3.2.5 Druckluftversorgung  
+Parameter [Einheit]  Wert  
+Betriebsdruck [bar]  6 bar (trocken und ölfrei)  
+Zulässige Drucklufttemperatur  10°C … 30 °C  
+Voraussichtlicher Luftverbrauch  max.  100 l/min @6bar  
+Maximale Druckluft -Feuchtigkeit  60 % (bei 5 bar und 20 °C)  
+Druckluftanschluss  G ½"  
+ 
+3.2.6 Umweltbedingungen  
+Raumtemperatur [°C]  18-25°C 
+ 
+3.3 Verwendete Materialien  
+Mit Produkt direkt in Kontakt kommende Anlagenteile sind aus Edelstahl  1.4401 (X5CrNiMo17 -22-2) oder  
+1.44 04 (X2CrNiMo1 7-22-2) gefertigt.  
+ 
+Anlagenteile, die in direktem Kontakt mit dem Produkt stehen, sind elektropoliert und weisen eine Oberflä-
+chenrauheit von maximal Ra 0.8 auf.  
+ 
+Teile die nicht in direkten Kontakt mit dem Produkt  kommen , sind aus Edelstahl 1.4301 (X5CrNi18 -10) gefertigt.  
+ 
+Formatteile oder Ähnliches können aus POM oder anderen FDA -Konformen Kunststoffen gefertigt sein. Sie sind 
+reinigbar und autoklavierbar.  
+ 
+Greiferfinger  sind aus kinematischen Gründen aus EN -AW-6082 (AlSi1MgMn), stehen aber nicht in direktem 
+Produktkontakt.  
+ 
+Membranen und dampfsterilisierbare Dichtungen sind aus EPDM, Vitron, Tefasep Compound oder PTFE be-
+schichtet.  
+ 

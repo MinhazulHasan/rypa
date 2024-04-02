@@ -1,0 +1,317 @@
+Operating instructions for filling and sealing machine Z-110
+Chapter 2
+ 
+Table of Contents Chapter 2
+2 Security ................................ ................ ................ ................................ .. ................2
+2.1 Personnel requirements ................................ ................ ................ ................................ .. .................2
+2.2 Intended use ................................ .................. ................................................. 2
+2.3 Improper use ................................ .................. ................. ........................ 2
+2.4 Warning symbols ................................ ................ ................ ................................ .. ............................... 3
+2.4.1 Explanation of the warning symbols ................................ ........... .................................................... ... ............. 3
+2.4.2 Symbols used ................................ ............. ................... ................................... .............................. 4
+2.5 General safety regulations ................................ .................. ................................................. 6
+2.5.1 Responsibility of the operator ................................ ............ .................... ................................. .. .......... 6
+2.5.2 Obligation to maintain and care ................................ .......... ...................... .......................................... ...6
+2.5.3 Spare parts to be used ................................ ............ .................... ................................. .. .............. 6
+2.5.4 Modifications ................................ ................. .................. ................................ ................................ .. 6
+2.6 Product safety ................................ ................ ................ ................................ .. .......................... 6
+2.6.1 General risks ................................ ............ .................... ................................. .. ........................... 7
+2.6.2 Built-in security elements and measures ................................ .......... ...................... .......  8th
+2.6.3 Safety enclosure ................................ .............. .................. ................................ .................... 11
+2.6.4 Safety switch ................................ ................. .................. ................................ .......................... 11
+2.6.5 Warning signs on the machine ................................ ........... .................................................... ..........12
+ 
+ 
+Version Changes Author Date
+1.0 First edition Matthias Kunz June 16, 2021
+      Operating instructions for filling and sealing machine Z-110
+Chapter 2
+ 
+ 
+2/13 2 Security
+2.1 Personnel requirements
+Improper handling of the device can result in significant personal injury and property damage. All activities
+Only have the work carried out by qualified personnel.
+Due to their technical training, knowledge and experience as well as knowledge of the relevant
+to be able to carry out the work assigned to him in accordance with the applicable regulations and to avoid possible dangers himself.
+to constantly recognize and avoid.
+Only people who can be expected to carry out their work reliably are permitted as personnel.
+ren. People whose ability to react is influenced, e.g. B. through drugs, alcohol or medication
+not allowed. When selecting personnel, follow the age and job-specific regulations applicable at the place of work.
+pay attention to the following.
+Unauthorized persons who do not meet the requirements described here are aware of the dangers in the work.
+working area not.
+• Keep unauthorized persons away from the work area.
+• If in doubt, speak to people and direct them out of the work area.
+• Stop work while unauthorized people are in the work area
+2.2 Intended use
+The machine may only be used for the purpose for which it was designed - for filling
+various glass bottles with liquid (alcoholic, tincture or syrup). The glass is then
+bottles closed with a dropper insert and a screw cap screwed on or a Namustard spray
+pressed on.
+ 
+Any further use does not constitute intended use and may cause personal injury or damage.
+lead to rail damage.
+ 
+2.3 Improper use
+The machine was not designed for use in
+ 
+radioactive, or biologically or chemically contaminated atmosphere.
+ 
+The product and machine manufacturer must be contacted before the machine is processed
+of dangerous substances is used. In this case, the operating personnel must take appropriate protective measures.
+measures, such as wearing protective clothing.
+ 
+Five different glass bottles are processed on the system. Each of the five containers requires a different
+appropriate format set.
+Product-specific design changes must be made for processing other formats. Operating instructions for filling and sealing machine Z-110 S
+Chapter 2
+ 
+  3/13 2.4 Warning symbols
+2.4.1 Explanation of warning symbols
+DANGER, WARNING, CAUTION and NOTE are standardized signal words to classify the severity
+the risk of injury or the risk of property damage. All signal words that are associated with the risk of injury
+men, n is supplemented by a warning symbol.
+For safety reasons, it is important to read the table below with the various signal words completely
+to have read and understood.
+ 
+Sign Signal word Explanation Risk level
+ DANGER Indicates a dangerous situation that if not
+is avoided, resulting in death or serious injury
+leads.
+Triangular warning sign. ★★★★
+ WARNING Indicates a hazardous situation that if not
+is avoided, resulting in death or serious injury
+can lead.
+Triangular warning sign. ★★★
+ CAUTION Indicates a hazardous situation that if not
+avoid causing moderate or minor injuries.
+can lead to problems.
+Triangular warning sign. ★★
+ NOTICE Indicates possible material damage. Precautions for
+To prevent possible personal injury
+not be hit.
+Round mandatory sign.
+ 
+Additional safety and command symbols are located to the left of the signal word and additional text
+(see example below).
+ 
+ 
+WARNING
+Text that describes the source of danger (e.g. explosion)
+Consequences of non-compliance (e.g. touching live and live parts can result in...
+lead to death. )
+ 
+• List of measures to prevent the dangers and consequences described.
+  
+  Operating instructions for filling and sealing machine Z-110
+Chapter 2
+ 
+ 
+4/13 2.4.2 Symbols used
+The reference list below contains all safety symbols used and their meaning. The symbols can
+can be found in this operating manual or on the device.
+Warning symbols
+Symbol meaning
+ Warning of general hazards
+ Laser beam warning
+ Warning of device damage
+ Warning of automatic start
+ Warning of opposing roles
+ Warning of electrical voltage
+ Hand injury warning
+ Warning of danger of tipping
+ Warning of heavy loads
+ Hot surface warning
+ Warning of obstacles on the ground
+  Operating instructions for filling and sealing machine Z-110 S
+Chapter 2
+ 
+  5/13 Symbol Meaning
+ Warning about flammable substances
+ Warning about flammable substances
+ 
+ 
+Commandment symbols
+Symbol meaning
+ General mandatory sign
+ Follow the instructions
+ Use hearing protection
+ Use eye protection
+ Wear safety shoes
+ Use hand protection
+ wear a helmet
+ Wear for two
+ 
+  
+  Operating instructions for filling and sealing machine Z-110
+Chapter 2
+ 
+ 
+6/13 2.5 General safety regulations
+2.5.1 Responsibility of the operator
+The laboratory manager is responsible for training his staff.
+The operator must immediately inform the manufacturer of any safety-related incident while working with the
+inform the machine or its accessories.
+Please send reports of incidents to the email address: info@zellwag.com.
+Laws and regulations at the federal and state level as well as municipal regulations the machine or
+their accessories must be strictly followed.
+2.5.2 Obligation to maintain and care
+The operator is responsible for ensuring that the machine remains in good condition. This includes maintenance,
+Service and repair work carried out according to a specified schedule by an authorized personpersonnel carried out
+become.
+2.5.3 Spare parts to be used
+Only the specified Zellwag spare parts may be used to ensure that the machine
+maintains its performance and can continue to be operated reliably and safely. Any modifications
+cations of spare parts and machine parts are only permitted after prior written agreement with Zellwag.
+2.5.4 Modifications
+Modifications to the device are only possible after prior agreement and written consent from
+Cell wagon permitted. Modifications and upgrades may only be carried out by a Zellwag authorized engineer
+be performed.
+Zellwag declines any liability for unauthorized modifications.
+2.6 Product safety
+The machine was designed and built using the latest technology. Nevertheless, if done improperly,
+Risks arise from improper or improper use of the device.
+Zellwag Pharmtech AG has identified the following residual risks that may arise from the device:
+The device is operated by insufficiently trained personnel.
+The device is not being operated in accordance with its intended use.
+Appropriate warnings in these instructions draw the user's attention to these residual risks.
+    Operating instructions for filling and sealing machine Z-110 S
+Chapter 2
+ 
+  7/13 2.6.1 General risks
+The following safety instructions refer to general risks associated with handling the machine
+can arise. All listed countermeasures must be taken by the operator to reduce the risk if possible.
+to keep it as small as possible.
+Whenever actions or situations are described in this manual that...
+If situations can lead to risks, additional warnings are used.
+ 
+  DANGER
+Danger to life due to electric shock!
+Touching live and live parts can result in death.
+ 
+• Note that the de-energized and grounded machine has parts that carry stored charge.
+can release dung.
+• Never reach into the machine from below.
+ 
+ 
+  CAUTION
+Injuries caused by moving machine parts!
+Touching the bridge breaker during operation can result in crushing injuries.
+ 
+• Do not reach into the bridge breaker when the machine is running.
+• Do not reach into the infeed conveyor when the machine is running.
+ 
+ 
+  
+  Operating instructions for filling and sealing machine Z-110
+Chapter 2
+ 
+ 
+8/13 2.6.2 Built-in security elements and measures
+The machine can only be used with properly functioning protective devices and safety-related settings.
+directions, such as EMERGENCY STOP switches, switches for two-hand operation. In case of incorrect or
+If the safety devices are ineffective, the machine must be shut down immediately.
+ 
+The protective devices are installed for the safety of the operating personnel and must not be used under any circumstances.
+changed, removed or circumvented by making changes to the machine. The load separation - and that
+EMERGENCY STOP switches must be freely accessible.
+ 
+After a safety device has been activated, the machine may only start up again if:
+• The cause or fault has been eliminated and if it is guaranteed,
+• That this does not pose a danger to people or objects.
+    Operating instructions for filling and sealing machine Z-110 S
+Chapter 2
+ 
+  9/13 Main switch and EMERGENCY STOP switch
+ 
+The main switch of the machine is located on the external control cabinet and de-energizes the system.
+On the control panel for the HMI of the filling and sealing machine and on the rear left on the additional panel it says:
+There is an EMERGENCY STOP switch available so that the machine can be brought to an immediate standstill in an emergency
+can be.
+ 
+If one of the EMERGENCY STOP switches is activated, all machine movements will stop immediately, and all
+Actuators are de-energized and depressurized. A corresponding message appears on the control panel.
+An activated EMERGENCY STOP switch can be deactivated again by pulling it out. Then you have to
+Emergency stop situation must be acknowledged.
+The following figure shows where the EMERGENCY STOP switches and main switches are located on the machine:
+ 
+ 
+1 EMERGENCY STOP switch 2 Main switch
+Figure 1: Positions of the switches in the overall layout
+1
+1
+ 1
+ 1 2 1 Operating instructions for filling and sealing machine Z-110
+Chapter 2
+ 
+ 
+10/13
+1 EMERGENCY STOP-Switch on the HMI 2 main switch on the control cabinet
+Figure 2: Position of the switches at the individual positions
+  
+1
+ 2 Operating instructions for filling and sealing machine Z-110 S
+Chapter 2
+ 
+  11/13 2.6.3 Safety enclosure
+The machine is installed in certain areas where no manual intervention is required during operation.
+gen, surrounded by a safety enclosure.
+ 
+ 
+ 
+ 
+1 Safety enclosure infeed conveyor 2 Safety enclosure From blowing station
+3 Machine safety enclosure 4 Machine exit safety enclosure
+5 Safety enclosure conveyor pot cover (noise protection)
+Figure 3: Safety enclosure
+ 
+2.6.4 Safety switch
+The security doors are equipped with contactless safety switches. They serve to monitor
+that the doors are closed while the machine is in operation.
+ 
+ 
+ 
+1 safety switch
+Figure 4: Safety switch
+1
+ 2
+ 3
+ 4
+5
+1
+5
+1
+  Operating instructions for filling and sealing machine Z-110
+Chapter 2
+ 
+ 
+12/13 2.6.5 Warning signs on the machine
+The following pictures provide an overview of the warning stickers on the machine. The exact location, execution
+and number of warning stickers can be found in the respective operating instructions for the device/component manufacturer.
+lers.
+ 
+Make sure warning stickers are easy to read and replace if necessary.
+ 
+ 
+ 
+ 
+1 Warning sign in the control cabinet below the machine 2 Warning sign on the HMI
+3 Warning sign on the control cabinet
+Figure 5: “Electrical hazard” warning signs on the machine
+ 
+ 
+1
+ 2
+ 3 Operating instructions for filling and sealing machine Z-110 S
+Chapter 2
+ 
+  13/13
+1 warning sign on the bridge breaker
+Figure 6: “Hand injury” warning signs on the machine
+ 
+ 
+ 
+Note: The warning labels on the supplier components are included in the relevant supplier documentation.
+tation described.
+1

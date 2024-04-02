@@ -1,0 +1,103 @@
+Operating instructions for filling and sealing machine Z-110
+Chapter 3
+ 
+Table of Contents Chapter 3
+3 Technical data ................................ .................. ................. ................................ . ......2
+3.1 Machine dimensions ................................ ................ ................ ................................ .. .................. 2
+3.2 General technical data ................................ ................. .................. ................................ ..........3
+3.2.1 Basic machine ................................ ................. .................. ................................ ................................ ... 3
+3.2.2 Security ................................ ................. .................. ................................ ................................. .......... 3
+3.2.3 Production rate ................................ ................. .................. ................................ ................................ . 3
+3.2.4 Power supply ................................ .............. .................. ................................ ....................... 3
+3.2.5 Compressed air supply ................................ .............. .................. ................................ .......................... 4
+3.2.6 Environmental conditions ................................ ................. .................. ................................ ................................... 4
+3.3 Materials used ................................ .................. ................. ................................ . ................4
+ 
+Version Changes Author Date
+1.0 First edition Matthias Kunz June 16, 2021
+      Operating instructions for filling and sealing machine Z-110
+Chapter 3
+ 
+ 
+2/4 3 Technical data
+Five different glass bottles are filled with liquid on the Z-110 filling and sealing machine.
+The bottles are then closed with a casting ring and a screw cap is screwed on.
+3.1 Machine dimensions
+ 
+ 
+ 
+ 
+  
+  Operating instructions for filling and sealing machine Z-110 S
+Chapter 3
+ 
+  3/4 3.2 General technical data
+3.2.1 Basic machine
+Description Unit Value Comment
+Dimensions machine frame mm 1400 x 1400 x 1800 -
+Step angle of the rotating star ° 30 -
+ 
+Dimensions without feeders and labels
+animals
+(L x W x H) [mm] 1400 x 1400 x 2450
+Dimensions with feeds and labeling
+rer
+(L x W x H) [mm] 73800 x 3 600 x 2450
+Total weight [kg]
+ 
+Bottle height
+Bottle diameter 60mm – 160mm*
+Ø20 – Ø70mm*
+Lid height
+Lid diameter 10 – 40 mm*
+Ø10 – Ø32mm*
+Filling quantity range with those used
+Piston pumps 12.3 – 123ml (one pump)
+24.6 – 246ml (Total)
+*New formats require additional format parts.
+3.2.2 Security
+Description Unit Value Comment
+Number of emergency stop buttons pcs 4 -
+Number of safety switches on doors Pcs 6
+3.2.3 Production rate
+Mechanical performance [pieces/min] **
+45
+** The effective performance is influenced by the filling behavior of the medium
+3.2.4 Power supply
+Applies to the Z-110, the feed, blow-out station, the two feed pots and the labeler
+Parameter [unit] value
+Power supply [V]/[Hz] 3 x 400VAC + N + PE / 50 Hz
+Power [kW] 27.7
+Current [A] 40
+Protection class of the external control cabinet [IP] IP 55 Operating instructions filling and sealing machine Z-110
+Chapter 3
+ 
+ 
+4/4 3.2.5 Compressed air supply
+Parameter [unit] value
+Operating pressure [bar] 6 bar (dry and oil-free)
+Permissible compressed air temperature 10°C … 30°C
+Expected air consumption max. 100 l/min @6bar
+Maximum compressed air humidity 60% (at 5 bar and 20 °C)
+Compressed air connection G ½"
+ 
+3.2.6 Environmental conditions
+Room temperature [°C] 18-25°C
+ 
+3.3 Materials used
+System components that come into direct contact with the product are made of stainless steel 1.4401 (X5CrNiMo17 -22-2) or
+1.44 04 (X2CrNiMo1 7-22-2).
+ 
+System parts that are in direct contact with the product are electropolished and have a surface
+surface roughness of a maximum of Ra 0.8.
+ 
+Parts that do not come into direct contact with the product are made of stainless steel 1.4301 (X5CrNi18 -10).
+ 
+Format parts or similar can be made from POM or other FDA-compliant plastics. They are
+cleanable and autoclavable.
+ 
+Gripper fingersare made from EN -AW-6082 (AlSi1MgMn) for kinematic reasons, but are not directly related
+Product contact.
+ 
+Membranes and steam-sterilizable seals are made of EPDM, Vitron, Tefasep Compound or PTFE.
+layers.

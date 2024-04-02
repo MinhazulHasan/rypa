@@ -1,0 +1,951 @@
+Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final Table of contents Chapter 4
+4 MACHINE DESCRIPTION ................................ ................ ................ ................................ .. ................. 3
+4.1 Main components of the machine ................................ ................. .................. ................................ ................. 3
+4.1.1 Safety enclosure and emergency stop button ................................ ........ ........................ ................... 4
+4.1.2 Control cabinets ................................ .............. .................. ................................ ................................ .. 6
+4.1.3 Pneumatic unit ................................ ............. ................... ................................... ................................. 6
+4.1.4 HMI ................................ ................. .................. ................................ ................................. ................. 6
+4.1.5 LAF ................................ ................. .................. ................................ ................................. ................. .. 7
+4.1.6 Collecting channel ................................ .............. .................. ................................ ................................ ..... 7
+4.2 Overall machine ................................ ................ ................ ................................ .. .............................. ............  8th
+4.3 Turntable (No.1) ................................ ........... .................................................... ... ................................ ................ 9
+4.4 Blow-out station (No.2) ................................ ........... .................................................... ... ................................ ...... 10
+4.4.1 Safety formwork ................................ .............. .................. ................................ ....................10
+4.4.2 Functional overview ................................ .............. .................. ................................ ........................... 11
+4.4.3 Format settings and format parts ................................ ........... .................................................... .12
+4.4.4 Suction connection ................................ ............. ................... ................................... . ....................... 13
+4.5 Rotating star and inlet (No. 3) ................................ ......... ....................... ........................... ..... .......................... 14
+4.5.1 Functional overview ................................ .............. .................. ................................ ........................... 14
+4.5.2 Format settings and format parts ................................ ............ .................... ................................. 15
+4.6 Rotary lobe pump (No.4) ................................ ........... .................................................... ................................... 16
+4.6.1 Functional overview ................................ .............. .................. ................................ ........................... 16
+4.6.2 Rotary lobe pump connection ................................ ............. ................... ................................... . ........... 17
+4.7 Filling needle (No.5) ................................ ........... .................................................... ... ................................ ............... 18
+4.7.1 Functional overview ................................ .............. .................. ................................ ........................... 18
+4.7.2 Nitrogen filling ................................ ................. .................. ................................ .......................................... 19
+4.7.3 Cleaning ................................ ................. .................. ................................ ................................. .......... 20
+4.8 Presence of liquid (No.6) ................................ .......... ...................... .......................................... .... ....................... 21
+4.9 Drip insert setting station (No.8) ................................ ......... ....................... ................................ ....................... 22
+4.9.1 Functional overview ................................ .............. .................. ................................ ........................... 22
+4.9.2 Format settings and format parts ................................ ............ .................... ................................. 23
+4.10 Presence of drip insert (No.9) ................................ .......... ...................... .......................................... .... .................... 24
+4.11 Lid - screwing station (No.11) ................................ ......... ....................... ........................... ..... ................. 25
+4.11.1 Functional overview ................................ .............. .................. ................................ ........................... 25
+4.11.2 Format settings and format parts ................................ ............ .................... ................................. 26
+4.12 Presence of lid (No.12) ................................ .......... ...................... .......................................... .... ........................... 27
+4.13 Removal, including CF/NCF assessment (No. 13) ................................ ... ............................. .................... ......28
+4.14 Hensle feed pot (No. 7+10) ................................ ........ ........................... .......................... ...... .......................... 29
+4.14.1 Functional division of feed pots ................................ ............. ................... ................................... ...30
+4.15 Control panel (No.14) ................................ ........... .................................................... ... ................................. ........ 31
+4.16 Labeler ................................ ................ ................ ................................ .. ................................ .................... .. 32
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available. Status: final
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Version Changes Author Date
+1.0 First edition Matthias Kunz June 16, 2021
+      
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final 4 MACHINE DESCRIPTION
+4.1 MAIN COMPONENTS OF THE MACHINE
+ 
+Description Function
+Turntable separation and provision of those brought in as batches
+bottles.
+Blow-out station Bottles are blown out and sucked out, so that all possible
+Particles can be safely removed (glass, dust).
+Filling and closing system Z-110 Filling of the bottles provided. Closing the bottles
+with lids. Checking the screwed-on lids and handing them over
+filled and sealed containers to the labeller.
+Feeding the casting ring, separating it and providing it as bulk material
+casting rings.
+Feeding the lids, separating them and providing them as bulk goods
+Lids.
+Labeler applying labels.
+ 
+  
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final 4.1.1 Safety enclosure and emergency stop button
+To ensure the safety of the operators, the entire machine is covered with a protective enclosure
+disguised. In order to put the machine in a safe state in an emergency, there is an emergency stop button.
+Button on the panel and two emergency stop buttons on the machine. There is also an emergency stop
+Button on the labeller.
+ 
+The window panes and doors are made of PET-G.
+Safety switches give the control system feedback whether all doors are open
+are closed. When the security doors are open, no access is possible
+Dangerous movements are carried out by the operator. Will be one of the
+Safety doors opened while the machine is running will result in an emergency stop
+executed. The compressed air of pneumatic drives is switched off and the
+Electric drives are put into an energy-free state.
+All doors are kept closed by two magnets. The LAF
+continues to run even in the event of an emergency stop.
+ 
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using theDocument must be ensured that the valid version is available Status: final
+ 
+  
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final 4.1.2 Control cabinets
+There are two electrical control cabinets. One control cabinet is located next to the machine, the other
+The control cabinet is mounted below the base plate of the machine.
+The control cabinet next to the machine contains the power components such as the motor controller and
+the main fuses.
+The control cabinet below the machine only contains low-voltage components such as
+PLC. To access the control cabinet,
+the covers of the base frame must
+be removed. These can come with
+opened with a control cabinet key
+become.
+4.1.3 Pneumatic unit
+There is one underneath the machine
+Maintenance unit attached. To get to this
+To get to the maintenance unit, you have to
+Base frame covers removed
+(open with control cabinet key).
+ 
+The maintenance unit consists of a manual switch-on valve and a pressure control valve
+Condensate separation, a pressure switch, an electrically operated switch-on valve and a
+Pressure build-up valve. The manual switch-on valve can be switched off using a U-lock
+secured against being switched on again.
+Further pneumatic valves and vacuum generators are also mounted under the base plate.
+4.1.4 HMI
+The HMI (Human Machine Interface) is a
+Touchscreen with additional buttons. With the HMI
+the machine can be operated, it shows
+Production information and error messages.
+There is an emergency stop button next to the buttons
+on the HMI.
+The arrangement and mobility of the HMI
+will be explained in more detail in chapter 4.15 Control panel
+explained.
+ 
+ 
+ 
+  
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final 4.1.5 LAF
+ 
+ 
+The LAF sucks in air from the environment, filters it and blows the air in a laminar flow
+down into the machine.
+Specifications:
+• Material stainless steel 1.4301, K320 ground (Ra≤1.2μm)
+• Material certificate 2.1
+• HEPA filter class H14 according to EN 1822 with dry seal and certificate, differential pressure monitored
+(Oppermann DD83)
+• Pre-filter class ISO ePM10 70% (DIN EN ISO 16890) (G4 according to EN 779) behind perforated plate,
+Differential pressure monitored (Oppermann DD83), arrangement on the side
+• Maintenance-free and directly driven EC fans, automatic speed control
+using EC controller and flow probe for a constant LAF speed of v=0.45m/s,
+Power reserve with new filters approx. 25%, 400V 50Hz
+• Lighting >500 lux, Waldmann LED
+• GMP/FDA compliant
+ 
+Process reliability: The LAF has flow monitoring
+and continues to run even in the event of an emergency stop. This is for them
+ATEX environment is important, and this also ensures that
+Product if the machine is stopped for a short time due to a malfunction
+is turned off.
+ 
+4.1.6 Collection channel
+The cover plate on the filling and closing system Z -
+110 has a welded collecting channel all around, if
+a medium would run to the outside.
+ 
+  
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available. Status: final
+4.2 ENTIRE MACHINE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The machine is divided into the following sub-functions in Chapter 4.
+ 
+No. Description No. Description
+1 turntable 8 drip insert setting station
+2 Blow-out station 9 Presence of drip insert
+3 rotating star and inlet 10 feed pot
+4 rotary lobe pumps 11 cover - screwing station
+5 filling needles 12 presence lids
+6 Presence of liquid 13 Expulsion, including CF/NCF assessment
+7 Feed pot 14 Control panel
+ 
+    
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available. Status: final
+4.3 TURNTABLE (NO.1)
+Format glass no. Products on the
+Turntable (at 60%) Expected buffer time
+at 60% utilization (min) dimension packaging
+(Length x Width / Number)
+30ml FL Spray 30ml B/DIN 20/R 462 10 min 400mmx380mm(126pcs.)
+50ml FL drip. 50ml B./DIN 18/R. 438 10 min 385mmx275mm (84pcs.)
+100ml FL drip. 100ml B./DIN 18/R. 283 6.5 min 360mmx385mm (72pcs.)
+FL Stand 100ml B./PP28S/R. 283 6.5 min 385mmx400mm (80pcs.)
+200ml FL drip. 200ml brown DIN 22
+round 183 5 min 540mmx350mm (63pcs.)
+FL Stand 200ml B./PP28S/R. 183 5 min 550x380mm (70pcs.)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pos. Format parts (Red – must be replaced) Format settings (Green – must be set)
+1 none The discharge rail must be on the when changing the format
+Product can be customized
+ 
+Description Function
+Pusher The unpacked products are manually transported onto the rotating star and at the front
+leadership placed.
+Bridge breaker A wedge intermittently moves outwards and retracts again, thereby becoming
+Bridge formation from the bottles is prevented.
+Turntable runs the same speed for all formats. This is around 5 -6 rpm.
+ 
+Process reliability: Fallen products are detected in front of the blow-out station.
+ 
+Materials:
+• Anodized aluminum: base plate (covered), machine base below the unpacking zone, pneumatic cyl.
+at the bridge breaker (covered)
+• remaining parts made of 1.4301 stainless steel or POM C (FDA)
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final 4.4 BLOW OUT STATION (NO.2)
+4.4.1 Safety formwork
+ 
+Description Function
+Safety casing (fixed) Serves for safety, cannot be removed. In the event of a malfunction,
+be reached from the closer side.
+Safety door For accessibility for cleaning and format changing, it has front and
+There is a safety door at the back.
+ 
+Process reliability:
+• Fallen products are detected in front of the blow-out station.
+• When blowing out, the air supply is only slightly immersed in the bottle, which creates more turbulence
+and existing particles or glass panes are sucked out.
+• The suction time is kept as long as possible
+• The vertical stroke closes the bottle almost tightly.
+ 
+Materials:
+• Anodized aluminum: base plate (covered), machine base of the conveyor belt, basic structure of the belt,
+Pneumatic cylinder at the switch and at the stoppers (covered)
+• Parts in contact with the product made of POM -C (FDA), 1.4401 or 1.4404 Material: blow pipe, pneumatic feedthrough
+(Pneumatic connector made of plastic or stainless steel with the highest level of corrosion protection)
+• remaining parts made of 1.4301 stainless steel or POM C (FDA)
+• Conveyor belt: Food grade
+  
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final 4.4.2 Function overview
+ 
+Description Function
+Blowing out and suction The bottles are blown out via this axis. It will
+deionized and filtered (PAL filter) air is blown in and at the same time
+sucked out using A.Vogel's vacuum cleaner.
+Stopper Holds 4 bottles in position for cleaning
+Soft always leaves 4 bottles on one lane and the next 4 bottles on that
+other railway.
+Start sensor Opens the first stopper. The products are transported to the 2nd stopper. The
+The first stopper closes when exactly 4 bottles have passed the sensor. Then
+the blow-out process is started. After this blowing out, the second stopper opens
+and after a short time the first stopper again, and that
+The blow-out process starts again. This creates a gap between each
+4 bottles produced.
+Check stationary product If the start sensor is occupied and the upper sensor is not, the product is
+fallen over, a fault is issued. If not, this one counts
+Sensor whether 4 products have passed and then starts the cleaning process.
+Max. jam sensor If this sensor is occupied for a certain time. Stop the tape and also the
+Turntable. The blow-out process can still be completed.
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final 4.4.3 Format settings and format parts
+ 
+Pos. Format parts (Red – must be replaced) Format settings (Green – must be setlt)
+Remove 1 stopper plate from the pneumatics and
+the new stopper plate to the pneumatics
+Plug in and fix the inlet rail at the front to the correct stopper plate using the star grips
+align. At the turntable, check whether the bottles
+can go through well.
+2 The plastic plate with the star handles
+solve and through the correct format
+replace the rear inlet rail with the correct plastic plate
+align. At the turntable, check whether the bottles
+can go through well.
+3 The plastic plate with the correct ones
+Replace blowout positions. By means of the
+Fix with star handles. Align the outlet rail on both sides so that the bottles
+can go through well. With the rotating star it has to
+The transition to the plastic plate must be checked
+4 Align the outlet rail on both sides so that the bottles
+can go through well. With the rotating star it has to
+The transition to the plastic plate must be checked
+There are three format sets for the blow-out unit
+Format glass format set
+30ml FL Spray 30ml B/DIN 20/R FORMAT 30/50
+50ml FL drip. 50ml B./DIN 18/R. FORMAT 30/50
+100ml FL drip. 100ml B./DIN 18/R. FORMAT 100
+FL Stand 100ml B./PP28S/R. FORMAT 100
+200ml FL drip. 200ml brown DIN 22 round FORMAT 200
+FL Stand 200ml B./PP28S/R. FORMAT 200
+ 
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final 4.4.4 Suction connection
+ 
+The stick vacuum cleaner is right next to the electrical cabinet
+Wall and the suction line is attached to the cable duct. The
+The connection to the blow-out station is on the top cover. The
+Connection diameter is 50mm. The suction is monitored
+whether there is enough suction power. This is done via a
+Pressure sensor made by Festo, which measures whether through the
+Suction power creates a sufficiently large vacuum (Venturi -
+Effect).
+Interface to A.Vogel: The suction system is connected to
+to the 4-way distributor. A.Vogel supplies the sucker and the
+necessary hose (shown in blue. This has one
+Inner diameter of 50mm and a length of approximately 6m.
+  
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available. Status: final
+4.5 ROTARY STAR AND ENTRY (NO. 3)
+4.5.1 Function overview
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The green position numbers serve as an overview aid for the other functions that are attached to them
+positions are carried out.
+Description Function
+Side guide inlet brake Guides the bottles on two tracks to the rotating star. Before the rotating star
+The inlet brake is activated to control the following products
+to stop
+Presence control The presence control consists of a distance measuring
+Ultrasonic sensor. The sensor monitors whether the bottles are completely in the
+The rotating star has run in. The rotating star waits until both sensors are on
+Detect the presence of the bottles. The rotating star then clocks one cycle
+continue and the next two bottles can go into the pockets of the
+Rotary star enter.
+Side guide rotating star Guides the containers in the rotating star. The side guide and the tread are
+made of POM -C.
+Rotating star The rotating star itself is a format-dependent component. Into the recesses
+The bottles move in at the rotating star edge and are then pushed through the
+Machine clocked. The rotating star is connected to a mounted shaft
+Servo motor connected under the table. The servo motor positions over
+a gearbox the rotating star.
+Rotating star screw connection The rotating star is connected to the drive shaft via the rotating star screw connection
+screwed and fixed. To close the rotating star for a format change
+The screw connection can be loosened without tools.
+Star handles The star handles fix the side guides. To exchange these, you can
+the star handles can be opened without tools.
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final 4.5.2 Format settings and format parts
+ 
+ Pos. Format parts (Red – must be replaced) Format settings (Green –
+need to be set)
+1 stopper plate at the front. Reconnect both pneumatic connections
+and fasten with the two star handles2 Replace the inlet wedge and fix it with the star handle
+3 rear stopper plate. Reconnect both pneumatic connections
+and fasten with the two star handles
+4 Replace the side guide and tighten with the star screws
+5 Replace and tighten the rotating star using the rotating star nut
+ 
+Process reliability:
+• The presence control detects whether a product is present in the rotating star on both tracks and only then
+the rotating star clocks
+• A product that has fallen over would not enter the rotating star all the way to the front and would therefore not be covered by it
+the presence control can be recognized as a product
+• The brake prevents products from only running into the bags from one lane at a time.
+ 
+Materials:
+• Anodized aluminum: pneumatic cylinder for the brake
+• Tread made of POM C (FDA)
+• Guide parts made of POM C (FDA)
+• Star handles made of 1.4301 stainless steel.
+  
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final 4.6 ROTARY PISTON PUMP (NO.4)
+4.6.1 Function overview
+ 
+Description Function
+Rotary lobe pump The rotary lobe pumps (4x) are positioned next to the rotating star. The drive takes place via two
+Linear slide with servo motors (two rotary lobe pumps are controlled together)
+and a rotational movement, which is also carried out via a servo motor. All three
+Drives are located below the base plate. The pump cylinder is located above the r
+Base plate and can be changed without tools. The rotary lobe pump can 12. 3-123ml
+pump. The filling distribution (e.g. 40/60% from the first to the second filling position) is in the
+Software set via the stroke of the rotary lobe pump.
+The rotary lobe pump has a flushing function. This allows the operator to control the pump and the
+Clean filling needle. He can connect a cleaning agent and insert it into the filling needle
+Place a collecting container underneath. The “Flushing” function turns the rotary lobe pump into one
+permanent filling mode until the operator stops it again. Only those will be
+Rotary lobe pumps are moving and the safety doors must be closed.
+Manifold The four supply lines to the rotary lobe pump are connected to the manifold. The Manifold
+is attached directly to the tank and can be removed for cleaning via the milk screw connection
+become.
+Nitrogen connection -
+Flow meter The nitrogen tank is connected here for nitrogen overlay during filling
+Using the flow meter, the correct flow can be set and controlled.
+Hose dimension All connections to the rotary lobe pumps and also to the filling needles are for a PTFE -
+Hose with an outside diameter of 12mm and an inside diameter of 10mm is provided.
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final 4.6.2 Rotary lobe pump connection
+ 
+ 
+Interface to A.Vogel:
+The manifold is created by the
+Zellwag executed so that it
+to the existing thread
+DN 50 (RD 78 x 1/6 ", male)
+Connected to the tank
+can be.
+ 
+ 
+ 
+  
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final 4.7 FILLING NEEDLE (NO.5)
+4.7.1 Function overview
+ 
+The filling needles can have a stroke of
+Perform 200mm stroke. There are 2
+Filling axes. At rotating star position 3
+and 4 the first part (approx. 40 -50%) is filled in.
+At rotating star positions 5 and 6 the
+2. Fill in parts (remaining 50-60%). For
+All you have to do is change the format
+Correct filling needle needs to be replaced.
+This is achieved with the star handle, which is in front of the
+Filling needle is.
+Deviation from URS:
+No drip tray provided as this
+is very difficult to clean and we
+detect whether a bottle is present
+or not.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Format glass format set
+30ml FL Spray 30ml B/DIN 20/R FORMAT 3
+50ml FL drip. 50ml B./DIN 18/R. FORMAT 3
+100ml FL drip. 100ml B./DIN 18/R. FORMAT 3
+FL Stand 100ml B./PP28S/R. FORMAT 2
+FL Stand 100ml B./PP28S/R. FORMAT 1
+200ml FL drip. 200ml brown DIN 22 round FORMAT 2
+FL Stand 200ml B./PP28S/R. FORMAT 2
+FL Stand 200ml B./PP28S/R. FORMAT 1
+ 
+Format Type Formats Filling needleel
+1 Oil-containing wheat germ oil and locust oil, 100ml and 200ml 4 x Ø 10 mm combination filling gassing
+2 syrup 100ml 4 x Ø 10 mm standard
+3 tinctures 30ml, 50ml, 100ml, 200ml 4 x Ø 8 mm standard
+  
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final Hose connections:
+The PTFE hoses have a very high chemical resistance and are used in medicine and...
+Approved for the food sector, suitable for clean room production and FDA, USP and BGVV compliant.
+ 
+Hose attachments on pump and filling needle:
+ 
+1) Unscrew the peek nut of the connection
+2) Push the hose onto the stainless steel nipple
+3) Tighten the peek nut tightly
+ 
+Illustration of the screw connection on the pump and filling needle:
+   
+ 
+ 
+     
+ 
+4.7.2 Nitrogen filling
+• A bulkhead screw connection was used for the nitrogen connection
+with 1/8" thread provided. The nitrogen bottle can be on
+stand anywhere. The supply line may be a maximum of 6 bar
+have.
+  
+ 
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, ensure that the valid version is available Status: final 4.7.3 Cleaning
+ 
+For cleaning, the stainless steel tub from A.Vogel (L650mm x W565mm x H885mm) can be placed between the
+tank and the filling station. The manifold is unscrewed from the tank and inserted into the
+tub placed. The filling needles are also pulled out and pulled under the door. Then
+they are inserted into the fixed adapter. Now the rinsing process can begin (program: rinsing for 10 minutes)
+be started.
+Process reliability pump and filling needle:
+• The stroke movement of the piston pump is monitored by servo technology.
+• The lifting movement of the filling needle is controlled via a recipe and is provided by Zellwag in the best possible way
+adjusted to ensure the shortest possible filling time without splashes
+ 
+ 
+Materials pump and filling needle:
+• Parts in contact with medium made of PTFE, 1.4401 or 1.4404 stainless steel. (Pump, valves, hose screw connection
+and filling needles)
+• Pump roof made of POM C (FDA)
+• Remaining materials made of 1.4301 stainless steel.
+ 
+  
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final 4.8 PRESENCE OF LIQUID (NO.6)
+ 
+At rotating star positions 7 and 8, two ultrasonic sensors check whether the filling medium is also in the
+Bottle has arrived. An error here with a correctly carried out filling declares the product
+as NCF (Not conform), this is sorted out after the rotating star.
+ 
+Pos. Format parts (must be replaced) Format settings (must be set)
+1 Using the clamping lever the correct
+Position in height via the format ring
+be set correctly.
+ 
+ 
+Materials:
+• Sensor has a plastic housing
+• All other materials are made of 1.4301 stainless steel
+  
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final 4.9 DRIP INSERT SETTING STATION (NO.8)
+4.9.1 Function overview
+ 
+ 
+Description Function
+Lid feed The drip inserts and the nasal spray are fed from the feed pot into the
+Machine transported
+Product presence This sensor checks whether an insert is present in the presenter.
+Presenter With the presence of a lid, the presenter rotates by 90°. Until
+two products are present for the vacuum gripper. Thereafter
+he waits until he takes over the products.
+Vacuum gripper Always sucks in two drip inserts or nasal spray and stuffs them in
+the bottles. The force required is checked servo-technically,
+to be sure that the drip insert has been placed correctly
+Discard container If the vacuum monitoring does not detect any product being sucked in,
+The sucked products are placed in the waste container and
+Two new plugs were sucked in so that no unnecessary NCF is created.
+Suction tube centering This function is only used with the 30ml nasal spray format.
+This centering first moves all the way up and centers it there
+beginning of the suction pipe and then moves back down. This is what it is
+the suction pipe is centered cleanly. After the firstn 10mm from
+Putting it in opens the suction pipe centering so that the
+Nasal spray attachment can be pressed onto the glass.
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final 4.9.2 Format settings and format parts
+ 
+Pos. Format parts (Red – need to be replaced) Format settings (Green – need to be set)
+1 vacuum cleaner: remove the vacuum and use it
+Remove star screw. New vacuum cleaner
+Fix again with the star screw and
+Connect vacuum.
+2 Replace guide plate
+3 Replace presentation plate
+ 
+Process reliability:
+• The vacuum is monitored and, in the event of an error, drops the sucked-in inserts and gets two new ones.
+• The moving riser pipe centering guarantees error-free installation.
+• The insertion depth of the plugs is controlled via the servo drive.
+ 
+Materials:
+• Parts in contact with the product made of 1.4401 or 1.4404 stainless steel. (presenter, side guide, vacuum gripper and
+Centering plates for riser pipe centering)
+• Anodized aluminum: pneumatic cylinder for centering
+• Remaining materials made of 1.4301 stainless steel.
+  
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final 4.10 PRESENCE OF DRIP INSERT (NO.9)
+ 
+The sensor checks whether the drip insert or spray head has been inserted or not and declares this
+Containers as CF (conform) or NCF (not conform). These are sorted out according to the rotating star. Here are
+no format settings necessary.
+ 
+Materials:
+• Sensor has a plastic housing
+• All other materials are made of 1.4301 stainless steel
+ 
+ 
+  
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final 4.11 LID - SCREWING STATION (NO.11)
+4.11.1 Function overview
+ 
+Description Function
+Pneumatic clamping The pneumatic clamping consists of two double-acting clamps
+Cylinders located under the base plate. They move you
+Clamping mechanism that holds the containers in the screwing position
+clamp. The clamping mechanism is located above the
+Base plate and below the rotating star and guiding.
+Knurled screws The knurled screws on the clamping unit can be used without tools
+be solved. These enable a quick exchange of the
+Clamping jaws for different formats.
+Swivel axis The swivel axis moves the screwdriver from the pick-up position
+of the presenter the lid to the setting position above the rotating star.
+The swivel axis is driven by a servo motor. This
+is located below the table top.
+Pneumatic 3-jaw gripper The pneumatic 3-jaw gripper grabs the lids to remove them from the
+Remove the presenter and screw it onto the bottles.
+Torque-controlled screwdriver The torque-controlled screwdriver consists of a direct
+driven vertical axis and a directly driven one
+Axis of rotation.
+Turntable The lids run into the turntable from the longitudinal conveyor rail.
+If there is a lid in the turntable, it swivels by 1 20°
+If the knurled screw on the turntable is loosened, the turntable can be opened
+and the external guide can be removed or replaced.
+Light barrier The light barrier detects whether a lid is completely inserted into the turntable
+has arrived.
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final 4.11.2 Format settings and format parts
+ 
+For this format change, the rotating star and the side guide must be removed.
+Pos. Format parts (Red – need to be replaced) Format settings (Green – need to be set)
+1 All four clamping plates using the
+star screw underneath
+remove and replace. No settings necessary
+2 Pull out all 6 clamping grippers downwards
+and replace
+3 Replace guide plate
+4 Replace presentation plate
+ 
+Process reliability:
+• The tightening torque and the depth when screwing are monitored
+ 
+Materials:
+• Parts in contact with the product made of POM -C (presenter, side guide and) or NBR (rubber clampg, FDA)
+• Anodized aluminum: pneumatic cylinder 3-jaw chuck and the associated grippers
+• Remaining materials made from 1.4301 stainless steel.
+  
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final 4.12 PRESENCE COVER (NO.12)
+ 
+The sensor checks whether the lid has been screwed on correctly or not and declares the container as
+CF (conform) or NCF (Not conform).
+Pos. Format parts (must be replaced) Format settings (must be set)
+1 Using the clamping lever the correct
+Position can be adjusted. The correct one
+Height is defined via the format ring.
+This is analogous to the presence sensor
+Liquid. No settings necessary
+ 
+ 
+Materials:
+• Sensor has a plastic housing
+• All other materials are made of 1.4301 stainless steel
+ 
+  
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final 4.13 EXCLUSION, INCL. CF/NCF ASSESSMENT (NO.13)
+ 
+Description Function
+Discontinuation NCF (Not conform) If a container is declared as bad (Not conform), the
+Machine performance reduced. If the first product is an NCF, then
+The NCF pusher moves outwards first. The rotating star moves
+half a cycle, so that only the wrong product comes out of the rotating star
+arrived. After a defined time, the NCF pusher moves along
+returned to the collected product.
+If the first product is a CF and only the second product is the NCF,
+then the rotating star only moves half a cycle and transfers it
+CF product on the conveyor belt. After a certain time the
+NCF process for the second product in progress as described above
+set.
+All products that involve a process are declared as NCF
+(filling quantity, torque when screwing, press-in force)
+went wrong or there was an error in monitoring (lid height,
+presence of liquid, presence of plug). It will
+all NCF products are transported from the rotating star.
+Dispensing CF (Conform) Good containers (conform) are produced by one cycle at the rotating star
+transferred to the conveyor belt and are guided via a side guide
+led to the labeller.
+Jam sensor Stops the machine if there are too many products in the NCF outlet
+or the labeler has a malfunction and the products
+back up.
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final 4.14 HENSLE FEED POT (NO. 7+10)
+ 
+Description Function
+Bunker SF50 The lids are transported into the 50l vibration bunker as bulk material
+Operator filled. The lids are inserted using vibration
+Sorting pot promoted. (Storage time approx. 40min or approx. 1800 pieces)
+Fill level control Checks whether the bunker still has material and gives an otherwise
+Report to operator for refill.
+Sorting pot In the sorting pot, the lids rise via a spiral using vibration
+above. They are sorted in the correct position and go to the
+Longitudinal conveyor rail.
+Fill level sensor This sensor checks whether there are enough lids in the sorting pot.
+If there are too few, the sensor activates the vibration hopper
+and automatically conveys new lids into the sorting pot.
+Longitudinal conveyor rail The lids become the machine on the longitudinal conveyor rail
+promoted.
+Minimum jam sensor A jam sensor monitors the longitudinal conveyor rail. Is the rail included?
+If there are too few lids filled, the sorting pot switches on and conveys
+new lids are inserted into the longitudinal conveyor rail at a precisely defined time.
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final 4.14.1 Functional division of feed pots
+The following products are fed from the casting ring feeder:
+Stopper / dripper / pouring ring:
+  
+Spray attachment with dip tube:
+  
+ 
+The following products are fed from the lid feeder:
+Screw cap:
+ 
+Special features: The conveyor pots have a cover over the bunker, the conveyor pot and the
+Feed rail as a dirt trap and as sound insulation. The covers are made of PET-G.
+ 
+Materials:
+• Ground plate anodized aluminum.
+• Parts in contact with the product made of 1.4401 or 1.4404 stainless steel (vibratory conveyor is also E-polished)
+• Remaining materials made of 1.4301 stainless steel.
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, ensure that the valid version is available Status: final 4.15 CONTROL PANEL (NO.14)
+ 
+The HMI can be operated on both sides of the feed belt. The limitation of movement is
+the safety enclosure of the machine.
+ 
+The HMI can rotate approximately 330°.
+Special features: A batch report (analogous to the example by A.Vogel) can be sent from the HMI
+USB stick or a printer can be issued.
+ 
+  
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, ensure that the valid version is available Status: final 4.16 LABELER
+ 
+ 
+Rough overview
+• 45-60 pieces/min
+• Fully automatic labeling system, type VRM -RB, to process various cylindrical products with one
+Label on the circumference
+• Base frame, welded VA square tube, with height-adjustable feet
+• Conveyor belt built on the base frame, belt width: 100mm, length: 2600mm
+• Pneumatic product separation
+• Pneumatic product ejection station for defective products
+• Universal label dispenser RAPID SM80
+• Videojet DF6330 thermal transfer printer. Print width 53mm
+• Camera system Keyence CA-H500 (2MP)
+• Working height: 900mm
+• Electrical connection: 400V/50Hz
+• Weight approx. 500kg
+• Full cladding made of stainless steel sheets
+• Materials used: stainless steel, chrome-plated steel,
+ Aluminum, anodized aluminum
+ 
+Deviation from URS
+• Not the DOMINO thermal transfer print
+• Not Cognex insight camera
+  
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final Description Function
+Label dispenser
+Rapid SM 80
+ 
+ The label dispenser takes the labels to be processed
+labels on. It can be adjusted to the respective format
+set.
+- Label width up to 80 mm
+- electronic microprocessor control
+- electronic speed control
+- Driven by stepper motor
+- including height and transverse adjustment with double spindle as well
+Handwheel and position indicator
+- including fine adjustment (height adjustment)
+- including advance label notification
+ 
+Important: Side attachment ordered (not as in the picture
+shown). This makes it easier to change rolls in approx.
+950mm height possible.
+ 
+ 
+Thermal transfer printer
+Videojet DF6330
+ The thermal transfer printer prints the labels.
+- Type: Videojet Dataflex 6330
+- Resolution: 300dpi
+- Print area: 53 x 75 mm (intermittent)
+- including barcodes / data matrix codes
+- built on the label dispenser
+- fully integrated into the system HMI
+- e.g. 3-line print with filling quantity, filling date,
+Use by date can be achieved. (see red marking)
+ 
+camera
+CA-H500M
+ 
+ 
+ 
+ Camera system for print data control UDI.
+-Keyence CA-H500 camera system (2MP)
+-Incl. Software and lighting
+Check that
+Pharmacode and also whether
+the pressure is correct
+was carried out and
+thus establishes that
+correct label in use
+is and the pressure is correct
+was carried out.
+ 
+ 
+  
+ Operating instructions for filling and sealing machine Z-110
+Chapter 4
+ 
+ Before using the document, it must be ensured that the valid version is available Status: final Description Function
+ 
+Touch panel 15"
+ 
+ 15" touch panel with visualization of the entire system as well
+of the individual system components
+- including program selection with freely selectable help texts
+- User management
+- Display of individual counters
+- Main parameters can be edited directly in the overview screen
+- Touchscreen PC embedded and FIAVis
+- detailed description and display of
+Error messages
+- Brand: BECKHOF F
+Stainless steel base frame,
+Full fairing
+ 
+ 
+ The base frame accommodates all mechanical and
+electrical components of the labeler.
+Unlike the picture, 4 fixed feet are provided.

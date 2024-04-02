@@ -1,0 +1,47 @@
+Station / Einheit Bezeichnung Typ Hersteller / Lieferant Art der Wartung
+LAF Filtermatte Franz Ziehl Siehe Zulieferdokumentation
+Wartungseinheit Pneumatik Wartungseinheit MSB6 Festo Kondensat ablassen / Filter tauschen
+Drehteller Motor und Getriebe M56 Omni Ray AG Wartungsfrei
+Kugellager S6006 Schaefller Wartungsfrei
+Zylinder ADN Festo Wartungsfrei
+Ausblaseinheit Drehzylinder DRVS Festo Wartungsfrei
+Gleitlager A180 Igus Wartungsfrei
+Lineareinheiten EGC Festo Siehe Zulieferdokumentation
+Motor EMMT Festo Wartungsfrei
+Transportband C4N RobotUnits Siehe Zulieferdokumentation
+Sterilfilter Mini Kleenpak 0.2 µm Pall Austauschen
+Stopper-Einheit Stopper-Zylinder ADVC Festo Wartungsfrei
+Drehstern Getriebe PSBN Neugart Siehe Zulieferdokumentation
+Motor EMMT Festo Wartungsfrei
+Kugellager S6304 Schaefller Wartungsfrei
+Pumpenmodul Lineareinheiten EGC Festo Siehe Zulieferdokumentation
+Motor EMMT Festo Wartungsfrei
+Gleitlager A180 Igus Wartungsfrei
+Kugellager S6001 Schaefller Wartungsfrei
+Fülleinheit Lineareinheiten EGC Festo Siehe Zulieferdokumentation
+Motor EMMT Festo Wartungsfrei
+Gleitlager A180 Igus Wartungsfrei
+Pick&Place Tropfeinsatz Lineareinheiten EGC Festo Siehe Zulieferdokumentation
+Motor EMMT Festo Wartungsfrei
+Rotationskugelbuchse 0662-020 Dr.Tretter Wartungsfrei
+Saugrohrzentrierung Zylinder ADNGF Festo Wartungsfrei
+Gleitlager A180 Igus Wartungsfrei
+Zylinder DHRS Festo Wartungsfrei
+Presentiereinheit Tropfeinsatz Motor EMMT Festo Wartungsfrei
+Kugellager S6005 Schaefller Wartungsfrei
+Presentiereinheit Deckel Motor EMMT Festo Wartungsfrei
+Kugellager S6005 Schaefller Wartungsfrei
+Klemmung Zylinder DSNU Festo Wartungsfrei
+Gleitlager A180 Igus Wartungsfrei
+Verschrauber Hub-Dreh-Motoren PR02-52 LinMot Siehe Zulieferdokumentation
+Getriebe PSBN Neugart Siehe Zulieferdokumentation
+Motor EMMT Festo Wartungsfrei
+Kugellager S6206 Schaefller Wartungsfrei
+Zylinder MPZ Schunk Wartungsfrei
+Kugellager 3206 Signer Wartungsfrei
+Ausschleussung Motor EMMT Festo Wartungsfrei
+Kugellager S6005 Schaefller Wartungsfrei
+Auslaufband Transportband C4N RobotUnits Siehe Zulieferdokumentation
+Fördertöpfe Fördertopf Tropfeinsatz Hensle Siehe Zulieferdokumentation
+Fördertopf Deckel Hensle Siehe Zulieferdokumentation
+Etikettierer Etikettierer B+B Siehe Zulieferdokumentation

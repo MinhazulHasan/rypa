@@ -1,0 +1,673 @@
+1 6     Bedienung des HMI  
+Inhalt sverzeichnis Kapitel 6  
+6     Bedienung des HMI  ................................ ................................ ................................ ................................ ..........  1 
+6.1 Hauptmenü  ................................ ................................ ................................ ................................ ............  3 
+6.2 Allgemeine Icons  ................................ ................................ ................................ ................................ .... 4 
+6.2.1 Status -Icons der Maschine  ................................ ................................ ................................ .....................  4 
+6.2.2 Status - und Bedienleiste  ................................ ................................ ................................ ........................  5 
+6.2.3 Produktionsdaten  ................................ ................................ ................................ ................................ ... 5 
+6.2.4 Aktuelles Programm  ................................ ................................ ................................ ...............................  6 
+6.2.5 Maschinengeschwindigkeit  ................................ ................................ ................................ ....................  7 
+6.2.6 Bediener  ................................ ................................ ................................ ................................ .................  7 
+6.3  Meldungen  ................................ ................................ ................................ ................................ ............  8 
+6.3.1 Meldungszeile  ................................ ................................ ................................ ................................ ............  8 
+6.3.2 Meldungsseiten  ................................ ................................ ................................ ................................ .........  9 
+6.3.3 Aktuelle Meldungen  ................................ ................................ ................................ ................................ .. 9 
+6.3.4 Systemmeldungen  ................................ ................................ ................................ ................................ ..... 9 
+6.3.5 Meldearchiv  ................................ ................................ ................................ ................................ .............  10 
+6.4   Übersicht ................................ ................................ ................................ ................................ ......................  11 
+6.5   Handbetriebmenü  ................................ ................................ ................................ ................................ .......  12 
+6.5.1 Einlauf Ausblasen  ................................ ................................ ................................ ................................ ..... 12 
+6.5.2 Einlauf Drehstern  ................................ ................................ ................................ ................................ ..... 13 
+6.5.3 Füllen  ................................ ................................ ................................ ................................ .......................  13 
+6.5.4 Stopfensetzen  ................................ ................................ ................................ ................................ ..........  14 
+6.5.5 Verschra uben  ................................ ................................ ................................ ................................ ...........  14 
+6.5.6  Auslauf Drehstern  ................................ ................................ ................................ ................................  15 
+6.5.7 LAF  ................................ ................................ ................................ ................................ ...........................  15 
+6.6   Rezeptmenü  ................................ ................................ ................................ ................................ ................  16 
+6.6.1 Einlauf Ausblasen  ................................ ................................ ................................ ................................ ..... 16 
+6.6.2 Einlauf Drehstern  ................................ ................................ ................................ ................................ ..... 17 
+6.6.3 Füllen  ................................ ................................ ................................ ................................ .......................  18 
+6.6.4 Stopfensetzen  ................................ ................................ ................................ ................................ ..........  19 
+6.6.5 Verschra uben  ................................ ................................ ................................ ................................ ...........  20 
+6.6.6 Auslauf Drehstern  ................................ ................................ ................................ ................................ .... 21 
+6.7   Produktionsdaten  ................................ ................................ ................................ ................................ ........  22 
+6.7.1 Maschinenstatistik  ................................ ................................ ................................ ................................ ... 22 
+6.7.2 Pr oduktionsstatistik  ................................ ................................ ................................ ................................ . 23 
+6.7.3 Batchprotokoll  ................................ ................................ ................................ ................................ .........  24 
+6.7.4 Stationsstatistik  ................................ ................................ ................................ ................................ .......  25 
+6.8   Benutzer  ................................ ................................ ................................ ................................ ......................  26 
+6.8.1 Ein neues Be nutzerprofil anlegen  ................................ ................................ ................................ ............  26  2 6.8.2 Benutzerebenen  ................................ ................................ ................................ ................................ ...... 27 
+6.9   Einstellungen  ................................ ................................ ................................ ................................ ...............  28 
+6.9.1 Allgemein  ................................ ................................ ................................ ................................ .............  28 
+6.10       Einstellungen  ................................ ................................ ................................ ................................ ............  29 
+6.11 Inf o ................................ ................................ ................................ ................................ ........................  29 
+6.11  Liste der Parameter und ihre Bedeutung  ................................ ................................ ................................ .... 30 
+6.11.1  Rezeptparameter – Einlauf Ausblasen  ................................ ................................ ...............................  30 
+6.11.2 Einlauf Drehstern  ................................ ................................ ................................ ...............................  30 
+6.11.3 Rezeptparameter – Füllen  ................................ ................................ ................................ ..................  30 
+6.11.4 Stopfen Setzen  ................................ ................................ ................................ ................................ ... 33 
+6.11.5  Verschrauben  ................................ ................................ ................................ ................................ .... 34 
+6.11.6 Rezep tparameter – Auslauf Drehstern  ................................ ................................ ..............................  35 
+ 
+ 
+  3  
+6.1 Hauptmenü  
+Das Hauptmenü ist über das Menüicon oben rechts zugänglich:  
+ 
+ 
+ 
+Bedeutung der einzelnen Schaltflächen:  
+ 
+Übersicht  Zur Übersicht wechseln. Dies ist das Hauptfenster, in dem gleichzeitig auch das 
+Parttracking angezeigt wird.  
+Parameter  Zum Parametermenü wechseln, wo alle rezeptrelevanten Maschinenparameter 
+definiert werden können.  
+Produktionsdaten  Das Produktionsdatenfenster einblenden, wo alle aktuelle Produktionsdaten angezeigt 
+werden.  
+Audit Trail  Zum Audit Trail wechseln, wo GMP -relevante Ereignise verfolgt werden können.  
+Meldungen  Zum Meldungsmenü wechseln, wo alle Systemmeldungen angezeigt werden können.  
+Benutzer  Zum Benutzermenü wechseln, wo Systembenutzer definiert werden können.  
+Einstellungen  Zum Einstellungsmenü wechseln, wo Systemübergreifende Einstellungen 
+vorgenommen werden können.  
+  
+ 4  
+6.2 Allgemeine Icons  
+ Hauptmenü öffnen  
+ Untermenü zum jeweiligen Eintrag öffnen  
+ Zum vorherigen Bildschirm zurückgehen  
+ Zum Hauptbildschirm  
+ 
+6.2.1 Status -Icons der Maschine  
+Neben den Icons befindet sich jeweils ein Text, der den Maschinenstatus beschreibt.  
+ Maschine verfährt alle Stationen in Basis -Position  
+ Maschine ist dabei, den aktuellen Prozess zu beenden, stoppt danach und 
+wechselt in den Umrüstbetrieb  
+ Maschine befindet sich im Fehlerstatus, alle Achsen sind stromlos und die 
+Türen entriegelt  
+ Maschine ist in Produktion  
+ Alle Achsen sind unter Strom und können manuell verfahren werden, die 
+Türen sind verriegelt  
+ Maschine verfährt alle Achsen in Referenzposition  
+ Alle Achsen sind stromlos, die Maschine kann umgebaut werden, die Türen 
+sind entriegelt  
+ 
+  
+5  
+6.2.2 Status - und Bedienleiste  
+ 
+ 
+ 
+ 
+1 Anzeige Betriebsart  
+2 Anzeige der Produktionsdaten  
+3 Anzeige des aktuell gewählten Rezeptes   
+4 Anzahl der Maschinengeschwindigkeit  
+5 Anzeige des aktuell eingeloggten Bedieners  
+ 
+6.2.3 Produktionsdaten  
+Nach dem Tippen des Untermenü -Icons für die Produktionsdaten, öffn et sich folgendes Fenster:  
+ 
+ 
+ 
+Hier kann die zu produzierende Sollstückzahl eingegeben bzw. zurückgesetzt werden. Die entsprechende 
+aktuelle Iststückzahl und der produzierte Ausschuss werden angezeigt.  
+Die Funktionen «Stoppen nach erreichter Stückzahl» und «Maschine leerfahren» können ein- und 
+ausgeschaltet werden.  
+Die Batchaufzeichnung kann gestartet und wieder gestoppt werden. Das aktuelle Batchprotokoll kann über den 
+«Lade auf USB» als PDF auf einen USB Stick geladen werden.  
+Durch Tippen auf die Schliessen -Schaltfläche wird das Fenst er wieder geschlossen.  
+  
+1 2 3 
+ 4 
+ 5 
+ 6  
+6.2.4 Aktuelles Programm  
+Nach dem Tippen des Untermenü -Icons für das aktuelle Programm, öffent sich folgendes Fenster:  
+ 
+ 
+Auf diesem Bild können neue Rezepte angelegt und gespeichert und bestehende Rezepte gelöscht, umbenannt 
+oder  geladen werden.  
+Rezept auswählen  
+• Den Auswahlpfeil rechts am Feld “Datensatzname” tippen, und durch Tippen einen Datensatz aus der 
+erscheinenden Drop -down -Liste auswählen.  
+•  tippen, um die ausgewählten  Rezeptp arameter auf die SPS herunterzuladen.  
+ 
+Neues R ezept erstellen  
+• Alle Komponenten und Parameter für das Produkt, für das ein Rezept erstellt werden soll,  in den 
+Parameterschaltflächen  einstellen (ein Testlauf ist ohne Speichern möglich).  
+•  tippen.  
+• Einen neuen Rezept namen eingeben und mit ENTER bestätigen . 
+•  tippen, um die aktuellen Parameter in das neu erstellte Rezept  zu speichern.  
+ 
+Existierendes Rezept löschen  
+•  tippen, um das angewählte Rezept zu löschen.  
+ 
+Existierendes Rezept umbenennen  
+•  tippen, um das angewählte Rezept umbennenen.  
+ 
+  
+7 6.2.5 Maschinengeschwindigkeit  
+Nach dem Tippen des Untermenü -Icons für den Override, öffent sich folgendes Fenster:  
+ 
+ 
+Hier kann die gewünschte Maschinengeschwindigkeit ausgewählt werden. 5% und 100% sind Absolutwerte, die 
+Werte mit den Vorzeichen werden jeweils zur aktuellen Geschwindigkeit dazugezählt bzw. abgezogen.  Dieser 
+Wert beeinflusst die Geschwindigkeiten des Drehsterns, der Füllachse und der Schwenkachse des 
+verschraubers.  
+ 
+6.2.6 Bediener  
+Nach dem Tippen des Untermenü -Icons für den Bediener, öffnet sich ein Login -Fenster, in den sich der 
+Bediener mit seinem Benutzernamen und seinem Passwort in seinen Benutzerlevel einwählen kann.  
+  
+ 8 6.3  Meldungen  
+ 
+6.3.1 Meldungszeile  
+ 
+Wenn eine Meldung ansteh t wird es in der Meldezeile zum einen mit einem Icon angezeigt und zum anderen 
+ist der aktuellste Meldetext ersichtlich. Die Meldzeile kann über die untere Leiste ausgeklappt werden und 
+mehrere Meldungen, sowie der jeweilige Zeitpunkt können angezeigt werd en.
+ 
+ 
+ 
+Die Meldeicons und ihre Bedeutung.  
+ Eine Info ist anstehend  
+ Eine Warnung ist anstehend  
+ Eine Fehlermeldung ist anstehend  
+ 
+  
+9 6.3.2 Meldungsseiten  
+Um die Meldungen zu öffnen, im Hauptmenü “Meldungen” auswählen. Am unteren Rand kann man zwischen 
+den Seiten „Aktuelle Meldungen“, „Meldearchiv System“, „Meldearchiv Anlage“ und „Audittrail“ navigieren.  
+ 
+6.3.3 Aktuelle Meldungen  
+Hier werden die aktuell anstehenden Meldungen der Anlage mit Nummer, Zeit, Datum und Text angezeigt.  
+ 
+ 
+6.3.4 System meldungen  
+Hier werden alle Systemmeldungen angezeigt.  
+ 
+ 
+  
+ 10 6.3.5 Meldearchiv  
+Hier sind alle vergangenen Maschinenmeldungen mit Nummer, Datum, Uhrzeit und Text aufgeführt.  
+ 
+ 
+  
+11 6.4   Übersicht  
+ 
+ 
+ 
+In der Übersicht wird die aktuelle Teileverfolgung sowie die  Übersicht über den aktuellen Batch angezeigt.  
+Die Status der beiden LAF’s, sowie des Etikettierers sind ersichtlich.  
+Beim Drücken auf die Stationen kommt man direkt zu den jeweiligen Rezepteinstellungen.  
+ 
+ An dieser Position auf dem Drehstern befindet sich ein CF-Gebinde  
+ An dieser Position auf dem Drehstern befindet sich ein N CF-Gebinde  
+ Die Teileverfolgung löschen  
+ 
+  
+ 12 6.5   Handbetriebmenü  
+Um in das Handbetriebmenü  zu wechseln, das entsprechende Icon auf der linken Bildschirmseite tippen,  
+. Das folgende Fenster erscheint:  
+ 
+ Manuelles Bediener einer Achse  
+ Achse eingeschaltet  Störung an der Achse  
+ Achse referenziert     Achse in Bewegung  
+Manuelle Bewegung in positive Richtung  
++ : kleiner Schritt, ++: grosser Schritt, <<: Manuelle Fahrt  
+Manuelle Bewegung in negative Richtung  
+- : kleiner Schritt, --: grosser Schritt, >>: Manuelle Fahrt  
+ 
+ 
+ 
+6.5.1 Einlauf Ausblasen  
+ 
+Auf dem obigen Bild ist der Handbe trieb der einzelnen Antriebe und Ventile möglich.  
+  
+13 6.5.2 Einlauf Drehstern  
+ 
+Auf dem obigen Bild ist der Handbetrieb der einzelnen Ventile möglich.  
+ 
+6.5.3 Füllen  
+ 
+Auf dem obigen Bild ist der Handbetrieb der einzelnen Antriebe  möglich.  
+ 14 6.5.4 Stopfensetzen  
+ 
+Auf dem obigen Bild ist der Handbetrieb der einzelnen Ventile und Antriebe möglich.  
+ 
+6.5.5 Verschrauben  
+ 
+Auf dem obigen Bild ist der Handbetrieb der einzelnen Ve ntile und Antriebe möglich.  
+  
+15 6.5.6  Auslauf Drehstern  
+ 
+ 
+Auf dem obigen Bild ist der Handbetrieb der einzelnen Antriebe möglich.  
+ 
+6.5.7 LAF 
+ 
+ 
+LAF und die Beleuchtung können eingeschaltet werden. Der Standby -Modus veringert die Geschwindigkeit der 
+Ventilatore n. 
+Die aktuelle Geschwindigkeit des Luftstroms und wenn sich dieser im Sollbereich befindet wird angezeigt.  
+  
+ 16 6.6   Rezeptmenü  
+Um in das Rezeptmenü zu wechseln, das entsprechende Icon auf der linken Bildschirmseite tippen,  
+ oder im Hauptmenü “Parameter” auswählen. Das folgende Fenster erscheint:  
+ 
+6.6.1  Einlauf Ausblasen  
+ 
+ 
+Im Einlauf menü sind alle Parameter für den Einlauf  aufgelistet. Über die Knöpfe können die Einstellungsfenser 
+geöffnet werden.  
+Die wichtigsten Parameter we rden direkt eingeblendet . Über das Info -Icon  kann ein Hilfetext zum 
+jeweiligen Parameter (falls vorhanden) eingeblendet werden.  
+Die Parameter für jede Komponente werden in Kapitel 6.11 einzeln aufgelistet und ihre Bedeutung wird erklärt.  
+  
+17 6.6.2 Einlauf Drehstern  
+ 
+ 
+Im Einlauf menü sind alle Parameter für den Einlauf  aufgelistet. Über die Knöpfe können die Einstellungsfenser 
+geöffnet werden.  
+Die wichtigsten Parameter werden direkt eingeblendet . Über das Info -Icon  kann ein Hilfetext zum 
+jeweiligen Paramete r (falls vorhanden) eingeblendet werden.  
+Die Parameter für jede Komponente werden in Kapitel 6.11 einzeln aufgelistet und ihre Bedeutung wird erklärt.  
+  
+ 18 6.6.3 Füllen  
+ 
+ 
+ 
+ 
+Im Einlauf menü sind alle Parameter für den Einlauf  aufgelistet. Über die Knöpfe können die Einstellungsfenser 
+geöffnet werden.  
+Die wichtigsten Parameter werden direkt eingeblendet . Über das Info -Icon  kann ein Hilfetext zum 
+jeweiligen Parameter (falls vorhanden) eingeblendet werden.  
+Die Parameter für jede Komponente w erden in Kapitel 6.11 einzeln aufgelistet und ihre Bedeutung wird erklärt.  
+19 6.6.4 Stopfensetzen  
+ 
+ 
+Im Einlauf menü sind alle Parameter für den Einlauf  aufgelistet. Über die Knöpfe können die Einstellungsfenser 
+geöffnet werden.  
+Die wichtigsten Parameter werden direkt eingeblendet . Über das Info -Icon  kann ein Hilfetext zum 
+jeweiligen Parameter (falls vorhanden) eingeblendet werden.  
+Die Parameter für jede Komponente werden in Kapitel 6.11 einzeln aufgelistet und ihre Bedeutung wird erklärt.  
+  
+ 20 6.6.5 Verschrauben  
+ 
+ 
+Im Einlauf menü sind alle Parameter für den Einlauf  aufgelistet. Über die Knöpfe können die Einstellungsfenser 
+geöffnet werden.  
+Die wichtigsten Parameter werden direkt eingeblendet . Über das Info -Icon  kann ein Hilfetext zum 
+jeweiligen Parameter (falls vorhanden) eingeblendet werden.  
+Die Parameter für jede Komponente werden in Kapitel 6.11 einzeln aufgelistet und ihre Bedeutung wird erklärt.  
+  
+21 6.6.6 Auslauf Drehstern  
+ 
+ 
+Im Einlauf menü sind alle Parameter  für den Einlauf  aufgelistet. Über die Knöpfe können die Einstellungsfenser 
+geöffnet werden.  
+Die wichtigsten Parameter werden direkt eingeblendet . Über das Info -Icon  kann ein Hilfetext zum 
+jeweiligen Parameter (falls vorhanden) eingeblendet werden.  
+Die P arameter für jede Komponente werden in Kapitel 6.11 einzeln aufgelistet und ihre Bedeutung wird erklärt.  
+  
+ 22 6.7   Produktionsdaten  
+Um die Produktionsdaten zu öffnen, im Hauptmenü “Produktionsdaten” auswählen. Das folgende Fenster 
+erscheint:  
+ 
+6.7.1 Maschinenstatistik  
+ 
+ 
+In der Maschinenstatistik werden verschiedene Lauf -, Warte - und Fehlerzeiten über die gesamte Maschine 
+aufgezeichnet. Ebenfalls gibt es einen Zähler der Produzierten Stücke.  
+Durch Tippen auf das Info -Icon  kann eine genauere Beschreibung der jeweiligen Erfassung angezeigt 
+werden.  
+  
+23 6.7.2 Produktionsstatistik  
+ 
+ 
+Die Produktionsstatistik zeichnet im oberen Diagram die aktuell produzierten Gut - (CF) und Schlechtteile  (NCF)  
+auf u nd im unteren Diagram die Zykluszeit und den Status der Anlage.  
+ 
+  
+ 24 6.7.3 Batchprotokoll  
+ 
+ 
+Das Batchprotokoll zeigt zum einen den Stand des aktuellen Batch. Darauf ersichtlich sind Start und 
+Stoppzeitpunkt, Anzahl produzierter Teile sowie gewisse Laufzeite n. 
+Ebenfalls können die letzten 5 Protokolle angezeigt und ausgedruckt werden  
+ 
+  
+25  
+6.7.4 Stationsstatistik  
+ 
+ 
+In der Batchstatistik sind die Taktzeiten und Anzahl Gut  (CF) und Schlechtteile  (NCF)  jeder einzelnen Station 
+ersichtlich.  
+  
+ 26 6.8   Benutzer  
+Um die Benutzerverwaltung zu öffnen, im Hauptmenü “Benutzer” auswählen. Das folgende Fenster erscheint:  
+ 
+ 
+ 
+6.8.1 Ein neues Benutzerprofil anlegen  
+Auf ein leeres Benutzerfeld drücken. Eine Tastatur erscheint auf dem Monitor.  
+Einen neuen Benutzernamen eingeben und mit Enter bestätigen.  
+Den gleichen Vorgang für das Passwort -Feld wiederholen und das Passwort nochmal bestätigen  
+Auf Gruppe drücken und ei ne Benutzerebene aus dem Listenfeld auswählen.  
+Auf Abmeldezeit drücken und in das erscheinende Zahlenfeld die Zeit in Minuten eingeben, nach der der 
+entsprechende Benutzer automatisch abgemeldet werden soll . 
+Analog können alle Benutzer hier ihr Passwort un d Abmeldezeit ändern.  
+  
+27 6.8.2 Benutzerebenen  
+Es gibt vier Benutzerebenen:  Operator, Technician, Maintenance, Admin. In der nachfolgenden Tabelle sind die 
+jewiligen  Berechtigungen aufgeführt. Zusätzlich gibt es noch einen Zellwag Benutzer, der alle Berechtigungen 
+hat und auch Benutzerverwalten kann.  
+ 
+Berechtigung  Benutzergruppen  Beschreibung  
+  
+Admin  
+Maintenance (Unterhalt)  
+Technician (Einrichter)  
+Operator (Bediener)  
+  
+B_Batchprotokoll start / stop/ export        x Batchprotokoll starten, stoppen und auf USB verschieben  
+G_Machine change machine speed    x x x Maschinengeschwindigkeit anpassen  
+G_Quit runtime  x x     Benutzeroberfläche beenden, um ins Windows zu gelangen  
+G_View dialog / Default right  x x x x Navigation zwischen den Menus  
+M_ManualReferencing    x     Achsen manuell Referenzieren  
+M_Manual control    x x   Manuelles Bedienen der Achsen und Pneumatik  
+O_Operating data delete    x x   Batchdaten zurücksetzen (Zeiten, Zähler)  
+O_Operating data view  x x x x Statistiken anschauen für Stationen Maschiene, 
+Batchprotokoll  
+O_AuditView  x x     Auditrail anschauen  
+P_Parttrackin delete    x x x Teileverfolgung Drehstern löschen  
+R_Recipe create new    x x   Neue Rezepte erstellen  
+R_Recipe delete    x x   Rezepte löschen  
+R_Recipe edit    x x   Rezeptwerte verändern, Rezepte umbenennen, Stationen 
+deaktivieren  
+R_Recipe export    x     Rezepte exportieren  
+R_Recipe import    x     Rezepte importieren  
+R_Recipe load    x x x Rezepte laden  
+R_Recipe save    x x   Rezeptwerte speichern  
+S_Service    x x   Achsen referenzieren, Rezepte direkt verändern  
+S_Settings edit  x x     Einstellungen für Speicherpfade und Sprache verändern  
+S_Settings view  x x x x Einstellungen für Speicherpfade und Sprache anzeigen  
+S_Testfunctions    x x   Starten ohne LAF/ohne batchprotokoll  
+U_OpenUsermanagment  x x x x Benutzerverwaltung öffnen  (eigenes PW ändern)  
+U_User Administration  x       Benutzer erstellen, löschen, PW ändern  
+ 
+   28 6.9   Einstellungen  
+Um die Einstellungen zu öffnen, im Hauptmenü “Einstellungen” auswählen. Das folgende Fenster erscheint:  
+ 
+6.9.1 Allgemein  
+ 
+Verbindung Fernwartung  
+Um die Fernwartung zu aktivieren, auf die entsprechende Schaltfläche tippen.  
+ 
+Runtime beenden  
+Um die Runtime zu beenden, auf die entsprechende Schaltfläche tippen.  
+ 
+Maschinen Bedienung  
+Start: Funktioniert gleich wie der grüne Start -Taster an der Bedienbox  
+Stop: Funktioniert gleich wie der rote Sto p-Taster an der Bedienbox  
+Reset: Funktioniert gleich wie der blaue Reset -Taster an der Bedienbox  
+ 
+ 
+  
+29 6.10       Einstellungen  
+ 
+ 
+Unter Verzeichnis können die Speicherorte für AuditArchiv, Batchreport, Prozessdaten und Meldungen 
+definiert werden. Die Dateie n werden jeweils um 4 Uhr nachts an diese Orte gespeichert.  
+Die Rezepturen können exportiert und wieder importiert werden.  
+ 
+6.11 Info 
+ 
+ 
+Der Infobereich zeigt den aktuellen Softwarestand der Allgemeinen Steuerung und der Sicherheitsfunktionen  
+  
+ 30 6.11   Liste der Parameter und ihre Bedeutung  
+6.11.1  Rezeptparameter – Einlauf Ausblasen  
+ 
+6.11.2 Einlauf Drehstern  
+ 
+ 
+6.11. 3 Rezeptparameter – Füllen  Komponente  Eigenschaft/Aktion  Bedeutung  
+Einlauf Flasche 1  Sollwert %  Zu definierender Wert des Einlaufsensors der 
+Gebindeerkennung  
+Einlauf Flasche 2  Sollwert %  Zu definierender Wert des Einlaufsensors der 
+Gebindeerkennung  
+Einlaufband  Sollwert %  - 
+Einlaufband  Anfahrrampe s  Anfahrrampe bis zum Erreichen der 
+Endgeschwindigkeit des Auslaufbandes  
+Einlaufband  Nachlaufzeit s  - 
+Brückenbrecher Intervall  Verzögerung ms  Intervall indem der Brückenbrecher Ein - und 
+Ausfährt.  
+Drehteller  Anfahrrampe s  Anfahrrampe bis zum Erreichen der 
+Endgeschwindigkeit des Auslaufbandes  
+Drehteller  Sollwert %  - 
+Ausblaseinheit  Warte/Basis Position  Geschwindigkeit mm/s  
+Ausblaseinheit  Warte/Basis Position  Beschleunigung mm/ s2 
+Ausblaseinheit  Warte/Basis Position  Verzögerung mm/s2 
+Ausblaseinheit  Start Position  Geschwindigkeit mm/s  
+Ausblaseinheit  Start Position  Beschleunigung mm/ s2 
+Ausblaseinheit  Start Position  Verzögerung mm/s2 
+Ausblaseinheit  Start Position  Geschwindigkeit mm/s  
+Ausblaseinheit  Produkte innerhalb  Zähler  
+Komponente  Eigenschaft/Aktion  Bedeutung  
+Einlauf Band 1  Sollwert %  Zu definierender Wert des Einlaufsensors der 
+Gebindeerkennung  
+Einlauf Band  2 Sollwert %  Zu definierender Wert des Einlaufsensors der 
+Gebindeerkennung  
+Komponente  Position  Eigenschaft/Aktion  Bedeutung  
+Pumpe 1  Ansaugen  Geschwindigkeit mm/s  Geschwindigkeit, mit der die Position  
+angefahren wird  
+Pumpe 1  Ansaugen  Beschleunigung mm/ s2 Anfahrrampe bis zum Erreichen der  
+Endgeschwindigkeit  
+Pumpe 1  Ansaugen  Verzögerung mm/s2 Bremsrampe bis zum Erreichen des  
+Stillstandes  
+Pumpe 1  Dosieren  Geschwindigkeit mm/s  Geschwindigkeit, mit der die Position  
+angefahren wird  
+Pumpe 1  Dosieren  Beschleunigung mm/ s2 Anfahrrampe bis zum Erreichen der  
+Endgeschwindigkeit  
+Pumpe 1  Dosieren  Verzögerung mm/s2 Bremsrampe bis zum Erreichen des  
+Stillstandes  31 Pumpe 2  Ansaugen  Geschwindigkeit mm/s  Geschwindigkeit, mit der die Position  
+angefahren wird  
+Pumpe 2  Ansaugen  Beschleunigung mm/ s2 Anfahrrampe bis zum Erreichen der  
+Endgeschwindigkeit  
+Pumpe 2  Ansaugen  Verzögerung mm/s2 Bremsrampe bis zum Erreichen des  
+Stillstandes  
+Pumpe 2  Dosieren  Geschwindigkeit mm/s  Geschwindigkeit, mit der die Position  
+angefahren wird  
+Pumpe 2  Dosieren  Beschleunigung mm/ s2 Anfahrrampe bis zum Erreichen der  
+Endgeschwindigkeit  
+Pumpe 2  Dosieren  Verzögerung mm/s2 Bremsrampe bis zum Erreichen des  
+Stillstandes  
+Pumpen C  Ansaugen  Position °  Position bei der Die Pumpe ansaugt  
+Pumpen C  Ansaugen  Geschwindigkeit °/s  Geschwindigkeit, mit der die Position  
+angefahren wird  
+Pumpen C  Ansaugen  Beschleunigung °/s2 Anfahrrampe bis zum Erreichen der  
+Endgeschwindigkeit  
+Pumpen C  Ansaugen  Verzögerung °/s2 Bremsrampe bis zum Erreichen des  
+Stillstandes  
+Pumpen C  Dosieren  Position °  Position bei der Die Pumpe dosiert  
+Pumpen C  Dosieren  Geschwindigkeit °/s  Geschwindigkeit, mit der die Position  
+angefahren wird  
+Pumpen C  Dosieren  Beschleunigung °/s2 Anfahrrampe bis zum Erreichen der  
+Endgeschwindigkeit  
+Pumpen C  Dosieren  Verzögerung °/s2 Bremsrampe bis zum Erreichen des  
+Stillstandes  
+Füllachse_1 &_2  Warte Position  Position mm  Position bei der die Füllachse wartet  
+während dem der Drehstern sich dreht.  
+Füllachse_1 &_2  Warte Position  Geschwindigkeit mm/s  Geschwindigkeit, mit der die Position  
+angefahren wird  
+Füllachse_1 &_2  Warte Position  Beschleunigung mm/ s2 Anfahrrampe bis zum Erreichen der  
+Endgeschwindigkeit  
+Füllachse_1 &_2  Warte Position  Verzögerung mm/s2 Bremsrampe bis zum Erreichen des  
+Stillstandes  
+Füllachse_1 &_2  Start Position  Position mm  Position bei der die Füllachse beginnt zu 
+füllen.  
+Füllachse_1 &_2  Start Position  Geschwindigkeit mm/s  Geschwindigkeit, mit der die Position  
+angefahren wird  
+Füllachse_1 &_2  Start Position  Beschleunigung mm/ s2 Anfahrrampe bis zum Erreichen der  
+Endgeschwindigkeit  
+Füllachse_1 &_2  Start Position  Verzögerung mm/s2 Bremsrampe bis zum Erreichen des  
+Stillstandes  
+Füllachse_1 &_2  Stop Position  Position mm  Position der Füllachse anfährt während des 
+Füllvorgangs.  
+Füllachse_1 &_2  Stop Position  Geschwindigkeit mm/s  Geschwindigkeit, mit der die Position  
+angefahren wird  
+Füllachse_1 &_2  Stop Position  Beschleunigung mm/ s2 Anfahrrampe bis zum Erreichen der  
+Endgeschwindigkeit  
+Füllachse_1 &_2  Stop Position  Verzögerung mm/s2 Bremsrampe bis zum Erreichen des  
+Stillstandes  
+Pumpe 1  Füllvolumen  ml  Volumen das die Pumpe bei einem Takt 
+dosieren soll.   32  
+  Pumpe 1  Rückhub  
+ml  Volumen  das die Pumpe nach einem Takt 
+dosieren zurückfahren soll um ein 
+Nachtropfen zu verhindern.  
+Pumpe 1  Max. Volumen  ml  Das maximale Volumen der Pumpe.  
+Pumpe 1  Pumpen 
+Durchmesser  mm Pumpendurchmesser  
+Pumpe 2  Füllvolumen  ml  Volumen das die Pumpe bei einem Takt 
+dosieren soll.  
+Pumpe 2  Rückhub  
+ml  Volumen das die Pumpe nach einem Takt 
+dosieren zurückfahren soll um ein 
+Nachtropfen zu verhindern.  
+Pumpe 2  Max. Volumen  ml  Das maximale Volumen der Pumpe.  
+Pumpe 2  Pumpen 
+Durchmesser  mm Pumpendurchmesser  
+Inhalt Erkennung 1  Füllkontrolle  Istwert %  Aktueller Wert  
+Inhalt Erkennung 1  Füllkontrolle  Sollwert  Sollwert  
+Inhalt Erkennung 1  Füllkontrolle  Im Sollbereich  / 
+Verzögerung 
+Erkennung 1  Füllkontrolle  Zeitverzögerung ms  Zeitverzögerung bis die Erkennung startet  
+Inhalt Erkennung 2 Füllkontrolle  Istwert %  Aktueller Wert  
+Inhalt Erkennung 2 Füllkontrolle  Sollwert  Sollwert  
+Inhalt Erkennung 2 Füllkontrolle  Im Sollbereich  / 
+Verzögerung 
+Erkennung 12  Füllkontrolle  Zeitverzögerung ms  Zeitverzögerung bis die Erkennung startet  33 6.11. 4 Stopfen Setzen  
+ 
+  Komponente  Eigenschaft/Aktion  Bedeutung  
+Vakuum  Istwert mbar  Istwert des Vakuumgreifers  
+Vakuum  Sollwert mbar  Sollwert des Vakuumgreifers  
+Vakuum  Im Sollbereich  Ist das Vakuum im Sollbereich (grün) oder nicht 
+(grau) für die Erkennung, ob ein Stopfen 
+gegriffen werden konnte.  
+Fördertopf  Amplitude Topf %   
+Fördertopf  Amplitude Bahn %   
+Fördertopf  Topf 
+Einschaltverzögerung s  Verzögerung des Topfs, sobald der Sensor auf 
+der Bahn leer Signal gibt.  
+Fördertopf  Topf 
+Ausschaltverzögerung s  Auszögerung des Topfs, sobald der Sensor auf 
+der Bahn voll Signal gibt.  
+Bunker  Bunker 
+Einschaltverzögerung s  Verzögerung des Bunkers, sobald der Sensor im 
+Topf leer Signal gibt.  
+Bunker  Bunker 
+Ausschaltverzögerung s  Auszögerung des Bunkers, sobald der Sensor 
+auf im Top voll Signal gibt.  
+Hol Postiiton / Pos. vor Holen  / 
+Warte Pos. Vor Setzen /  
+Warte Pos. Nach Setzen  / 
+Pos. Steigrohrzentrierung /  
+ Setzen Position  Position Z -Achse mm  Position Z der Kinematik  
+Hol Postiiton / Pos. vor Holen /  
+Warte Pos. Vor Setzen /  
+Warte Pos. Nach Setzen /  
+Pos. Steigrohrzentrierung /  
+ Setzen Position  Position C -Achse °  Position C der Kinematik  
+Hol Postiiton  / Pos. vor Holen /  
+Warte Pos. Vor Setzen /  
+Warte Pos. Nach Setzen /  
+Pos. Steigrohrzentrierung /  
+ Setzen Position  Geschwindigkeit mm/s  Geschwindigkeit der Kinematik  
+Hol Postiiton / Pos. vor Holen /  
+Warte Pos. Vor Setzen /  
+Warte Pos. Nach Setzen /  
+Pos. S teigrohrzentrierung /  
+ Setzen Position  Beschleunigung mm/s2 Anfahrrampe bis zum Erreichen der  
+Endgeschwindigkeit  
+Hol Postiiton / Pos. vor Holen /  
+Warte Pos. Vor Setzen /  
+Warte Pos. Nach Setzen /  
+Pos. Steigrohrzentrierung /  
+ Setzen Position  Verzögerung m m/s2 Bremsrampe bis zum Erreichen des  
+Stillstandes  
+Setz Position  Kraft Z -Achse  Nm Maximal kraft des Antriebes  
+Setz Position  Kraft C -Achse  Nm  Maximalkraft des Antriebes   34 6.11.5  Verschrauben  
+ 
+ 
+Pro Einheit  
+ 
+ 
+ 
+ Komponente  Eigenschaft/Aktion  Bedeutung  
+Fördertopf  Einschaltverzögerung s  Zeit bis der Topf einschaltet wenn die Schiene leer meldet.  
+Fördertopf  Ausschaltverzögerung s  Zeit bis der Topf ausschaltet wenn die Schiene voll meldet.  
+Bunker  Einschaltverzögerung s  Zeit bis der Bunker  einschaltet wenn der Topf leer meldet.  
+Bunker  Ausschaltverzögerung s  Zeit bis der Bunker ausschaltet wenn die Topf voll meldet.  
+Komponente  Eigenschaft/Aktion  Bedeutung  
+Drehmomentregelung  Solldrehmoment Nm  Ziel Drehmoment  
+Drehmomentregelung  Umschaltdrehmoment 
+Nm Umschaltpunkt von Position auf 
+Drehmomentregelung  
+Drehmomentregelung  Gewindelänge  Gewindelänge der Flasche (Abbruchkriterium 
+für das Verschrauben)  
+Drehmomentregelung  Geschwindigkeit °/s  Drehgeschwindigkeit des C-Achse  
+Drehmomentregelung  Beschleunigung °/s2 Anfahrrampe bis zum Erreichen der  
+Endgeschwindigkeit  
+Drehmomentregelung  Vorschubkraft N  Vorschubkraft Z -Achse  
+Drehmomentregelung  Gewindesteigung mm  Verwendet für die Berechnung des Vorschubs 
+in mm  
+Komponente  Position  Eigenschaft/Aktion  Bedeutung  
+Kinematik  Holposition  Position Z mm  Position Z zum Greifen des Deckels im 
+Präsentierer.  
+Kinematik  Holposition  Position C °  Position C zum Greifen des Deckels im 
+Präsentierer.  
+Kinematik  Holposition  Geschwindigkeit mm/s  Geschwindigkeit, mit der die Position  
+angefahren wird  
+Kinematik  Holposition  Beschleunigung 
+mm/s2 Anfahrrampe bis zum Erreichen der  
+Endgeschwindigkeit  
+Kinematik  Holposition  Verzögerung mm/s2 Bremsrampe bis zum Erreichen des  
+Stillstandes  
+Kinematik  Warteposition  Position Z mm  Position Z über dem Gebinde.  
+Kinematik  Warteposition  Position C °  Position C über dem Gebinde.  
+Kinematik  Warteposition  Geschwindigkeit mm/s  Geschwindigkeit, mit der die Position  
+angefahren wird  
+Kinematik  Warteposition  Beschleunigung 
+mm/s2 Anfahrrampe bis zum Erreichen der  
+Endgeschwindigkeit  
+Kinematik  Warteposition  Verzögerung mm/s2 Bremsrampe bis zum Erreichen des  
+Stillstandes  
+Z-Achse  Deckel Setzposition  Position mm  Position, in der der Deckel gegriffen und der 
+Verschraubprozess gestartet werden kann  
+Z-Achse  Deckel Setzposition  Geschwindigkeit mm/s  Geschwindigkeit, mit der die Position  
+angefahren wird  35 6.11.6 Rezeptparameter – Auslauf Drehstern  
+ 
+ 
+ Komponente  Eigenschaft/Aktion  Bedeutung  
+Drehstern  Geschwindigkeit °/s  Geschwindigkeit des Drehsterns  
+Drehstern  Beschleunigung °/s2 Anfahrrampe bis zum Erreichen der 
+Endgeschwindigkeit des Drehsterns  
+Drehstern  Verzögerung °/s2 Bremsrampe bis zum Erreichen des  
+Stillstandes  
+NCF Position  Geschwindigkeit °/s  Geschwindigkeit des Drehsterns  
+NCF Position  Beschleunigung °/s2 Anfahrrampe bis zum Erreichen der 
+Endgeschwindigkeit des Drehsterns  
+NCF Position  Verzögerung °/s2 Bremsrampe bis zum Erreichen des  
+Stillstandes  
+CF Position  Geschwindigkeit °/s  Geschwindigkeit des Drehsterns  
+CF Position  Beschleunigung °/s2 Anfahrrampe bis zum Erreichen der 
+Endgeschwindigkeit des Drehsterns  
+CF Position  Verzögerung °/s2 Bremsrampe bis zum Erreichen des  
+Stillstandes  
+Auslaufband  Sollwert %  - 
+Auslaufband  Anfahrrampe s  Anfahrrampe bis zum Erreichen der 
+Endgeschwindigkeit des Auslaufbandes  
+Auslaufband  Nachlaufzeit s  - 
