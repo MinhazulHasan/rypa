@@ -1,12 +1,12 @@
 ### 1091_2_Sicherheit.pdf
 
-German: Welche Sicherheitsmaßnahmen sollten Betreiber ergreifen, um Unfälle zu vermeiden?
+German: Welche Sicherheitsmaßnahmen sollten Betreiber ergreifen, um Unfälle zu vermeiden? \
 English: What safety measures should operators take to prevent accidents?
 
-German: Was sind die Konsequenzen einer nicht bestimmungsgemäßen Verwendung der Maschine?
+German: Was sind die Konsequenzen einer nicht bestimmungsgemäßen Verwendung der Maschine? \
 English: What are the consequences of improper use of the machine?
 
-German: Welche Arten von Sicherheitssymbolen werden in der Bedienungsanleitung verwendet und was bedeuten sie?
+German: Welche Arten von Sicherheitssymbolen werden in der Bedienungsanleitung verwendet und was bedeuten sie? \
 English: What types of safety symbols are used in the user manual and what do they signify?
 
 ___
